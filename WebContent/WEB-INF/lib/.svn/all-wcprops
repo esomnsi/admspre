@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/it_mssp_trunk/!svn/ver/2863/trunk/WebContent/WEB-INF/lib
+END
+org.apache.xml.serializer_2.7.1.v201005080400.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.apache.xml.serializer_2.7.1.v201005080400.jar
+END
+org.springframework.web-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.web-3.0.5.RELEASE.jar
+END
+jackson-mapper-asl-1.9.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/jackson-mapper-asl-1.9.11.jar
+END
+spring-ldap-core-tiger-1.3.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-ldap-core-tiger-1.3.0.RELEASE.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-lang-2.5.jar
+END
+org.springframework.transaction-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.transaction-3.0.5.RELEASE.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/slf4j-log4j12-1.6.1.jar
+END
+servletapi-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/servletapi-2.4.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+org.apache.commons.codec_1.3.0.v201101211617.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.apache.commons.codec_1.3.0.v201101211617.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/asm-3.1.jar
+END
+commons-digester-1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-digester-1.8.1.jar
+END
+spring-binding-2.1.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-binding-2.1.0.RELEASE.jar
+END
+org.w3c.dom.smil_1.0.0.v200806040011.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.w3c.dom.smil_1.0.0.v200806040011.jar
+END
+jstl-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/jstl-1.2.jar
+END
+spring-ldap-core-1.3.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-ldap-core-1.3.0.RELEASE.jar
+END
+Tidy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/Tidy.jar
+END
+org.springframework.orm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.orm-3.0.5.RELEASE.jar
+END
+hibernate-validator-4.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/hibernate-validator-4.2.0.Final.jar
+END
+org.springframework.web.servlet-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.5.RELEASE.jar
+END
+displaytag-export-poi-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/2277/trunk/WebContent/WEB-INF/lib/displaytag-export-poi-1.2.jar
+END
+spring-security-web-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-security-web-3.0.5.RELEASE.jar
+END
+org.springframework.context-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.context-3.0.5.RELEASE.jar
+END
+spring-security-core-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-security-core-3.0.5.RELEASE.jar
+END
+spring-security-ldap-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-security-ldap-3.0.5.RELEASE.jar
+END
+poi-3.2-FINAL.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2277/trunk/WebContent/WEB-INF/lib/poi-3.2-FINAL.jar
+END
+displaytag-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2277/trunk/WebContent/WEB-INF/lib/displaytag-1.2.jar
+END
+org.apache.xml.resolver_1.2.0.v201005080400.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.apache.xml.resolver_1.2.0.v201005080400.jar
+END
+org.springframework.aop-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.aop-3.0.5.RELEASE.jar
+END
+javax.transaction.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/javax.transaction.jar
+END
+org.w3c.dom.svg_1.1.0.v201011041433.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.w3c.dom.svg_1.1.0.v201011041433.jar
+END
+quartz-1.6.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/quartz-1.6.3.jar
+END
+org.springframework.context.support-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.context.support-3.0.5.RELEASE.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/servlet-api.jar
+END
+tiles-core-2.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/tiles-core-2.1.2.jar
+END
+org.apache.xerces_2.9.0.v201101211617.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.apache.xerces_2.9.0.v201101211617.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-io-1.4.jar
+END
+antlr-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/antlr-3.1.jar
+END
+spring-security-config-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-security-config-3.0.5.RELEASE.jar
+END
+hibernate-tools-3.2.0.beta9a.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/hibernate-tools-3.2.0.beta9a.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/slf4j-api-1.6.1.jar
+END
+flute.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/flute.jar
+END
+commons-cli-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-cli-1.0.jar
+END
+spring-jdbc-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-jdbc-3.0.5.RELEASE.jar
+END
+spring-security-acl-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-security-acl-3.0.5.RELEASE.jar
+END
+spring-webflow-2.3.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-webflow-2.3.0.RELEASE.jar
+END
+derby.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/derby.jar
+END
+tiles-servlet-2.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/tiles-servlet-2.1.2.jar
+END
+org.springframework.jdbc-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.jdbc-3.0.5.RELEASE.jar
+END
+tiles-jsp-2.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/tiles-jsp-2.1.2.jar
+END
+org.w3c.css.sac_1.3.0.v200805290154.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.w3c.css.sac_1.3.0.v200805290154.jar
+END
+commons-fileupload-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar
+END
+commons-logging-api-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-logging-api-1.1.jar
+END
+javax.validation-1.0.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/javax.validation-1.0.0.GA.jar
+END
+knowledge-api-5.5.0.Beta1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/knowledge-api-5.5.0.Beta1.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/log4j-1.2.15.jar
+END
+org.springframework.js-2.0.0.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.js-2.0.0.RELEASE.jar
+END
+hibernate-annotations-3.2.1.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/hibernate-annotations-3.2.1.ga.jar
+END
+mysql-connector-java-5.1.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/mysql-connector-java-5.1.10.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/mail.jar
+END
+mvel2-2.1.3.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/mvel2-2.1.3.Final.jar
+END
+jackson-core-asl-1.9.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/jackson-core-asl-1.9.11.jar
+END
+org.springframework.asm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.asm-3.0.5.RELEASE.jar
+END
+tiles-api-2.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/tiles-api-2.1.2.jar
+END
+hibernate-core-3.3.2.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/hibernate-core-3.3.2.GA.jar
+END
+spring-security-taglibs-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/spring-security-taglibs-3.0.5.RELEASE.jar
+END
+org.springframework.beans-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.beans-3.0.5.RELEASE.jar
+END
+dom4j-full.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/dom4j-full.jar
+END
+org.springframework.expression-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.expression-3.0.5.RELEASE.jar
+END
+javax.persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/javax.persistence.jar
+END
+javax.wsdl_1.5.1.v201012040544.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/javax.wsdl_1.5.1.v201012040544.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/javassist.jar
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/js.jar
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/cglib-2.2.jar
+END
+itext-1.4.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2863/trunk/WebContent/WEB-INF/lib/itext-1.4.8.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar
+END
+org.springframework.core-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/lib/org.springframework.core-3.0.5.RELEASE.jar
+END

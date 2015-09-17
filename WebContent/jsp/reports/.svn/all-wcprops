@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/it_mssp_trunk/!svn/ver/2904/trunk/WebContent/jsp/reports
+END
+ReportView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/2886/trunk/WebContent/jsp/reports/ReportView.jsp
+END
+dependencyReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2304/trunk/WebContent/jsp/reports/dependencyReport.jsp
+END
+assumptionReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2304/trunk/WebContent/jsp/reports/assumptionReport.jsp
+END
+fteSummaryChart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/2904/trunk/WebContent/jsp/reports/fteSummaryChart.jsp
+END
+costSummaryReportChart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2897/trunk/WebContent/jsp/reports/costSummaryReportChart.jsp
+END
+staffingPyramidReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/2886/trunk/WebContent/jsp/reports/staffingPyramidReport.jsp
+END
+riskReport.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/2863/trunk/WebContent/jsp/reports/riskReport.jsp
+END
+reportFTESummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2897/trunk/WebContent/jsp/reports/reportFTESummary.jsp
+END
+reportCostSummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/2897/trunk/WebContent/jsp/reports/reportCostSummary.jsp
+END

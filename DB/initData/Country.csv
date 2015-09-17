@@ -1,0 +1,233 @@
+,AF,Afghanistan,GMT + 4:30,AFA,Afghani,RMEA,Y
+,AL,Albania,GMT + 02:00,ALL,Lek,RMED,Y
+,DZ,Algeria,GMT + 1:00,DZD,Algerian Dinar,RMED,Y
+,AS,American Samoa,GMT - 11:00,EUR,Euro,RASO,Y
+,AD,Andorra,GMT - 11:00,EUR,Euro,RMED,Y
+,AO,Angola,GMT + 1:00,AOK,Angolan Kwanza,RSSA,Y
+,AI,Anguilla,GMT - 4:00,XCD,East Carribean Dollar,RLAM,Y
+,AG,Antigua & Barbuda,GMT - 4:00,XCD,East Carribean Dollar,RLAM,Y
+,AR,Argentina,GMT - 3:00,ARP,Argentina Peso,RLAM,Y
+,AM,Armenia,GMT + 5:00,AMD,Dram,RECA,Y
+,AW,Aruba,GMT - 4:00,ANG,Antilles Guilder,RLAM,Y
+,AU,Australia,GMT + 10:00,AUD,Australian Dollar,RASO,Y
+,AT,Austria,GMT + 2:00,EUR,Euro,RWCE,Y
+,AZ,Azerbaijan,GMT + 4:00,AZM,Manat,RECA,Y
+,BS,Bahamas,GMT - 04:00,BSD,Bahamian Dollar,RLAM,Y
+,BH,Baharin,GMT + 3:00,BHD,Baharini Dinar,RMEA,Y
+,BD,Bangladesh,GMT + 6:00,BDT,Taka,RASO,Y
+,BB,Barbados,GMT - 4:00,BBD,Barbadian Dollar,RLAM,Y
+,BY,Belarus,GMT + 3:00,BYR,Belarus Ruble,RECA,Y
+,BE,Belgium,GMT + 2:00,EUR,Euro,RWCE,Y
+,BZ,Belize,GMT - 6:00,BZD,Belizean Dollar,RLAM,Y
+,BJ,Benin,GMT + 1:00,XOF,CFA Franc,RSSA,Y
+,BM,Bermuda,GMT - 03:00,BMD,Bermudian Dollar,RLAM,Y
+,BT,Bhutan,GMT + 6:00,INR,Indian Rupee,RINA,Y
+,BO,Bolivia,GMT - 4:00,BOB,Boliviano,RLAM,Y
+,BA,Bosnia & Herzegownia,GMT + 02:00,BAM,Marka,RWCE,Y
+,BW,Botswana,GMT + 2:00,BWP,Pula,RSSA,Y
+,BV,Bouvet Island,GMT + 01:00,NOK,Norweigan Kroner,RLAM,Y
+,BR,Brazil,GMT - 03:00,BRL,Brazilian Real,RLAM,Y
+,,British Indian Ocean Territory,GMT + 6:00,USD,US Dollar,RLAM,Y
+,BN,Brunei Darussalam,GMT + 8:00,BND,Bruneian Dollar,RASO,Y
+,BG,Bulgaria,GMT + 3:00,BGL,Lev,RMED,Y
+,BF,Burkina Faso,GMT + 00:00,XOF,CFA Franc,RSSA,Y
+,BI,Burundi,GMT + 2:00,BIF,Burundi Franc,RSSA,Y
+,KH,Cambodia,GMT + 7:00,KHR,Riel,RASO,Y
+,CM,Cameroon,GMT + 1:00,XAF,CFA Franc,RSSA,Y
+,CA,Canada,GMT - 04:00,CAD,Canadian Dollar,RNAM,Y
+,CV,Cape Verde,GMT - 1:00,CVE,Escudo,RSSA,Y
+,KY,Cayman Islands,GMT - 5:00,KYD,Caymanian Dollar,RLAM,Y
+,CF,Central African Republic,GMT + 1:00,XAF,CFA Franc,RSSA,Y
+,TD,Chad,GMT + 1:00,XAF,CFA Franc,RSSA,Y
+,CL,Chile,GMT - 04:00,CLP,Chilean Peso,RLAM,Y
+,CN,China,GMT + 8:00,RMB,Yuan Renminbi,RCNA,Y
+,CX,Christmas Island,GMT + 7:00,AUD,Australian Dollar,RASO,Y
+,CC,Cocos Islands,GMT + 06:30,AUD,Australian Dollar,RASO,Y
+,CO,Colombia,GMT - 5:00,COP,Colombia Peso,RLAM,Y
+,KM,Comoros,GMT + 3:00,KMF,Comoran Franc,RSSA,Y
+,CG,Congo Republic,GMT + 1:00,XAF,CFA Franc,RSSA,Y
+,CD,Congo - Brazaville,GMT + 1:00,CDF,Congolese Franc,RSSA,Y
+,CK,Cook Islands,GMT - 8:00,NZD,NewZealand Dollar,RASO,Y
+,CR,Costa Rica,GMT - 6:00,CRC,Costa Rica Colon,RLAM,Y
+,HR,Croatia,GMT + 02:00,HRK,Croatian Dinar,RWCE,Y
+,CU,Cuba,GMT - 04:00,CUP,Cuban Peso,RLAM,Y
+,CY,Cyprus,GMT + 3:00,CYP,Cypriot Pound,RMED,Y
+,CZ,Czech Republic,GMT + 2:00,CZK,Koruna,RWCE,Y
+,DK,Denmark,GMT + 2:00,DKK,Danish Kroner,RECA,Y
+,DJ,Djibouti,GMT + 3:00,DJF,Dijboutian Franc,RMEA,Y
+,DM,Dominica,GMT - 4:00,XCD,East Carribean Dollar,RLAM,Y
+,DO,Dominican Republic,GMT - 4:00,DOP,Dominican Peso,RLAM,Y
+,,East Timor,GMT + 9:00,IDR,Indonesian Rupiah,RASO,Y
+,EC,Ecuador,GMT - 5:00,ECS,Sucre,RLAM,Y
+,EG,Egypt,GMT + 03:00,EGP,Egyptian Pound,RMEA,Y
+,SV,El Salvador,GMT - 6:00,SVC,Salvadoran Colon,RLAM,Y
+,GQ,Equatorial Guinea,GMT + 1:00,XAF,CFA Franc,RSSA,Y
+,ER,Eritrea,GMT + 3:00,ERN,Nakfa,RMEA,Y
+,EE,Estonia,GMT + 3:00,EEK,Estonian Croon,RECA,Y
+,ET,Ethiopia,GMT + 2:00,ETB,Birr,RMEA,Y
+,FK,Falkland Islands,GMT - 04:00,FKP,Falkland Pound,RLAM,Y
+,FO,Faroe Islands,GMT + 01:00,DKK,Danish Kroner,RECA,Y
+,FJ,Fiji,GMT + 11:00,FJD,Fijian Dollar,RASO,Y
+,FI,Finland,GMT + 3:00,EUR,Euro,RECA,Y
+,FR,France,GMT + 2:00,EUR,Euro,RMED,Y
+,GF,French Guiana,GMT - 03:00,EUR,Euro,RLAM,Y
+,PF,French Polynesia,GMT - 10:00,XPF,CFP Franc,RASO,Y
+,TF,French Southern Territories,GMT + 05:00,EUR,Euro,RASO,Y
+,GA,Gabon,GMT + 1:00,XAF,CFA Franc,RSSA,Y
+,GM,Gambia,GMT + 00:00,GMD,Dalasi,RSSA,Y
+,GE,Georgia,GMT + 4:00,GEL,Lari,RECA,Y
+,DE,Germany,GMT + 2:00,EUR,Euro,RWCE,Y
+,GH,Ghana,GMT + 00:00,GHC,Cedi,RSSA,Y
+,GI,Gibraltar,GMT + 02:00,GIP,Gibraltar Pound,RMED,Y
+,GR,Greece,GMT + 3:00,EUR,Euro,RMED,Y
+,GL,Greenland,GMT - 02:00,DKK,Danish Kroner,RECA,Y
+,GD,Grenada,GMT - 4:00,XCD,East Carribean Dollar,RLAM,Y
+,GP,Guadeloupe,GMT - 04:00,EUR,Euro,RLAM,Y
+,GU,Guam,GMT + 10:00,USD,US Dollar,RASO,Y
+,GT,Guatemala,GMT - 6:00,GTQ,Quetzal,RLAM,Y
+,GN,Guinea,GMT + 1:00,GNF,Guinean Franc,RSSA,Y
+,GW,Guinea-Bissau,GMT + 00:00,XOF,CFA Franc,RSSA,Y
+,GY,Guyana,GMT - 4:00,GYD,Guyanese Dollar,RLAM,Y
+,HT,Haiti,GMT - 5:00,USD,US Dollar,RLAM,Y
+,HM,Heard&McDonald Islands,GMT + 05:00,AUD,Australian Dollar,RASO,Y
+,HN,Honduras,GMT - 6:00,HNL,Lempira,RLAM,Y
+,,Hong Kong,GMT + 8:00,HKD,Hong Kong Dollar,RCNA,Y
+,HU,Hungary,GMT + 2:00,HUF,Forint,RWCE,Y
+,IS,Iceland,GMT + 00:00,ISK,Icelandic Kroner,RECA,Y
+,IN,India,GMT + 5:30,INR,Indian Rupee,RINA,Y
+,,Indonesia,GMT + 7:00,IDR,Indonesian Rupiah,RASO,Y
+,IR,Iran,GMT + 04:30,IRR,Rial,RMEA,Y
+,IQ,Iraq,GMT + 03:00,IQD,Dinar,RMEA,Y
+,IE,Ireland,GMT + 1:00,EUR,Euro,RWCE,Y
+,IL,Israel,GMT + 03:00,ILS,Shekel,RMED,Y
+,IT,Italy,GMT + 2:00,EUR,Euro,RMED,Y
+,,Ivory Coast,GMT + 00:00,XOF,CFA Franc,,Y
+,JM,Jamaica,GMT - 5:00,JMD,Jamaican Dollar,RLAM,Y
+,,Japan,GMT + 9:00,JPY,Yen,RCNA,Y
+,JO,Jordan,GMT + 03:00,JOD,Jordainan Dinar,RMEA,Y
+,KZ,Kazakhstan,GMT + 6:00,KZT,Tenge,RECA,Y
+,KE,Kenya,GMT + 3:00,KES,Kenyan Shilling,RSSA,Y
+,KI,Kiribati,GMT + 12:00,AUD,Australian Dollar,RASO,Y
+,KP,"Korea, North",GMT + 9:00,KPW,Won,RCNA,Y
+,KR,"Korea, South",GMT + 9:00,KRW,Won,RCNA,Y
+,KW,Kuwait,GMT + 3:00,KWD,Kuwaiti Dinar,RMEA,Y
+,KG,Kyrgyzstan,GMT + 6:00,KGS,Som,RECA,Y
+,LA,Laos,GMT + 7:00,LAK,Kip,RASO,Y
+,LV,Latvia,GMT + 3:00,LVL,Lat,RECA,Y
+,LB,Lebanon,GMT + 03:00,LBP,Lebanese Pound,RMEA,Y
+,LS,Lesotho,GMT + 2:00,LSL,Loti,RSSA,Y
+,LR,Liberia,GMT + 00:00,LRD,Liberian Dollar,RSSA,Y
+,LY,Libya,GMT + 2:00,LYD,Libyan Dinar,RMED,Y
+,LI,Liechtenstein,GMT + 02:00,CHF,Swiss Franc,RWCE,Y
+,LT,Lithuania,GMT + 3:00,LTL,Lita,RECA,Y
+,LU,Luxembourg,GMT + 2:00,EUR,Euro,RWCE,Y
+,,Macau,GMT + 08:00,MOP,Pataca,RCNA,Y
+,MK,Macedonia,GMT + 02:00,MKD,Denar,RMED,Y
+,MG,Madagascar,GMT + 3:00,MGF,Malagasy Franc,RSSA,Y
+,MW,Malawi,GMT + 2:00,MWK,Malawian Kwacha,RSSA,Y
+,MY,Malaysia,GMT + 8:00,MYR,Ringgit,RASO,Y
+,MV,Maldives,GMT + 5:00,MVR,Rufiyaa,RASO,Y
+,ML,Mali,GMT + 00:00,XOF,CFA Franc,RSSA,Y
+,MT,Malta,GMT + 2:00,MTL,Maltese Lira,RMED,Y
+,MH,Marshall Islands,GMT + 00:00,USD,US Dollar,RASO,Y
+,MQ,Martinique,GMT - 04:00,EUR,Euro,RLAM,Y
+,MR,Mauritinia,GMT + 00:00,MRO,Ouguiya,RMED,Y
+,MU,Mauritius,GMT + 4:00,MUR,Mauritian Rupee,RSSA,Y
+,YT,Mayotte,GMT + 03:00,EUR,Euro,RSSA,Y
+,MX,Mexico,GMT - 05:00,MXP,Mexican Peso,RLAM,Y
+,,Micronesia,GMT + 10:00,USD,US Dollar,RASO,Y
+,FM,Moldova,GMT + 3:00,MDL,Leu,RASO,Y
+,MC,Monaco,GMT + 02:00,EUR,Euro,RMED,Y
+,MN,Mongolia,GMT + 8:00,MNT,Tugrik,RECA,Y
+,MS,Montsterrat,GMT - 04:00,XCD,East Carribean Dollar,RLAM,Y
+,MA,Morocco,GMT + 01:00,MAD,Dirham,RMED,Y
+,MZ,Mozambique,GMT + 2:00,MZM,Metical,RSSA,Y
+,MM,Myanmar,GMT + 06:30,MMK,Kyat,RASO,Y
+,NA,Namibia,GMT + 01:00,ZAR,South African Rand,RSSA,Y
+,NR,Nauru,GMT + 12:00,AUD,Australian Dollar,RASO,Y
+,NP,Nepal,GMT + 05:45,NPR,Nepalese Rupee,RINA,Y
+,NL,Netherlands,GMT + 2:00,EUR,Euro,RWCE,Y
+,,Netherlands Antilles,GMT - 04:00,ANG,Antillean Guilder,RWCE,Y
+,NC,New Caledonia,GMT + 11:00,XPF,CFP Franc,RMED,Y
+,NZ,New Zealand,GMT + 12:00,NZD,New Zealand Dollar,RASO,Y
+,NI,Nicaragua,GMT - 6:00,NIO,Cordoba Oro,RLAM,Y
+,NE,Niger,GMT + 1:00,XOF,CFA Franc,RSSA,Y
+,NG,Nigeria,GMT + 1:00,NGN,Naira,RSSA,Y
+,NU,Niue,GMT - 11:00,NZD,New Zealand Dollar,RASO,Y
+,NF,Norfolk Island,GMT + 11:30,AUD,Australian Dollar,RASO,Y
+,MP,Northern Mariana Island,GMT + 10:00,USD,US Dollar,RASO,Y
+,NO,Norway,GMT + 2:00,NOK,Norwegian Kroner,RECA,Y
+,OM,Oman,GMT + 4:00,OMR,Sul Rial,RMEA,Y
+,PK,Pakistan,GMT + 5:00,PKR,Pakistan Rupee,RMEA,Y
+,PW,Palau,GMT + 9:00,USD,US Dollar,RASO,Y
+,PA,Panama,GMT - 5:00,USD,US Dollar,RLAM,Y
+,PG,Papua New Guinea,GMT + 10:00,PGK,Kina,RASO,Y
+,PY,Paraguay,GMT - 04:00,PYG,Guarani,RLAM,Y
+,PE,Peru,GMT - 5:00,PEN,Nuevo Sol,RLAM,Y
+,PH,Philippines,GMT + 8:00,PHP,Philippines Peso,RASO,Y
+,PN,Pitcairn,GMT - 8:00,NZD,New Zealand Dollar,RASO,Y
+,PL,Poland,GMT + 2:00,PLN,Zloty,RWCE,Y
+,PT,Portugal,GMT + 1:00,EUR,Euro,RMED,Y
+,PR,Puerto Rico,GMT - 4:00,USD,US Dollar,RLAM,Y
+,QA,Qatar,GMT + 3:00,QAR,Rial,RMEA,Y
+,RE,Reunion,GMT + 04:00,EUR,Euro,RSSA,Y
+,RO,Romania,GMT + 3:00,ROL,Leu,RMED,Y
+,RU,Russian Federation,GMT + 04:00,RUR,Ruble,RECA,Y
+,RW,Rwanda,GMT + 2:00,RWF,Rwanda Franc,RSSA,Y
+,KN,Saint Kitts,GMT - 04:00,XCD,East Carribean Dollar,RLAM,Y
+,LC,Saint Lucia,GMT - 4:00,XCD,East Carribean Dollar,RLAM,Y
+,VC,Saint Vincent Grenadines,GMT - 04:00,XCD,East Carribean Dollar,RLAM,Y
+,WS,Samoa,GMT - 11:00,WST,Samoan Tala,RASO,Y
+,SM,San Marino,GMT + 02:00,EUR,Euro,RMED,Y
+,ST,Sao Tome & Principe,GMT + 00:00,STD,Dobra,RSSA,Y
+,SA,Saudi Arabia,GMT + 3:00,SAR,Riyal,RMEA,Y
+,SN,Senegal,GMT + 00:00,XOF,CFA Franc,RSSA,Y
+,SC,Seychelles,GMT + 4:00,SCR,Rupee,RSSA,Y
+,SL,Sierra Leone,GMT + 00:00,SLL,Leone,RSSA,Y
+,SG,Singapore,GMT + 8:00,SGD,Singapore Dollar,RASO,Y
+,SK,Slovakia,GMT + 2:00,SKK,Slovak Koruna,RWCE,Y
+,SI,Slovenia,GMT + 2:00,EUR,Euro,RWCE,Y
+,SB,Solomon Islands,GMT + 11:00,SBD,Solomon Islands Dollar,RASO,Y
+,SO,Somalia,GMT + 3:00,SOS,Shilling,RMEA,Y
+,ZA,South Africa,GMT + 2:00,ZAR,South African Rand,RSSA,Y
+,,South Georgia,GMT - 2:00,GBP,Pound Sterling,RECA,Y
+,ES,Spain,GMT + 2:00,EUR,Euro,RMED,Y
+,LK,Sri Lanka,GMT + 6:00,LKR,Lankan Rupee,RASO,Y
+,SD,Sudan,GMT + 3:00,SDD,Dinar,RMEA,Y
+,SR,Suriname,GMT - 3:00,SRG,Surinamese Guilder,RLAM,Y
+,SJ,Svalbard,GMT + 02:00,NOK,Norweigan Kroner,RECA,Y
+,SZ,Swaziland,GMT + 2:00,SZL,Lilangeni,RSSA,Y
+,S1,Sweden,GMT + 2:00,SEK,Swedish Kroner,RECA,Y
+,CH,Switzerland,GMT + 2:00,CHF,Swiss Franc,RWCE,Y
+,SY,Syrian Arab Republic,GMT + 03:00,SYP,Syrian Pound,RMEA,Y
+,TW,Taiwan,GMT + 8:00,TWD,Taiwan Dollar,RCNA,Y
+,TJ,Tajikistan,GMT + 5:00,TJS,Somoni,RECA,Y
+,TZ,Tanzania,GMT + 3:00,TZS,Shilling,RSSA,Y
+,TH,Thailand,GMT + 7:00,THB,Baht,RASO,Y
+,TG,Togo,GMT + 00:00,XOF,CFA Franc,RSSA,Y
+,TK,Tokelau,GMT - 10:00,NZD,New Zealand Dollar,RASO,Y
+,TO,Tonga,GMT + 13:00,TOP,Pa'anga,RASO,Y
+,TT,Trinidad & Tobago,GMT - 4:00,TDD,Trinidad & Tobago Dollar,RLAM,Y
+,TN,Tunisia,GMT + 01:00,TND,Tunisian Dinar,RMED,Y
+,TR,Turkey,GMT + 3:00,TRL,Lira,RMEA,Y
+,TM,Turkmenistan,GMT + 5:00,TMM,Manat,RECA,Y
+,TC,Turks & Caicos Islands,GMT - 04:00,USD,US Dollar,RLAM,Y
+,TV,Tuvalu,GMT + 12:00,AUD,Australian Dollar,RASO,Y
+,UG,Uganda,GMT + 3:00,UGX,Shilling,RSSA,Y
+,UA,Ukraine,GMT + 3:00,UAH,Hryvnia,RECA,Y
+,AE,United Arab Emirates,GMT + 4:00,AED,Dirham,RMEA,Y
+,GB,United Kingdom,GMT + 1:00,GBP,Pound Sterling,RWCE,Y
+,US,United States,GMT - 04:00,USD,US Dollar,RNAM,Y
+,UY,Uruguay,GMT - 03:00,UYU,Uruguay Peso,RLAM,Y
+,UZ,Uzbekistan,GMT + 5:00,UZS,Som,RECA,Y
+,VU,Vanuatu,GMT + 11:00,VUV,Vatu,RASO,Y
+,,Vatican City State,GMT + 02:00,EUR,Euro,RMED,Y
+,VE,Venezuela,GMT - 4:00,VEB,Bolivar,RLAM,Y
+,VN,Vietnam,GMT + 7:00,USD,US Dollar,RASO,Y
+,VI,Virgin Islands,GMT - 4:00,USD,US Dollar,RLAM,Y
+,WF,Wallis & Futuna Islands,GMT + 12:00,XPF,CFP Franc,RASO,Y
+,EH,Western Sahara,GMT + 08:00,MAD,Moroccan Dirham,RMED,Y
+,YE,Yemen,GMT + 3:00,YER,Yemen Rial,RMEA,Y
+,,Yugoslavia,,YUN,New Dinar,,Y
+,ZM,Zambia,GMT + 2:00,ZMK,Kwacha,RSSA,Y
+,ZW,Zimbabwe,GMT + 2:00,ZWD,Zimbabwe Dollar,RSSA,Y

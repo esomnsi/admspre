@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2590/trunk/src/com/ericsson/mssp/volumetric/forms
+END
+SecurityManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2285/trunk/src/com/ericsson/mssp/volumetric/forms/SecurityManagementForm.java
+END
+ProgramManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2260/trunk/src/com/ericsson/mssp/volumetric/forms/ProgramManagementForm.java
+END
+ConfigurationManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/it_mssp_trunk/!svn/ver/2285/trunk/src/com/ericsson/mssp/volumetric/forms/ConfigurationManagementForm.java
+END
+ServiceAssuranceForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/2436/trunk/src/com/ericsson/mssp/volumetric/forms/ServiceAssuranceForm.java
+END
+AvailabilityManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/2285/trunk/src/com/ericsson/mssp/volumetric/forms/AvailabilityManagementForm.java
+END
+ApplicationMaintenenceOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/it_mssp_trunk/!svn/ver/2590/trunk/src/com/ericsson/mssp/volumetric/forms/ApplicationMaintenenceOutput.java
+END
+DesignForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2223/trunk/src/com/ericsson/mssp/volumetric/forms/DesignForm.java
+END
+ProductAppTestingResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/it_mssp_trunk/!svn/ver/2702/trunk/src/com/ericsson/mssp/volumetric/forms/ProductAppTestingResponse.java
+END
+PostReleaseActivitiesForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/it_mssp_trunk/!svn/ver/2224/trunk/src/com/ericsson/mssp/volumetric/forms/PostReleaseActivitiesForm.java
+END
+DesignAndBuildForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/2246/trunk/src/com/ericsson/mssp/volumetric/forms/DesignAndBuildForm.java
+END
+ReleaseManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2260/trunk/src/com/ericsson/mssp/volumetric/forms/ReleaseManagementForm.java
+END
+ChangeManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/2264/trunk/src/com/ericsson/mssp/volumetric/forms/ChangeManagementForm.java
+END
+TicketDistributionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2557/trunk/src/com/ericsson/mssp/volumetric/forms/TicketDistributionForm.java
+END
+DemandSupportForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/2221/trunk/src/com/ericsson/mssp/volumetric/forms/DemandSupportForm.java
+END
+ProductVolumetricResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/it_mssp_trunk/!svn/ver/2296/trunk/src/com/ericsson/mssp/volumetric/forms/ProductVolumetricResponse.java
+END
+AppMainSlaForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2557/trunk/src/com/ericsson/mssp/volumetric/forms/AppMainSlaForm.java
+END
+ProductEstimationInputResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/it_mssp_trunk/!svn/ver/2572/trunk/src/com/ericsson/mssp/volumetric/forms/ProductEstimationInputResponse.java
+END
+SupportActivityForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2557/trunk/src/com/ericsson/mssp/volumetric/forms/SupportActivityForm.java
+END
+CapacityManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2285/trunk/src/com/ericsson/mssp/volumetric/forms/CapacityManagementForm.java
+END
+AccessManagementForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1879/trunk/src/com/ericsson/mssp/volumetric/forms/AccessManagementForm.java
+END
+BuildForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/2220/trunk/src/com/ericsson/mssp/volumetric/forms/BuildForm.java
+END
+DeploymentRollOutForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2222/trunk/src/com/ericsson/mssp/volumetric/forms/DeploymentRollOutForm.java
+END

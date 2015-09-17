@@ -1,0 +1,1447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="shortcut icon" href="../images/favicon.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ADM-PRE Help</title>
+</head>
+<link rel="stylesheet" type="text/css" href="../css/main.css"/>
+<link rel="stylesheet" type="text/css" href="../css/diQuery-collapsiblePanel.css" />
+<link rel="stylesheet" type="text/css" href="../css/ui.all.css" />
+<link rel="stylesheet" type="text/css" href="../css/bannerStyle.css" />
+<link rel="stylesheet" type="text/css" href="../css/landingPageStyle.css" />
+
+<link type="text/css" href="../css/helpjquery-ui.css" rel="stylesheet" />
+<link type="text/css" href="../css/helpMenu.css" rel="stylesheet" />
+<script type="text/javascript" src="../js/jquery-1.8.2.js"></script>
+<script type="text/javascript" src="../js/jquery-ui.js"></script>
+
+
+
+<style type="text/css">
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+p{ padding:0 0 0 10px; line-height:18px;}
+
+.helpTD{
+ 	font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	padding-left:10px;
+	/* background-color: #FFFFFF; */
+ }
+
+
+.helpTxt{
+    border: 1px solid #D6D6D6;
+    font-family: arial;
+    font-size: 13px;
+    height: 22px;
+    border-radius: 5px;
+    border-color: #AAAAFF;
+}
+
+
+.helpTableBorder{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+/*	font-style:italic;
+*/  	color: #333333;
+	font-family: arial;
+    /* background-color:#f7f7f7; grey*/
+    border-color: #AAAAFF;
+	border:none;
+    
+}
+
+.helpTableBorder1{
+    border: 1px solid #e4e4e4;
+    
+    font-size: 12px;   	
+	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+    /* background-color:#E5E4E2; */
+    background-color:#fff;
+    border-radius: 4px;
+    
+}
+
+.helpTableBorderNew{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 9px;
+  	text-align:left;
+   	height:15px;
+  	color: #FFFFFF;
+	font-weight:normal;
+	font-family: "Ericsson Capital TT";
+   	background:url(bgImg.jpg) top left no-repeat;
+    border-color: #AAAAFF;
+	border:none;
+    
+}
+
+.helpTableBorder2{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	background-color:#FFFFFF;
+    border-radius: 5px;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    
+}
+
+.helpTableBorder3{
+    border: 1px solid #e4e4e4;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	padding-left:10px;
+    /* background-color:#C0C0C0; */
+     background-color:#fff;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.helpTableBorder3-5{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	
+    /* background-color:#B6B6B4; */
+    background-color:#EEEEFF;
+    border-radius: 7px;
+    border-color: #AAAAFF;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.helpTableBorder4{
+	    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	
+    /* background-color:#B6B6B4; */
+    background-color:#EEEEFF;
+    border-radius: 7px;
+    border-color: #AAAAFF;
+    margin-left: 30px;
+    margin-right: 30px;  
+}
+
+.Tabs{
+				padding-top:0px;
+		    	padding-bottom:9px;
+		    	-webkit-box-shadow:0 5px 8px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+		       	-moz-box-shadow:0 5px 8px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+		        box-shadow:0 5px 8px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+		    }
+
+.helpTableBorder5{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style:italic;
+    font-size: 12px;
+}
+
+</style>
+
+<script type="text/javascript">
+
+$(function() {
+    $( "#accordion" ).accordion({
+      event: "click hoverintent"
+    });
+  });
+ 
+  
+  $.event.special.hoverintent = {
+    setup: function() {
+      $( this ).bind( "mouseover", jQuery.event.special.hoverintent.handler );
+    },
+    teardown: function() {
+      $( this ).unbind( "mouseover", jQuery.event.special.hoverintent.handler );
+    },
+    handler: function( event ) {
+      var currentX, currentY, timeout,
+        args = arguments,
+        target = $( event.target ),
+        previousX = event.pageX,
+        previousY = event.pageY;
+ 
+      function track( event ) {
+        currentX = event.pageX;
+        currentY = event.pageY;
+      };
+ 
+      function clear() {
+        target
+          .unbind( "mousemove", track )
+          .unbind( "mouseout", clear );
+        clearTimeout( timeout );
+      }
+ 
+      function handler() {
+        var prop,
+          orig = event;
+ 
+        if ( ( Math.abs( previousX - currentX ) +
+            Math.abs( previousY - currentY ) ) < 7 ) {
+          clear();
+ 
+          event = $.Event( "hoverintent" );
+          for ( prop in orig ) {
+            if ( !( prop in event ) ) {
+              event[ prop ] = orig[ prop ];
+            }
+          }
+          // Prevent accessing the original event since the new event
+          // is fired asynchronously and the old event is no longer
+          // usable (#6028)
+          delete event.originalEvent;
+ 
+          target.trigger( event );
+        } else {
+          previousX = currentX;
+          previousY = currentY;
+          timeout = setTimeout( handler, 100 );
+        }
+      }
+ 
+      timeout = setTimeout( handler, 100 );
+      target.bind({
+        mousemove: track,
+        mouseout: clear
+      });
+    }
+  };
+ 
+  function displayDiv(id){
+	 
+	  document.getElementById("opportunity").style.display = "none";
+	  document.getElementById("defScope").style.display = "none";
+	  document.getElementById("lCost").style.display = "none";
+	  document.getElementById("nlCost").style.display = "none";
+	  document.getElementById("inclADR").style.display = "none";
+	  document.getElementById("reports").style.display = "none";
+	  document.getElementById("staffPlan").style.display = "none";
+	  document.getElementById("tTD").style.display = "none";
+	  document.getElementById("revFTE").style.display = "none";
+	  document.getElementById("appSolLev").style.display = "none";
+	  document.getElementById("ajdComplex").style.display = "none";
+	  document.getElementById("inBline").style.display = "none";
+	  document.getElementById("myAction").style.display = "none";
+	  document.getElementById("openSol").style.display = "none";
+	  document.getElementById("userManage").style.display = "none";
+	  document.getElementById("solManage").style.display = "none";
+	  document.getElementById("approvManage").style.display = "none";
+	  document.getElementById("rateManage").style.display = "none";
+	  document.getElementById("ls").style.display = "none";
+	  document.getElementById("ds").style.display = "none";
+	  document.getElementById("spr").style.display = "none";
+	  document.getElementById("sar").style.display = "none";
+	  document.getElementById("sps").style.display = "none";
+	  document.getElementById("sa").style.display = "none";
+	  document.getElementById("dra").style.display = "none";
+	  
+	  document.getElementById(id).style.display = "block";
+  }
+  
+  
+  </script>
+
+</head>
+<body>
+
+<div style="width: 1112px;margin-left: 155px;height: 500px;">
+	<div style="text-align: center;
+				border: 1px solid #D6D6D6;
+				font-size: 20px;
+				width: 1112px;
+				height: 45px;
+				padding-top: 15px;
+				float: left;
+				border: none;
+				border-color:#AAAAFF;
+				background:url(bgImg.jpg) top left no-repeat;
+				font-weight:normal;
+				color: #FFFFFF;">
+		WELCOME TO ADM PRE HELP !!
+	</div>
+	
+	
+	
+	<div style="width: 250px;float: left;">
+	<div style="text-align: left;
+				width: 217px;
+				height: 37px;
+				border: none;
+				border-color:#AAAAFF;
+				background:url(bgImg.jpg) top left no-repeat;
+				font-weight:normal;
+				color: #FFFFFF;
+				margin-top: 5px;
+				padding-top: 13px;
+				padding-left: 33px;">
+		Help Topic
+	</div>
+	
+	<div id="accordion" style="width: 250px;">
+		<h3 style="font-size: 14px;text-align: left;">Create New Solution</h3>
+  		<div  class="SubPanelsList" style="font-size: 12px;padding-top: 0px;padding-bottom: 0px;">
+	    	<p>
+			   <ul>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('opportunity')">Opportuntiy</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('defScope')">Define Scope</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('inBline')">Input Baseline</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('ajdComplex')">Adjust Complexity</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('appSolLev')">Apply Solution Levers</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('revFTE')">Review FTE</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('tTD')">T&T Design</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('staffPlan')">Staffing Plan</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('lCost')">Labor Cost</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('nlCost')">Non Labor Cost</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('inclADR')">Include A-D-R</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('reports')">Reports</a></li>
+			    </ul>
+	    	</p>
+  		</div>
+  		<h3 style="font-size: 14px;text-align: left;">Open Opportunity</h3>
+	  	<div style="font-size: 12px; padding-top: 0px;padding-bottom: 0px;" class="SubPanelsList">
+	    	<p>
+			  <ul>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('openSol')">Description</a></li>
+			    </ul>
+	    	</p>
+	  	</div>
+	  	<h3 style="font-size: 14px;text-align: left;">Admin</h3>
+	  	<div style="font-size: 12px;padding-top: 0px;padding-bottom: 0px;" class="SubPanelsList">
+	    	<p>
+			   <ul>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('userManage')">User Management</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('solManage')">Solution Management</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('approvManage')">Approver Management</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('rateManage')">Rate Management</a></li>
+			    </ul>
+	    	</p>
+	  	</div>
+	  	<h3 style="font-size: 14px;text-align: left;">Dashboard</h3>
+	  	<div style="font-size: 12px;padding-top: 0px;padding-bottom: 0px;" class="SubPanelsList">
+	    	<p>
+			   <ul>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('ls')">List Solutions</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('ds')">Deal Statistics</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('spr')">Signing Potential Report</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('sar')">Scope Analysis Report</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('sps')">Staff Pyramid Store</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('sa')">Scope Analysis</a></li>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('dra')">Daily Rate Analysis</a></li>
+			   </ul>
+	    	</p>
+	  	</div>
+	  	<h3 style="font-size: 14px;text-align: left;">My Action</h3>
+	  	<div style="font-size: 12px;padding-top: 0px;padding-bottom: 0px;" class="SubPanelsList">
+	    	<p>
+	    		<ul>
+			      <li><a href="#" style="text-decoration: none;" onclick="displayDiv('myAction')">Description</a></li>
+			    </ul>
+	    	</p>
+	  	</div>
+	  	
+	</div>
+	</div>
+	
+	<div style="height: 577px;width: 857px;margin-left: 5px;float: left;margin-top: 5px;">
+		<div style="text-align: center;
+				width: 824px;
+				height: 37px;
+				border: none;
+				border-color:#AAAAFF;
+				background:url(bgImg.jpg) top left no-repeat;
+				font-weight:normal;
+				color: #FFFFFF;
+				padding-top: 13px;
+				padding-left: 33px;">
+		Description
+	</div>
+		<div class="Tabs" id="opportunity" 
+			style="margin-top: 0px;padding-top: 5px;padding-left: 4px;height: 512px;
+			font-family: sans-serif;font-size: 13px;text-align: justify;display: block;overflow: auto;">
+			<h3 style="margin-top: 0px;">Opportunity</h3>
+				Solution Manager creates a new opporuntiy, which is later associated with possible solutions.
+				The data required for initiating of creating opporuntiy is captured here. 
+				After initiating the opportunity, the complete details for an 
+				opporunity are then captured in the subsequent steps. The following are the major steps involved 
+				in Complete Opportunity Creation:
+			<ul>
+				<li>Opportunity Details</li>
+				<li>Customer & Comp</li>
+				<li>Location Profile</li>
+				<li>Project Delivery</li>
+				<li>Ericsson Personnel</li>
+			</ul>
+			The user specifies
+			the opportunity name, the country for which the opportunity is being created and the customer name as well.
+			After the user has mentioned the mandatory parameters the user can specify the Service Delivery Points 
+			here as parameters, but not being manadatory. The commercial model used and opportunity source along with
+			needed comments can also be specified.
+			The following are the input parameters which constitutes the opportunity initiation:
+			<ul>
+				<li>Opportunity Name - Mandatory</li>
+				<li>Customer Name - Mandatory</li>
+				<li>Owning Country - Mandatory</li>
+				<li>SDP - 0</li>
+				<li>SDP - 1</li>
+				<li>SDP - 2</li>
+				<li>Submission To Customer</li>
+				<li>Opportunity Source</li>
+				<li>Commercial Model</li>
+				<li>Comments</li>
+			</ul>
+			The following are the Actions which enable user to perform a travesal through the entire opportunity,
+			in case it has already been created or reaches to the next of previous level as per the selection in case the oppotunity
+			is being created for the first time:
+			<ul>
+				<li>Next -  Migrates to the next step in oppportuntiy creation</li>
+				<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+				<li>Create New - Intiates a new opportunity</li>
+			</ul>
+			
+			<h3 style="margin-top: 0px;">Opportunity Details</h3>
+				The solution manager after having initiated the opportunity in the previous step is accepted to fill in all the details
+				which are mandatory as to complete the process of Opportunity Creation. As mentioned in the above sections there 
+				are a number of parameters which needs to be populated, are segregated under different headings.
+				For Opportunity Details following are the parameters which are expected to be populated, although there are a few parameters
+				which are already populated in the opporuntiy initiation step:
+				
+				<ul>
+					<li>Opportunity Name - Mandatory - Already Populated in the initiation step</li>
+					<li>Customer Name - Mandatory -  Already Populated in the initiation step</li>
+					<li>Opportunity Owner - Mandatory</li>
+					<li>Existing Customer</li>
+					<li>CRM 360 ID - Mandatory</li>
+					<li>New Business</li>
+				</ul>
+				
+				Under this section also there a few mandatory parameters and some non mandatory ones as mentioned. The field CRM 360 ID
+				is mandatory and is used for integrating with the application CRM 360.
+				By clicking the button to choose the opportunty owner, there is a pop window which will enlist all the possible
+				options based on the search criterias provided and these all entries are search on LDAP Directory of Ericsson.  
+				
+				The following are the Actions which enable user to perform certain activities, which enable users to walk through steps involved 
+				in opporutniy creation or viewing:
+				<ul>
+					<li>Next -  Migrates to the next step in oppportuntiy creation</li>
+					<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+					<li>Save - Saves the values of input field to database</li>
+					<li>Previous - To previous step</li>
+				</ul>
+			
+			The is an option to either save the data at every step or populate the data and move to the next step in opportunity deatsils
+			section and saving at the end.<br><br>
+			
+			<h3 style="margin-top: 0px;">Customer & Competitor</h3>
+				This is the next section in capturing the details for opportunity creation. Under this section there are no
+				mandatory parameters but it is suggested to fill as many parameters as possible. Capex, Opex Spend values are accepted
+				in USD as currency along with the Deal Value.
+				
+				The following are the parameters which are covered under this section:
+				<ul>
+					<li>Competitors</li>
+					<li>Existing FTE</li>
+					<li>Reasons For Requesting Services</li>
+					<li>Capex Spend</li>
+					<li>Opex Spend</li>
+					<li>Deal Value</li>
+					<li>Primary Business</li>
+				</ul>
+				The actions which enable user to perform basic traversals through the application flow are:
+				<ul>
+					<li>Next -  Migrates to the next step in oppportuntiy creation</li>
+					<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+					<li>Save - Saves the values of input field to database</li>
+					<li>Previous - To previous step</li>
+				</ul>
+				
+				Here also the user has the option to save the data at each step or continue filling the comeplete data and 
+				save it at the last step.
+				
+			<h3 style="margin-top: 0px;">Location Profile</h3>
+				The location information is captured in this screen for opportunity. The client country is pre populated as 
+				it is selected at the time of Opportuntiy Initiation step. Rest the Near shore and Remote Locations can be choosen
+				from the drop down menu and the related information will automatically be populated based on the selection.
+				The following are the parameters which are covered under this section:
+				<ul>
+					<li>Client Country</li>
+					<li>Near Shore</li>
+					<li>Remote Location 1</li>
+					<li>Remote Location 2</li>
+				</ul>
+				On entering the above information the following is the output which are read only:
+				<ul>
+					<li>Currency</li>
+					<li>Currency Code</li>
+					<li>Time Zone</li>
+				</ul>
+				The following are the Actions which enable user to perform travers the application:
+				<ul>
+					<li>Next -  Migrates to the next step in oppportuntiy creation</li>
+					<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+					<li>Save - Saves the values of input field to database</li>
+					<li>Previous - To previous step</li>
+				</ul>
+				
+			<h3 style="margin-top: 0px;">Project Delivery</h3>
+			Project Delivery related information as is crucial for any opportunity being created is captured at this step.
+			The transformation start and end dates along with Steady State start and end dates are captured for the calculation
+			of Contract Duration and Steady State Duaration. Mandatory parameters have been mentioned under.
+			The following are the parameters which are covered under this section:
+				<ul>
+					<li>Transformation Start Date</li>
+					<li>Transformation End Date</li>
+					<li>Steady State Start Date - Mandatory</li>
+					<li>Steady State End Date - Mandatory</li>
+				</ul>
+				The output of Steady State start and end Date along with Transformation dates is reflected as: 
+				<ul>
+					<li>Contract Duration - The difference of Steady state end date and Transformation start date (in case the transformation date
+					is populated other wise its the difference of the two steady state dates)</li>
+					<li>Steady State Duration - The difference of the two Steady State dates</li>
+				</ul>
+				The following are the Actions which enable user to perform certain activity:
+				<ul>
+					<li>Next -  Migrates to the next step in oppportuntiy creation</li>
+					<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+					<li>Save - Saves the values of input field to database</li>
+					<li>Previous - To previous step</li>
+				</ul>
+			
+			<h3 style="margin-top: 0px;">Ericsson Personnel</h3>
+				All the personnel assignment replated information is filled here.
+				The CORE 3 members for an opporutniy is finalized under this section. The Region KAM is already populated 
+				at the step when Opportuntiy Details section is filled by the user. This field is populated with the same value 
+				as of Opportunity Owner.
+				The following are the parameters which are covered under this section:
+					<ul>
+						<li>Region KAM - Already Populated</li>
+						<li>Chosse CSR</li>
+						<li>Chosse ACR</li>
+						<li>Chosse CFR</li>
+						<li>Chosse PSM - Mandatory</li>
+						<li>Chosse Sec SME - Mandatory</li>
+						<li>Chosse Ter SME</li>
+					</ul>
+					On entering the above information the following is the output:
+					<ul>
+						<li>Roles are assigned to respecteive members</li>
+					</ul>
+					The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Next -  Migrates to the next step that is Define Scope</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step</li>
+					</ul>
+					
+					This being the last step of creation of Opportunity Details, the user is expected to either save all the information populated 
+					till this step by either pressing the save button in case the user has not saved the entries yet or in the case if the user
+					presses the Next button from, this section the data will automatically be saved and will reach at the next step.
+			
+		</div>
+		
+		
+		<div class="Tabs" id="defScope" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Define Scope</h3>
+				This is the begning of the Solution workflow. The solution manager will have to select all the 
+				possible scopes for the opporutnity based on requirement.
+				There are two selections under this section:
+				<ul>
+					<li>Service Element</li>
+					<li>ADM Management</li>
+				</ul>
+					
+				<h3 style="margin-top: 0px;">Service Element</h3>
+				
+				The Service Elemet section enables the user to choose either Ericsson Product or Generic type based on which 
+				different elements constituting the same will be added during further steps. The following are the elements under individual
+				section:
+				
+				<ul>
+					<li>Generic</li>
+				
+						<ul>
+							<li><h4 style="margin-bottom: 0px;">Application Development</h4></li><br>
+								<ul>
+									<li>Demand Support</li>
+									<li>Design</li>
+									<li>Build</li>
+									<li>Deployment Roll Out</li>
+									<li>Post Release Activities</li>
+								</ul>
+							<li><h4 style="margin-bottom: 0px;">Application Testing</h4></li>
+								<ul>	
+									<li>E2E Test & Validation</li>
+								</ul>
+							<li><h4 style="margin-bottom: 0px;">Application Maintenance</h4></li>
+								<ul>
+									<li>Service Support</li>
+									<li>Reactive Assurance</li>
+									<li>E2E Process Quality</li>
+								</ul>
+							<li><h4 style="margin-bottom: 0px;">ADM Support Process</h4></li>
+								<ul>
+								<li>Program Management</li>
+								<li>Release Management</li>
+								<li>Change Management</li>
+								<li>Capacity Management</li>
+								<li>Configuration Management</li>
+								<li>Security Management</li>
+								<li>Availability Management</li>
+								<li>Access Management</li>
+							</ul>
+						</ul><br><br>
+				
+					<li>Ericsson Product</li>
+						<ul>
+							<li><h4 style="margin-bottom: 0px;">CBIO</h4></li>
+								<ul>
+									<li>CS</li>
+									<li>BSCS</li>
+									<li>EMA</li>
+									<li>EMM</li>
+								</ul>
+						</ul>
+			</ul>
+			
+			If the user selects Ericsson Product, CBIO will be default selected and all the elements under CBIO will be added to
+			the creation of Solution. Again if the user intends to select Generic then other set of Service Scope will have to be choosen.
+			
+			As show above there are different element sets under each category from which the user further has to make choices as per the requirement.
+			If the user selects Service Support under Application Maintenance there will be another Section added as Heading along with
+			Service Element and ADM Management namely : SERVICE SCOPE for Service Support which contains another set of elements to
+			choose from and those are:
+			<ul>
+				<li>Service Desk</li>
+				<li>1st Level Support</li>
+				<li>2nd Level Support</li>
+			</ul> 
+			
+			After having selected any option from the given ones a, upon pressing NEXT there will be a prompt for confirmation from the user.
+			There after the user moves on to the next section of Define Scope.
+			
+					
+				<h3 style="margin-top: 0px;">ADM Engagement</h3>
+				The engagement approach starts here, where the solution manager will choose between the approach for any solution 
+				of an opportunity. Under this section the estimation types and engagement approach is selected for an opportuntiy
+				solution. There are currently two engagement approaches are supported as Manage Delivery and Staff Augmentation.
+				The following are the Estimation types form which the user has to choose:
+				
+				<ul>
+					<li>Volumetric Solution</li>
+					<li>People Stack</li>
+					<li>IT Spend</li>
+				</ul>
+				
+				CCM and the Non CCM competency models are also decided, along with the utilization of a resource in terms of Hours for
+				the complete year. The default value being 2040 and can be changed according to the requirement.<br><br>
+				
+				Following are the input parameters captured:
+				<ul>
+					<li>Engagement Approach</li>
+					<li>Estimation Type</li>
+				</ul>
+				
+				Here there is an added feature of Create New Solution along with the following
+					<ul>
+						<li>Next -  Migrates to the next step that is Input Baseline</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step</li>
+					</ul>
+				The create new solution enables the user to define the solution parameters once again to create a new solution for the opportunity.
+		</div>
+		
+		
+		<div class="Tabs" id="inBline" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Input Baseline</h3>
+				This part of the application enables the user to input all the values for all the selected service elements in the previous step which was
+				Define Scope. All the selected Scopes along with the constituting elements are displayed individually as saperate headings
+				along with their default values. The entiteled user is able to change the values for all the elements based on the requirement.
+				
+				The user has to save the values inserted for the fields for service elements under each section selected in Define Scope
+				before moving ahead.
+				
+				The uer has an option to choose APA and fill the parameters enlisted below:
+				<ul>
+					<li>Application Portfolio Analysis</li><br>
+					There are two sections which the solution manager needs to populate in case APA is choosen, these are:
+				<ul>
+					<li><h4>Score Card</h4></li>
+					The solution manager has to justfy the weighted average for the following parameters mentioned, keeping
+					in mind the severity, which increases from lower digit to higher therefore 1 being the lowest and 
+					10 being the highest. The already displayed values are, by default, which can be changed by the entitled
+					user.
+					<ul>
+						<li>Longevity</li>
+						<li>Complexity</li>
+						<li>Stability</li>
+						<li>Business Criticality</li>
+						<li>Level Of Document</li>
+					</ul>
+					<li><h4>Elements of Scope of Services</h4></li>
+						There are a few parameters which are mandatory under this section, which needs to popullated. Also there are
+						two signs '+' and '-' accompanied by each ehading which states Addition and deletion of row respectively.
+						
+						<ul>
+							<li>Share</li>
+							<li>Users</li>
+							<li>Complexity</li>
+							<li>Platform</li>
+							<li>Database</li>
+							<li>Longevity</li>
+							<li>Application Name</li>
+							<li>Business Criticality</li>
+							<li>Level Of Document</li>
+							<li>Stability</li>
+							<li>Required Primary Skills</li>
+							<li>Required Secondary Skills</li>
+							<li>Business Functions/Domains</li>
+						</ul>
+				</ul>
+					
+					
+				</ul>
+				
+				
+				
+				The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Next -  Migrates to the next step that is Adjust Complexity</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step that is Input Base Line in case the user has migrated to APA</li>
+					</ul>
+		</div>
+		
+		
+		
+		<div class="Tabs" id="ajdComplex" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Adjust Complexity</h3>
+				
+				The Adjust Complexity part of the application consists of the following headings:
+				<ul>
+					<li>Solution Complexity</li>
+					<li>Effort Contingency</li>
+					<li>Application Portfolio Complexity</li>
+				</ul>
+				
+				<h4>Solution Complexity</h4>
+				
+				The complexity for a solution is said to be :
+				
+				<ul>
+					<li>COMPLEX : If the solution complexity is marked greater than 3</li>
+					<li>MEDIUM : If the solution complexity lies between 1 and 3, boundaries inclusive</li>
+					<li>SIMPLE : If the comlexity lies below 1</li>
+				</ul>
+				
+				This part of the solution comlexity comprises of TOTAL RATING and TOTAL WEIGHTAGE. The solution completxity is 
+				calculated based on the prioir mentioned two parameters which are calculated as follows:
+				
+				<ul>
+					<li>Total Rating : The sum of the under lying parameters constitutes teh complete rating</li>
+						<ul>
+							<li>Skill Weightage</li>
+							<li>Region Weightage</li>
+							<li>Audit Weightage</li>
+							<li>SAL Weightage</li>
+						</ul>
+					<li>Total Weightage : The sum of the under lying parameters constitutes teh complete rating</li>
+						<ul>
+							<li>Skill Weightage</li>
+							<li>Region Weightage</li>
+							<li>Audit Weightage</li>
+							<li>SAL Weightage</li>
+						</ul>
+				</ul>
+				
+				After populating the two parameters, the solution complexity, is calculated as : <b>Total Rating / Total Weightage</b>
+				
+				<h4>Prob Res Complexity & Effort Contingency</h4>
+				
+				To adjust the complxity on the basis of percentage and there after affecting or adjustng the rating can be done from 
+				this section. Default values may be populated but can be over ridden as per expectation.
+				
+				<h4>Application Portfolio Complexity</h4>
+				
+				On populating the following section the output in terms of Adjusted Effort, Cost, FTE and hours is displayed.
+				
+				<ul>
+					<li>Pre - Adjusted</li>
+						&nbsp;&nbsp;&nbsp;&nbsp; Under this section the solution manager can alter the values of FTE and 
+						the corresponding number of hours for teh FTE choosen<br><br>
+					<li>Assessed Aplication Complexity</li>
+						&nbsp;&nbsp;&nbsp;&nbsp; For all the selected Service Scopes the default application complexity will be displayed
+						and can be changed to adjust the complexity as &nbsp;&nbsp;&nbsp;&nbsp; per the requirement<br><br>
+					<li>FTE %</li>
+						&nbsp;&nbsp;&nbsp;&nbsp; The default values, which are displayed could be canged to alter the output for the 
+						above mentioned parameters
+				</ul>
+				
+				On applying changes to all of the above, the calculated output in terms of the following values is displayed:
+				
+				<ul>
+					<li>Effort</li>
+					<li>Cost</li>
+					<li>Adjusted FTE</li>
+					<li>Adjusted Hours</li>
+				</ul>
+				
+				The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Next -  Migrates to the next step that is Apply Solution Levers</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step</li>
+					</ul>
+				
+		</div>
+		
+		
+		<div class="Tabs" id="appSolLev" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Apply Solution Lever</h3>
+				This is heart of the application.It covers Productivity Levers, distribution of labors across the location
+				, pyramods of labor and many more.
+				
+				The following are the sections which need to be populated according to requirement for a solution in reagards
+				to the opportunity under consideraion along with the input parameters which constitues each section:
+				
+				<ul>
+					<li><h4>Solution Levers Approach</h4></li>
+						<ul>
+						<li>Stair Case</li>
+						<li>Uniform</li>
+						</ul>
+					<li><h4>Service Scope Selection (Along with input parasmeters)</h4> </li>
+						<ul>
+						<li>Productivity Levers</li>
+						<li>Location Breakup %</li>
+							<ul>
+								<li>Time Lines</li>
+								<li>Onshore %</li>
+								<li>Nearshore %</li>
+								<li>Offshore %</li>
+							</ul>
+							<br><li>Onshore Local Pyramid</li>
+								<ul>
+									<li>Time Lines</li>
+									<li>Job Role(Job Stages)</li>
+								</ul>
+							<br><li>Onshore GSCi Pyramid</li>
+								<ul>
+									<li>Time Lines</li>
+									<li>Job Role(Job Stages)</li>
+								</ul>
+							<br><li>Onshore 3PP Pyramid</li>
+								<ul>
+									<li>Time Lines</li>
+									<li>Job Role(Job Stages)</li>
+								</ul>
+							<br><li>Nearshore Pyramid</li>
+								<ul>
+									<li>Time Lines</li>
+									<li>Job Role(Job Stages)</li>
+								</ul>
+							<br><li>Offshore Pyramid</li>
+								<ul>
+									<li>Time Lines</li>
+									<li>Job Role(Job Stages)</li>
+								</ul>
+						</ul>
+				</ul>
+				
+				The output fields are :
+				<ul>
+					<li>Onshore FTE</li>
+					<li>Nearshore FTE</li>
+					<li>Offshore FTE</li>
+				</ul>
+				
+				The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Next -  Migrates to the next step that is Review FTE</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step</li>
+					</ul>
+		</div>
+		
+		
+		<div class="Tabs" id="revFTE" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Review FTE</h3>
+				This section will show the FTE count for the selected Service Scopealong with 
+				the Job Role, Job Stage and monthwise timeline for the whole project.<br>
+				The solution manager can add additional resources based on his assumptions.
+				
+				Any user must select the service scope for the details, and there is a feature namely : REGENERATE
+				<br>which recalculates and displays the data for the selected Service Scope.
+				
+				The following are the values as the output in display for the service scope:
+				<ul>
+					<li>Onshore Count</li>
+					<li>Offshore Count</li>
+					<li>Overall Count</li>
+				</ul>
+				
+				The other functionality supported in this section is addition of resources as foloows:
+				<ul>
+					<li>Select Role</li>
+					<li>Select Stage</li>
+					<li>Select Site</li>
+					<li># Of FTE</li>
+					<li>From - date</li>
+					<li>To - date</li>
+				</ul>
+				
+				The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Next -  Migrates to the next step</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step</li>
+					</ul>
+		</div>
+		
+		
+		<div class="Tabs" id="tTD" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">T & T Design</h3>
+				
+		</div>
+		
+		
+		<div class="Tabs" id="staffPlan" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Staffing Plan</h3>
+				
+				The following are th input parameters for Staffing plan step of the solution being created:
+				<ul>
+					<li>Demand raised by</li>
+					<li>Demaned created on</li>
+					<li>Status</li>
+					<li>EGUI BU</li>
+					<li>Project type</li>
+					<li>GTT opportuntiy</li>
+					<li>Number of demanded positions</li>
+					<li>Accept subcontractors</li>
+					<li>Win odds probability</li>
+					<li>Primary delivery location in GSC India</li>
+					<li>Secondary delivery location in GSC India</li>
+					<li>Onshore location</li>
+					<li>Postion start date</li>
+					<li>Position end date</li>
+					<li>Onshore start date</li>
+					<li>Onshore end date</li>
+					<li>Grade low</li>
+					<li>Grade high</li>
+					<li>Job family</li>
+					<li>Job role</li>
+					<li>Competency</li>
+					<li>Practice</li>
+					<li>Practice area</li>
+					<li>Primary skillset</li>
+					<li>Secondary skillset</li>
+					<li>Tyoe of request</li>
+					<li>Resource manager</li>
+					<li>Additioal information</li>
+				</ul>
+				
+				The output based on the input parameters provided are:
+				
+				<ul>
+					<li>Region</li>
+					<li>Client</li>
+					<li>Vertical</li>
+					<li>Opportunity</li>
+				</ul>
+				
+				The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Next -  Migrates to the next step</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step</li>
+						<li>Add New - Add new row</li>
+						<li>Add Copied - Add already populated row</li>
+					</ul>
+		</div>
+		
+		
+		<div class="Tabs" id="lCost" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Labor Cost</h3>
+				Based on the Review FTE data, the cost of labor will be calculated. The calculation is done based on the
+				 following factors under consideration:
+				 <ul>
+				 	<li>Review FTE Data</li>
+				 	<li>Country Selected</li>
+				 	<li>Rate Card Of The Country</li>
+				 	<li>Region</li>
+				 </ul>
+				 
+				 Under this section the user will be displayed Onshore, Offshore and Total cost for individual Service
+				 Scope selected.<br> There is a provision of viewing the output in different currencies which will be
+				 enlisted for the user.<br> The cost will be displayed for each Job Stage inline with the Job Roles.
+				 
+				 The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Next -  Migrates to the next step</li>
+						<li>Reset - Populates the already assigned values of the fields on the page and empty otherwise</li>
+						<li>Save - Saves the values of input field to database</li>
+						<li>Previous - To previous step</li>
+					</ul>
+				 
+		</div>
+		
+		
+		<div class="Tabs" id="nlCost" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Non Labor Cost</h3>
+				This section covers all the non labor cost related input parameters. the list of input parameters is 
+				as under along with the section theparameters constitues to :
+				<ul>
+					<li><h4>Input Parameters</h4></li>
+						<ul>
+							<li>Region</li>
+							<li>Currency to be quoted in</li>
+							<li>Inflation rate MS %</li>
+							<li>Working days in a month</li>
+							<li>Working hourse in a day</li>
+							<li>Invoicing type * <b>POICRRB</b></li>
+							<li>One round trip tckect cost *</li>
+							<li>One short term visa cost *</li>
+							<li>Onsite hotel cost per night stay *</li>
+							<li>Onsite daily per dime *</li>
+							<li>Onsite conveyance cost per day per FTE *</li>
+							<li>Mobile communication cost per onsite FTE per month *</li>
+							<li>Will the MSDP platform be used for delivery in MS - YES/NO *</li>
+							<li>MSDP cost per FTE per month</li>
+						</ul>
+					<li><h4>Transition And Travel Cost</h4></li>
+						<ul>
+							<b>Input Parameters</b><br>
+							<li>Number of round trips</li>
+								<br><b>Output Parameters</b>
+								<ul>
+								<li>Managed services - transtion in</li>
+								<li>Number of onsite resources short term</li>
+								</ul>
+								<br><b>Input Parameters</b><br>
+							<li>Number of short term VISA</li><br>
+							<b>Output Parameters</b>
+							<ul>
+								<li>Number of calander days onsite</li>
+								<li>Number of working days onsite</li>
+								<li>Costs</li>
+								<li>Managed services transition in</li>
+								<li>Round trip cost</li>
+								<li>Short term visa cost</li>
+								<li>Onsite hotel cost</li>
+								<li>Onsite per dime</li>
+								<li>Onsite conveyance cost</li>
+								<li>Mobile communication cost</li>
+								<li>Timeline</li>
+							</ul>
+						</ul>
+						<li><h4>Steady State And Travel Cost</h4></li>
+						<ul>
+							<b>Input Parameters</b><br>
+							<li>Number of round trips</li>
+								<br><b>Output Parameters</b>
+								<ul>
+								<li>Managed services - transtion in</li>
+								<li>Number of onsite resources short term</li>
+								</ul>
+							<li>Number of short term VISA</li><br>
+							<b>Output Parameters</b>
+							<ul>
+								<li>Number of calander days onsite</li>
+								<li>Number of working days onsite</li>
+								<li>Costs</li>
+								<li>Managed services transition in</li>
+								<li>Round trip cost</li>
+								<li>Short term visa cost</li>
+								<li>Onsite hotel cost</li>
+								<li>Onsite per dime</li>
+								<li>Onsite conveyance cost</li>
+								<li>Mobile communication cost</li>
+								<li>Timeline</li>
+							</ul>
+						</ul>
+						
+						<li><h4>Other Cost</h4></li>
+						<ul>
+							<b>Input Parameters</b><br>
+							<li>Connectivity - Client evironment to Offshore</li>
+								<b>Output Parameters</b>
+								<ul>
+								<li>Number of offshore FTE</li>
+								<li>MSDP cost</li>
+								</ul>
+							<li>Connectivity - Offshore to development center</li><br>
+							<b>Output Parameters</b>
+							<ul>
+								<li>Total other cost</li>
+								<li>Timeline</li>
+							</ul>
+						</ul>
+				</ul>
+				
+				 The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Save - Saves the values of input field to database</li>
+					</ul>
+				
+		</div>
+		
+		
+		<div class="Tabs" id="inclADR" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Include A-D-R</h3>
+				The Assumption, Dependency and Risks are covered under this section of creation Solution for an 
+				opportunity.
+				
+				Input parameters for the this section follows as:
+				
+				<ul>
+					<li>Statement</li>
+					<li>Category</li>
+					<li>Area</li>
+					<li>Type</li>
+					<li>Impact</li>
+					<li>Weightage</li>
+				</ul>
+				
+				The following are the Actions which enable user to perform certain activity:
+					<ul>
+						<li>Add - To add more records</li>
+						<li>Edit - To edit the prepopulated data</li>
+						<li>Delete</li>
+						<li>Export - In a desired format</li>
+						<li>Pages</li>
+						<li>Submit - To save the data</li>
+					</ul>
+		</div>
+		
+		
+		<div class="Tabs" id="reports" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Reports</h3>
+				
+				The reports are generated based on the complete data input for any solution for a particular opporutnity
+				and these are displayed in the application view part with complete calculation in case required and data
+				selected by the solution manager. The reports section also hosts  a feature to download these in the
+				formats specified below which are currently supported by the application:
+				
+				<ul>
+					<li>Excel Format</li>
+					<li>CSV Format</li>
+				</ul>
+		</div>
+		
+		<div class="Tabs" id="openSol" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+		
+			<h3 style="margin-top: 0px;">Open Opportunity</h3>
+			
+			There are two major sections:
+			
+			<ul>
+				<li><h4>Search</h4></li>
+					This is the section where if the user has to find any opportunity along with solution, can search using the following
+					search options provided:<br><br>
+						
+					<ul>
+						<li>Oppportunity Name</li>
+						<li>Customer Name</li>
+						<li>Region</li>
+						<li>Deal Value - Enter any value Min or Max or both</li>
+					</ul>
+					<br>
+					The deal value is populated when the opportunity details are being populated, and the user the free to give
+					any value in case he/she searches using this criterai. All thoses opportunities along with the solutions in case the solutions
+					have been prepared for the opportunities will be displayed wchich will be in the specified range.
+					<br><br>
+					In case the user wants to re-search with different option, use the Clear button provided to reset all the fields to blank.
+					There after, populating the search option the user is expected to pres the search button and will be able to 
+					see all those opporutnities along with solutions which match the criteria provided and none otherwise.
+					
+										
+				<li><h4>View Details</h4></li>
+					This section displays all the matched Opportunities and Solutions based on the search criteria.
+					The user has the privilege to view the selected opportuntiy and the solution in case it has been made. 
+					In case the user wishes to alter any part of the selected opportunity then he/she must have correct set of rights or privileges.
+					<br>If any user has logged in as <b>GUEST</b>, can only view all the opportunities and the associated solution 
+					but can not alter either, even if the same user has created opportunity or the solution.
+					
+			</ul>
+			
+			The following are the actions under this section:
+			<ul>
+				<li>View Details - After selecting the data entry this action enlists the details</li>
+				<!-- <li>Clone</li> -->
+			</ul>
+			
+			
+		
+		</div>
+		
+		<div class="Tabs" id="userManage" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+		
+			<h3 style="margin-top: 0px;">User Management</h3>
+		
+			There are two major sections in this sections:
+			
+			<ul>
+				<li>User Update</li>
+				<li>List Users</li>
+			</ul>
+			
+			<h4 style="margin-top: 0px;">User Update</h4>
+			There are two divions, one for search and the other displays all matched entries. The search is done based on the following
+			search optins : 
+				<ul>
+					<li>First name</li>
+					<li>Last Name</li>
+					<li>SignumID</li>
+					<li>Email ID</li>
+				</ul>
+				
+				All the matched data entries will be displayed in a tabular form below the search section.
+				Under this section the privileged user can manage the roles of a particular user of the application
+				by clicking "Manage Roles" link
+				<ul>
+					<li>Add role for a user</li>
+					<li>Remove the privilege</li>
+				</ul>
+			
+			<h4 style="margin-top: 0px;">List Users</h4>
+			
+			Under this all the users are displayed.
+		
+		</div>
+		
+		<div class="Tabs" id="solManage" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+		<h3 style="margin-top: 0px;">Solution Management</h3>
+		The following are the functionalities covered under this section, by checking the desired radio button each can
+		be explored as:
+		<ul>
+			<li><h4>Assign Solution</h4></li>
+				<ul>
+					<li>Search the solution using the following search options</li>
+						<ul>
+							<li>Opportunity Name</li>
+							<li>Customer Name</li>
+							<li>Region</li>
+						</ul>
+					<li>All the solutions will be displayed in  the tabular form</li>
+					<li>Every data entry is accompanied with a drop down list, through which the solution can be assigned 
+					to anyother user with enogh privilege</li>
+					<li>After selecting the appropriate user press Submit and the solution will be assigned</li>
+				</ul>
+			<li><h4>Delete Solution</h4></li>
+				<ul>
+					<li>Search the solution to be deleted using the following search options</li>
+					<ul>
+							<li>Opportunity Name</li>
+							<li>Customer Name</li>
+							<li>Region</li>
+						</ul>
+					<li>Select the one to be deleted and press Delete Solution button for the changes to take place.</li>
+				</ul>
+		</ul>
+		</div>
+		
+		<div class="Tabs" id="approvManage" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Approver Management</h3>
+			
+			This section hosts the following functions:
+			<ul>
+				<li><h4>Chnage Approver</h4></li>
+					<ul>
+						<li>Search the solution of which the approver is to be changed</li>
+						<li>Select the solution by checking te radio button</li>
+						<li>Press the Change Approver button and another page will be displayed</li>
+						<li>There will be available SIGNUM IDs from which the selection could be made for the new or changed approver</li>
+						<li>After selecting the desired approver move the selection to the box on the right side</li>
+						<li>All the information constituting the solution is displayed below the change approver section</li>
+						<li>In case there is some change to be induced, that can be done using this section</li>
+						<li>After the final choices has been made, press save and the changes will be updated in the database</li>
+					</ul>
+				<li><h4>Approve Any Solution</h4></li>
+					<ul>
+						<li>Under this section all the solutions will be displayed which are to be approved</li>
+					</ul>
+			</ul>
+			
+		</div>
+		
+		<div class="Tabs" id="rateManage" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Rate Management</h3>
+			This section enables the user with privilee to enter or to alter the rates in relation to Solution parameters
+			based on the country selected.
+			<ul>
+				<li>Choose the country for which the rate data is to be altered or to be added</li>
+					<ul>
+						<li><h4>Add Data</h4></li>
+							<ul>
+								<li>Select the country</li>
+								<li>The Add Data button opens a pop box</li>
+								<li>Select the Job Role for which the rate is to be added</li>
+								<li>The will be alert, if there are no Job Stages for the selected Jon Role</li>
+								<li>Select the Job Stage corresponding to the Job Role</li>
+								<li>Finally enter the rate for the Job Role and Job Stage combination</li>
+								<li>Press Save and the data will be entered corresponding to the country, Job Role and Job Stage selected</li>
+								<li>If Close is pressed before Save no data is saved</li>
+							</ul>
+						<li><h4>Edit Data</h4></li>
+							<ul>
+								<li>Select the country for which the data is to be altered</li>
+								<li>Press Get Data button, all the related data will be displayed under</li>
+								<li>Select the row for which the data(RATE ONLY) is to be altered, and then press the Edit button</li>
+								<li>The following data will be shown in a pop box</li>
+									<ul>
+										<li>Old rate - readonly</li>
+										<li>Job Role - readonly</li>
+										<li>Job Rate - readonly</li>
+										<li>Rate - to be altered</li>
+									</ul>
+								<li>Press Save to alter the data and if Close is press, the data is not altered</li>
+							</ul>
+					</ul>
+			</ul>
+		</div>
+		
+		<div class="Tabs" id="myAction" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			
+			<h3 style="margin-top: 0px;">My Action</h3>
+			If the user has ssuccessfuly logged in the application with the following user privilege:
+			
+			<ul>
+				<li>Solution Manager</li>
+				<li>Approver</li>
+			</ul>
+			
+			In either case the user will land on My Action page which hosts the following:
+			
+			<ul>
+				<li>All the Opportunities and the associated solutions which are created by the solution manager or the the solutions
+				which are  to be approved by the Approver are displayed under this section</li>
+				<li>To alter the displayed opportunities and their solution the user must have created the same and must also have the appropriate
+				privileges</li>
+				<li>In case the user is logged in as a GUEST, that user will not be guided to this part of the application after log in but 
+				will land on the open Opportunity page</li>
+				<li>All the displayed Opportuntunities are accompanied by the information as what is its Customer name along with the Country 
+				and who created te Opportunity. User who has not created th opportunity or the solution is not allowed to alter any content throughout the application</li>
+			</ul>
+			
+			The following are the actions under this section:
+			<ul>
+				<li>View Details - After selecting the opportunity for which the user needs to surf or alter the content
+				 press the view details button to start walking through the complete opportunity construct along with the 
+				 solution, if asspciated.</li>
+			</ul>
+		</div>
+		
+		<div class="Tabs" id="ls" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">List Solutions</h3>
+			Will soon be populated...
+		</div>
+		<div class="Tabs" id="ds" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Deal Statistics</h3>
+			Will soon be populated...
+		</div>
+		<div class="Tabs" id="spr" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Signing Potential Report</h3>
+			Will soon be populated...
+		</div>
+		<div class="Tabs" id="sar" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Scope Analysis Report</h3>
+			Will soon be populated...
+		</div>
+		<div class="Tabs" id="sps" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Staff Pyramid Report</h3>
+			Will soon be populated...
+		</div>
+		<div class="Tabs" id="sa" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Scope Analysis</h3>
+			Will soon be populated...
+		</div>
+		<div class="Tabs" id="dra" style="overflow: auto;margin-top: 0px;padding-top: 5px;padding-left: 4px;
+		height: 512px;font-family: sans-serif;font-size: 13px;text-align: justify;display: none;">
+			<h3 style="margin-top: 0px;">Daily Rate Analysis</h3>
+			Will soon be populated...
+		</div>
+		
+	</div>
+	
+	
+</div>
+
+
+</body>
+</html>

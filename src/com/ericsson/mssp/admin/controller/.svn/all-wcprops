@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2787/trunk/src/com/ericsson/mssp/admin/controller
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/2733/trunk/src/com/ericsson/mssp/admin/controller/LoginController.java
+END
+UnderconstructionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/admin/controller/UnderconstructionController.java
+END
+RateManagementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/2787/trunk/src/com/ericsson/mssp/admin/controller/RateManagementController.java
+END
+ManageUserAccessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/admin/controller/ManageUserAccessController.java
+END
+SolutionManagementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/it_mssp_trunk/!svn/ver/2300/trunk/src/com/ericsson/mssp/admin/controller/SolutionManagementController.java
+END
+JobRoleManagementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/it_mssp_trunk/!svn/ver/2515/trunk/src/com/ericsson/mssp/admin/controller/JobRoleManagementController.java
+END
+ServiceElementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/2515/trunk/src/com/ericsson/mssp/admin/controller/ServiceElementController.java
+END
+JobRoleAndServiceElementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/it_mssp_trunk/!svn/ver/2776/trunk/src/com/ericsson/mssp/admin/controller/JobRoleAndServiceElementController.java
+END

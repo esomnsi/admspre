@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/it_mssp_trunk/!svn/ver/2903/trunk/WebContent/jsp/approval
+END
+approval_redirect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/approval/approval_redirect.jsp
+END
+saveApprovers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2903/trunk/WebContent/jsp/approval/saveApprovers.jsp
+END
+approvalExecSummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/it_mssp_trunk/!svn/ver/2896/trunk/WebContent/jsp/approval/approvalExecSummary.jsp
+END
+approval.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/2873/trunk/WebContent/jsp/approval/approval.jsp
+END

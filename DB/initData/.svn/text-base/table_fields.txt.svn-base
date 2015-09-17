@@ -1,0 +1,73 @@
+
+Country(CountryID,CountryCode,CountryName,TimeZone,CurrencyCode,CurrencyName,Region,Active)
+
+Customer(CustomerID,CustomerName,CountryID (FK))
+
+ServiceScope(ServiceScopeID,ServiceScopeCategory,ServiceScopeName,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp)
+
+Status(StatusID,StatusName)
+
+InputFields(InputFieldsID,ServiceScopeID (FK),InputFieldsName,DefaultValues,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp)
+
+OtherDefaults(OtherDefaultsID,ApplicationArea,OtherFieldsName,DefaultValues,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp)
+
+ApplicationConfig(ApplicationConfigID,ConfigName,ConfigValue,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp)
+
+JobRole(JobRoleID,Role)
+
+RateCard(RateCardID,JobRoleID (FK),Location,RateINR,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp)
+
+ApplicationRole(ApplicationRoleID,RoleName)
+
+User(UserID,SignumID,ApplicationRoleID (FK),StartDate,EndDate)
+
+
+Opportunity(OpportunityID,OpportunityName,CustomerID (FK))
+
+WorkflowTimeline(WorkflowTimelineID,OpportunityID (FK),RFPReceiptDate,QuestionnaireSubmissionDate,SolutionReviewDate,SubmissionDate,ApprovalDate,AssignedTo,Comments)
+
+OpportunityDetail(OpportunityDetailID,OpportunityID (FK),OpportunityOwner,NewBusiness,ExistingCustomer,CadenceID,Vertical,TransformationStartDate,TransformationEndDate,SteadyStateStartDate,SteadyStateEndDate,Competitors,CapexSpend,OpexSpend,ExistingFTE,TurnOver,PrimaryBusinessLine,RFPReason,OtherReason,RegionKAM,PrimaryVerticalRepresentative,ADMSSolutionRepresentative)
+
+OpportunityLocation(OpportunityLocationID,OpportunityDetailID (FK),CustomerCountry (FK),NearShore (FK),GSC1 (FK),GSC2 (FK))
+
+OpportunityScope(OpportunityScopeID,OpportunityID (FK),ServiceScopeID (FK))
+
+Solution(SolutionID,OpportunityID (FK),StatusID (FK),SubmissionDate,SubmittedBy,SolutionApproach,SolutionType,StepCompleted,SolutionVersion)
+
+SolutionApproachDimension(SolutionApproachDimensionID,SolutionID (FK),DimensionName,DimensionAttributeName)
+
+SolutionInputDefinition(SolutionInputDefinitionID,SolutionID (FK),SolutionApproachDimensionID (FK),InputFieldsID (FK),InputFieldsValue)
+
+SolutionComplexity(SolutionComplexityID,SolutionID (FK),SkillRating,RegionRating,AuditRating,SLARating,SkillWeightage,RegionWeightage,AuditWeightage,SLAWeightage,ComputedComplexity,OverriddenComplexity,ComplexityAdjustor,ContingencyEffort)
+
+APAComplexity(APAComplexityID,SolutionComplexityID (FK),OpportunityScopeID (FK),ComplexityAssessed,ComplexityOverride,FTEPercentage)
+
+SolutionAPA(SolutionAPAID,SolutionID (FK),OpportunityScopeID (FK),BusinessFunction,ApplicationNameNoUsers,Platform,Database,PrimarySkill,SecondarySkill,BusinessCriticalilty,LevelofDocuments,Stability,Longivity,Complexity,PercentageShare,ComputedRiskExposure,ComputedRiskFactor)
+
+StartUpFTE(StartUpFTEID,SolutionID (FK),OpportunityScopeID (FK),ComputedHrs,ComputedFTE,RolledupFTE)
+
+SolutionLever(SolutionLeverID,SolutionID (FK),SolutionLeverApproach)
+
+ProductivityLever(ProductivityLeverID,SolutionLeverID (FK),OpportunityScopeID (FK),MonthYear,OrgStructure,Process,ServiceManagement,TeamSourcing,PortfolioOptimization,ComputedProductivity,CalculatedFTE)
+
+LocationBreakup(LocationBreakupID,SolutionLeverID (FK),OpportunityScopeID (FK),OnshorePC,OffshorePC,OnshoreFTE,OffshoreFTE)
+
+LocationPyramid(LocationPyramidID,SolutionLeverID (FK),OpportunityScopeID (FK),JobRoleID (FK),Location,DistributionPC,FTECount)
+
+
+
+SolutionADR(SolutionADRID,SolutionID (FK),ADRCategory,ADRStatement,ADRArea(ADRType,ADRImpact,ADRWeightage)
+
+taffingPlan(StaffingPlanID,SolutionID,Region ,Vertical ,EGIBU ,Client ,Opportunity ,ProjectType ,GTTOpportunity ,NoDemandedPositions ,AcceptSubcontractors ,WinOddsProbability ,PrimaryLocation,SecondaryLocation,OnshoreLocation ,PositionStartdate ,PositionEnddate ,OnshoreStartdate ,OnshoreEnddate,GradeLow ,GradeHigh,JobFamily,JobRoleID (FK),Competency,Practice,PracticeArea,PrimarySkillSet,SecondarySkillSet,TypeofRequest,ResourceManager,AdditionalInformation)
+
+FTEStaging(FTEStagingID,SolutionID (FK),OpportunityScopeID (FK),JobRoleID (FK),MonthYear,Location,FTECount)
+
+AdditionalFTE(AdditionalFTEID,SolutionID,OpportunityScopeID,JobRoleID,Location,FromMonthYear,ToMonthYear,NoofFTE)
+
+NonLabourCost(NonLabourCostID,SolutionID,Year,ITNoofTravels,ITStayDuration,ITShortVisaCost,ITTicketCost,ITDailyPerDiem,ITHotelCostPerNight,ITConveyancePerDay,DTNoofTravels,DTStayDuration,DTTicketCost,DTHotelCostPerNight,DTConveyancePerDay,EGIConnectivityCost,GSCConnectivityCost,OtherConnectivityCost,MonthlyNightAllowance,PCPeopleatNight,MonthlyWeekendAllowance,PCPeopleatWeekend,MonthMobileCost,MnthlyDataCardCost,HWSW3PPCost,TrainingCost,OtherCost)
+
+FTESummary(FTESummaryID,OpportunityScopeID,JobRoleID,Location,FTECount)
+
+CostSummary(CostSummaryID,OpportunityScopeID,JobRoleID,Location,CostINR)
+
+StaffCategory(StaffCategoryID,StaffCategoryName)

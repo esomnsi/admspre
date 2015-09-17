@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/it_mssp_trunk/!svn/ver/2902/trunk/src/com/ericsson/mssp/solution/dao
+END
+APADAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/2249/trunk/src/com/ericsson/mssp/solution/dao/APADAO.java
+END
+ISolutionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/2853/trunk/src/com/ericsson/mssp/solution/dao/ISolutionDAO.java
+END
+IVolumetricSolutionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/solution/dao/IVolumetricSolutionDAO.java
+END
+ISolutionFTEDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2763/trunk/src/com/ericsson/mssp/solution/dao/ISolutionFTEDAO.java
+END
+ITaasDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/ITaasDao.java
+END
+ISolutionLeverDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2717/trunk/src/com/ericsson/mssp/solution/dao/ISolutionLeverDAO.java
+END
+PeopleStackDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/PeopleStackDAO.java
+END
+ITTDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/ITTDAO.java
+END
+IOpportunityScopeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/2601/trunk/src/com/ericsson/mssp/solution/dao/IOpportunityScopeDAO.java
+END
+INLCDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/INLCDao.java
+END
+IReportDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/2897/trunk/src/com/ericsson/mssp/solution/dao/IReportDAO.java
+END
+IJobRoleStagesDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2601/trunk/src/com/ericsson/mssp/solution/dao/IJobRoleStagesDAO.java
+END
+ISolutionComplexityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/ISolutionComplexityDAO.java
+END
+ITNTDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/ITNTDao.java
+END

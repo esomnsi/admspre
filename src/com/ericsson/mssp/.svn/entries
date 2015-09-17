@@ -1,0 +1,82 @@
+10
+
+dir
+2516
+https://eforge.ericsson.se/svn/repos/it_mssp_trunk/trunk/src/com/ericsson/mssp
+https://eforge.ericsson.se/svn/repos/it_mssp_trunk
+
+
+
+2014-12-04T04:43:59.094384Z
+2516
+evyyzci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4464cd90-d696-4cc9-92d0-5b6ea3efd3ab
+
+servicelement
+dir
+
+search
+dir
+
+login
+dir
+
+serviceelement
+dir
+
+report
+dir
+
+solution
+dir
+
+action
+dir
+
+approval
+dir
+
+notification
+dir
+
+dashboard
+dir
+
+admin
+dir
+
+common
+dir
+
+myactionapproval
+dir
+
+taas
+dir
+
+volumetric
+dir
+
+currency
+dir
+
+rate
+dir
+
+jobrole
+dir
+

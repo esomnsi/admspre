@@ -1,0 +1,18 @@
+
+adr.string.delimiter = ;
+adr.complexities = High;Medium;Low
+adr.areas=Technical;Hr;Legal;Commercial;Estimation;Solution Levers;Others;Resource Mgt.;Transition;Transformation
+adr.types=Internal;External
+inputbaseline.itops.unit.listbox=Man Hours;Tickets
+inputbaseline.itops.language.listbox=English;Hindi;French;German
+definescope.dimension.name=Domain;Country;Application;Tower;Other
+definescope.solution.approach=Manage Delivery;Staff Augmentation
+definescope.solution.type=Volumetric Solution;IT Spend;People Stack
+apa.param4rSelectedScope = Business Functions/Domains;Application Name;Users;Platform;Database;Required Primary Skills;Required Secondary Skills
+apa.comFact = Business Criticality;Level Of Document;Stability;Longevity;Complexity;Share;Score;Risk
+
+volsol.unitl3.list =% of Bug Fix Effort;Hours/Month
+volsol.scope.list=Yes;No
+volsol.durunit.list=Days;Weeks;Months
+solution.complexity = Simple;Medium;Complex
+volsol.unit.fc.list=Hours/Month;Dev CRs/Month

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/it_mssp_trunk/!svn/ver/2885/trunk/DB/initData
+END
+StaffCategory.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/StaffCategory.csv
+END
+ServiceScope.csv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/ServiceScope.csv
+END
+RateCard.csv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/RateCard.csv
+END
+Status.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/Status.csv
+END
+ApplicationConfig.csv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/ApplicationConfig.csv
+END
+OtherDefaults.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/OtherDefaults.csv
+END
+JobRole.csv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/JobRole.csv
+END
+table_fields.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/table_fields.txt
+END
+init_data_load.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/init_data_load.txt
+END
+Country.csv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/Country.csv
+END

@@ -1,0 +1,89 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee" xmlns:lang="http://www.springframework.org/schema/lang"
+	xmlns:p="http://www.springframework.org/schema/p" 
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+		http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee.xsd
+		http://www.springframework.org/schema/lang http://www.springframework.org/schema/lang/spring-lang.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+<!-- MAIL SENDER API -->
+	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+		<property name="host" value="${mail.smtp.host}" />
+		<property name="port" value="${mail.smtp.port}" />
+		<property name="protocol" value="${mail.transport.protocol}" />
+		<property name="javaMailProperties">
+			<props>
+				<prop key="mail.smtps.auth">false</prop>
+				<prop key="mail.smtps.starttls.enable">true</prop>
+				<prop key="mail.smtps.debug">true</prop>
+			</props>
+		</property>
+	</bean>
+
+
+	<bean id="simpleTemplateMessage" class="org.springframework.mail.SimpleMailMessage">
+		<property name="from" value="${mail.from}"></property>
+		<property name="to" value="" />
+		<property name="cc" value="" />
+		<property name="subject" value="${mail.subject}" />
+		<!-- <property name="text" value="${mail.body}" /> -->
+	</bean>
+
+
+	<bean id="mailManager" class="com.ericsson.mssp.notification.service.email.impl.EMailNotificationService">
+		<property name="mailSender" ref="mailSender"></property>
+		<property name="templateMessage" ref="simpleTemplateMessage"></property>
+	</bean>
+	
+<!--  reminder service -->
+
+	<bean name="executeTask" class="org.springframework.scheduling.quartz.JobDetailBean">
+
+		<property name="jobClass" value="com.ericsson.mssp.notification.service.NotificationScheduler" />
+
+		<property name="jobDataAsMap">
+			<map>
+				<entry key="notificationService" value-ref="mailManager" />
+			</map>
+		</property>
+
+	</bean>
+
+	<!-- Simple Trigger, run every 5 seconds -->
+	<bean id="simpleTrigger" class="org.springframework.scheduling.quartz.SimpleTriggerBean">
+
+		<property name="jobDetail" ref="executeTask" />
+		<property name="repeatInterval" value="5000" />
+		<property name="startDelay" value="1000" />
+
+	</bean>
+
+	<!-- Cron Trigger, run every 5 seconds -->
+	<bean id="cronTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+
+		<property name="jobDetail" ref="executeTask" />
+		<property name="cronExpression" value="0/5 * * * * ?" />
+
+	</bean>
+
+<!-- 	<bean class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="jobDetails">
+			<list>
+				<ref bean="executeTask" />
+			</list>
+		</property>
+
+		<property name="triggers">
+			<list>
+				<ref bean="cronTrigger" />
+			</list>
+		</property>
+	</bean> -->
+</beans>

@@ -1,0 +1,39 @@
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/JobRole.csv' INTO TABLE JobRole FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (JobRoleID,Role);
+
+
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/ApplicationConfig.csv' INTO TABLE ApplicationConfig FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (ApplicationConfigID,ConfigName,ConfigValue,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp);
+
+
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/OtherDefaults.csv' INTO TABLE OtherDefaults FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (OtherDefaultsID,ApplicationArea,OtherFieldsName,DefaultValues,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp);
+
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/RateCard.csv' INTO TABLE RateCard FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (RateCardID,JobRoleID,Location,RateINR,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp);
+
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/ServiceScope.csv' INTO TABLE ServiceScope FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (ServiceScopeID,ServiceScopeCategory,ServiceScopeName,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp);
+
+LOAD DATA LOCAL INFILE '/home/egaivij/workspace/WS_MSSP/IT_MSSP/DB/initData/InputFields.csv' INTO TABLE InputFields FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (InputFieldsID,ServiceScopeID,InputFieldsName,DefaultValues);
+
+
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/StaffCategory.csv' INTO TABLE StaffCategory FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (StaffCategoryID,StaffCategoryName);
+
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/Country.csv' INTO TABLE Country FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (CountryID,CountryCode,CountryName,TimeZone,CurrencyCode,CurrencyName,Region,Active);
+
+LOAD DATA LOCAL INFILE '/home/egaivij/Documents/initData/Status.csv' INTO TABLE Status FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n' (StatusID,StatusName);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

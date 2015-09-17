@@ -1,0 +1,8 @@
+OtherDefaultsID,ApplicationArea,OtherFieldsName,DefaultValues,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp
+,Adjust Complexity,Skill/module/functional area adjustor  - Weightage,4,,,,
+,Adjust Complexity,Region Adjustor  - Weightage,2,,,,
+,Adjust Complexity,Audit Adjustor - Weightage,1,,,,
+,Adjust Complexity,SLA Adjustor - Weightage,3,,,,
+,Adjust Complexity,Adjust Complexity PC - Simple,0%,,,,
+,Adjust Complexity,Adjust Complexity PC - Medium,5%,,,,
+,Adjust Complexity,Adjust Complexity PC - Complex,10%,,,,

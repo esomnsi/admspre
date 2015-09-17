@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2899/trunk/src/com/ericsson/mssp/volumetric/controller
+END
+APPDevController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2291/trunk/src/com/ericsson/mssp/volumetric/controller/APPDevController.java
+END
+ApplicationMaintenanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/it_mssp_trunk/!svn/ver/2899/trunk/src/com/ericsson/mssp/volumetric/controller/ApplicationMaintenanceController.java
+END
+ApplicationManagementController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/it_mssp_trunk/!svn/ver/2866/trunk/src/com/ericsson/mssp/volumetric/controller/ApplicationManagementController.java
+END
+ApplicationTestingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/it_mssp_trunk/!svn/ver/2792/trunk/src/com/ericsson/mssp/volumetric/controller/ApplicationTestingController.java
+END
+ProductEstimationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/it_mssp_trunk/!svn/ver/2792/trunk/src/com/ericsson/mssp/volumetric/controller/ProductEstimationController.java
+END
+ADMSupportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/volumetric/controller/ADMSupportController.java
+END

@@ -1,0 +1,16 @@
+#
+#Description: This File lists the database properties
+#
+jdbc.driverClassName=com.mysql.jdbc.Driver
+
+#jdbc.url=jdbc:mysql://10.184.43.72:3306/IT_MSSP_DEV
+#jdbc.username=IT_MSSP
+#jdbc.password=IT_MSSP
+
+#jdbc.url=jdbc:mysql://localhost:3306/IT_MSSP_DEV
+#jdbc.username=root
+#jdbc.password=
+
+jdbc.url=jdbc:mysql://127.0.0.1:3306/ADM_PRE_TEST
+jdbc.username=root
+jdbc.password=root

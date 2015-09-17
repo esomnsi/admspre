@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/it_mssp_trunk/!svn/ver/2904/trunk/WebContent/jsp/solution
+END
+solutionL1Operations.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/solutionL1Operations.jsp
+END
+APAnalysis.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2392/trunk/WebContent/jsp/solution/APAnalysis.jsp
+END
+solutionL3Operations.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/solutionL3Operations.jsp
+END
+selectComplexityAdjuster.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/2294/trunk/WebContent/jsp/solution/selectComplexityAdjuster.jsp
+END
+createOpportunity.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/2259/trunk/WebContent/jsp/solution/createOpportunity.jsp
+END
+ttJobroleDistribution.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2853/trunk/WebContent/jsp/solution/ttJobroleDistribution.jsp
+END
+defineScopeAdmOffering.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/2804/trunk/WebContent/jsp/solution/defineScopeAdmOffering.jsp
+END
+nonLabourCost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2904/trunk/WebContent/jsp/solution/nonLabourCost.jsp
+END
+peopleStack.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/peopleStack.jsp
+END
+tnt.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/tnt.jsp
+END
+CustomerCompetitiveInformation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2259/trunk/WebContent/jsp/solution/CustomerCompetitiveInformation.jsp
+END
+governanceAndPMO.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/governanceAndPMO.jsp
+END
+ttReviewFTE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/ttReviewFTE.jsp
+END
+solutionApproach.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/2679/trunk/WebContent/jsp/solution/solutionApproach.jsp
+END
+deployment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/deployment.jsp
+END
+landingPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2259/trunk/WebContent/jsp/solution/landingPage.jsp
+END
+ttPartition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2858/trunk/WebContent/jsp/solution/ttPartition.jsp
+END
+volumetricSolution.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/volumetricSolution.jsp
+END
+nlcInputParams.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/2904/trunk/WebContent/jsp/solution/nlcInputParams.jsp
+END
+solutionEnhanDevRicefw.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/solutionEnhanDevRicefw.jsp
+END
+AddOffshorePyramid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/AddOffshorePyramid.jsp
+END
+opportunitySummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1918/trunk/WebContent/jsp/solution/opportunitySummary.jsp
+END
+solutionFixedCapacity.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/solutionFixedCapacity.jsp
+END
+AddProductivityLever.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/2274/trunk/WebContent/jsp/solution/AddProductivityLever.jsp
+END
+AddOnshorePercent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1972/trunk/WebContent/jsp/solution/AddOnshorePercent.jsp
+END
+taas_intermediate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/taas_intermediate.jsp
+END
+defineScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2565/trunk/WebContent/jsp/solution/defineScope.jsp
+END
+EricssonPersonnel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/2675/trunk/WebContent/jsp/solution/EricssonPersonnel.jsp
+END
+reviewFTE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/2294/trunk/WebContent/jsp/solution/reviewFTE.jsp
+END
+taas.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/2195/trunk/WebContent/jsp/solution/taas.jsp
+END
+openSolution.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2736/trunk/WebContent/jsp/solution/openSolution.jsp
+END
+AddOnshorePyramid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/2258/trunk/WebContent/jsp/solution/AddOnshorePyramid.jsp
+END
+ChangeScope.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/ChangeScope.jsp
+END
+popUpPyramid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2902/trunk/WebContent/jsp/solution/popUpPyramid.jsp
+END
+nlc.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/it_mssp_trunk/!svn/ver/2904/trunk/WebContent/jsp/solution/nlc.jsp
+END
+createStaffingPlan.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/2294/trunk/WebContent/jsp/solution/createStaffingPlan.jsp
+END
+searchOpportunityOwner.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/2675/trunk/WebContent/jsp/solution/searchOpportunityOwner.jsp
+END
+solutionL2Operations.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/solutionL2Operations.jsp
+END
+productivityModelling.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2882/trunk/WebContent/jsp/solution/productivityModelling.jsp
+END
+testingAsPercentageADM.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/testingAsPercentageADM.jsp
+END
+miscellaneous.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/miscellaneous.jsp
+END
+serviceDesk.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2470/trunk/WebContent/jsp/solution/serviceDesk.jsp
+END
+manageADRGrid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2294/trunk/WebContent/jsp/solution/manageADRGrid.jsp
+END
+projGovernancePMO.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/projGovernancePMO.jsp
+END
+itSpend.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/itSpend.jsp
+END
+ttLaborCost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/ttLaborCost.jsp
+END
+reviewsscopeFTE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2796/trunk/WebContent/jsp/solution/reviewsscopeFTE.jsp
+END
+serviceBucket.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2841/trunk/WebContent/jsp/solution/serviceBucket.jsp
+END
+staffAugmentation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/staffAugmentation.jsp
+END
+defineScopePage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2801/trunk/WebContent/jsp/solution/defineScopePage.jsp
+END
+addTTPartition.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/addTTPartition.jsp
+END
+manageADR.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/manageADR.jsp
+END
+labourCost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2886/trunk/WebContent/jsp/solution/labourCost.jsp
+END
+ProjectDelivery.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2662/trunk/WebContent/jsp/solution/ProjectDelivery.jsp
+END
+OpportunityDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/2259/trunk/WebContent/jsp/solution/OpportunityDetails.jsp
+END
+solutionLever.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2902/trunk/WebContent/jsp/solution/solutionLever.jsp
+END
+deliveryAndPyramidModelling.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2902/trunk/WebContent/jsp/solution/deliveryAndPyramidModelling.jsp
+END
+AddSolnAPA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/AddSolnAPA.jsp
+END
+reviewUpdatedFTE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/2797/trunk/WebContent/jsp/solution/reviewUpdatedFTE.jsp
+END
+LocationProfile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2631/trunk/WebContent/jsp/solution/LocationProfile.jsp
+END
+complexityAdjuster.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/complexityAdjuster.jsp
+END
+ttFTEBreakup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2294/trunk/WebContent/jsp/solution/ttFTEBreakup.jsp
+END
+solutionRICEFW.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/solution/solutionRICEFW.jsp
+END

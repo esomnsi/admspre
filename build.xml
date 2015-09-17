@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="ADM_PRE" default="usage" basedir=".">
+
+
+<property name="production.lib" value="lib"/>
+	
+<!-- USAGE target will be used by default -->
+<target name="usage">
+    <echo>
+    Usage :
+    prepare     -   Create directories for the build and copy necessary files
+    clean       -   Delete all directories
+    compile     -   Compile all the source files
+    dist        -   Create the distribution JAR and WAR files
+    deploy      -   Copy the JAR and WAR files to the deploy directory
+    build       -   Create the build files ( WAR and JAR )
+   </echo>
+</target>
+	
+
+<path id="compile.classpath">
+        <fileset dir="C:\Users\esoasar\workspace\ADM_PRE\WebContent\WEB-INF\lib">
+            <include name="**/*.jar"/>
+            <exclude name="**/junit*.jar"/>
+            <exclude name="**/*test*.jar"/>
+        </fileset>
+</path>
+
+	
+<!-- Initialize all properties. -->
+<target name="init">
+	<!-- application name -->
+	<property name="app.name" value="ADM_PRE"/>
+	<!-- source home -->
+	<property name="src.home" value="src"/>
+	<!-- web home -->
+	<property name="web.home" value="WebContent"/>
+	<property name="build.home" value="build"/>
+	<!-- distribution home -->
+	<property name="dist.home" value="dist"/>
+	<property name="deploy.home" value="/home/ekanpah/Documents/Setup/Server/apache-tomcat-7.0.27/webapps"/>
+	<!-- set the env prefix -->
+	<property environment = "env"/>
+
+	<!-- get the Jboss home directory from the env variable -->
+
+	
+</target> <!-- end of init -->	
+	
+<!--	PREPARE target will be invoked to created the directory structure
+	 	The prepare target will create all the necessary directories
+	 	and copies the needed files	-->
+<target name="prepare" depends="init">
+	<mkdir dir="${build.home}"/>
+	<mkdir dir="${build.home}/META-INF"/>
+	<mkdir dir="${dist.home}"/>
+	<mkdir dir="${build.home}/WEB-INF"/>
+	<mkdir dir="${build.home}/WEB-INF/class"/>
+	<mkdir dir="${build.home}/WEB-INF/lib"/>
+	<mkdir dir="${build.home}/css"/>
+	<mkdir dir="${build.home}/images"/>	
+	<mkdir dir="${build.home}/js"/>
+	<mkdir dir="${build.home}/jsp"/>
+		
+
+	<copy todir="${build.home}/images" flatten="true">
+		<fileset dir="${web.home}/images">
+			<include name="*.gif"/>
+			<include name="*.jpg"/>
+			<include name="*.png"/>
+			<include name="*.swf"/>
+		</fileset>
+	</copy>
+	<copy todir="${build.home}/css" flatten="true">
+		<fileset dir="${web.home}/css">
+			<include name="*.css"/>
+		</fileset>
+	</copy>	
+	<copy todir="${build.home}/js" flatten="true">
+		<fileset dir="${web.home}/js">
+			<include name="*.js"/>
+		</fileset>
+	</copy>		
+	<copy todir="${build.home}/jsp" flatten="true">
+		<fileset dir="${web.home}/jsp">
+			<include name="*.jsp"/>
+			<include name="*.htm"/>
+			<include name="*.html"/>
+		</fileset>
+	</copy>
+	
+	<copy file="${web.home}/WEB-INF/web.xml" tofile="${build.home}/WEB-INF/web.xml"/>
+</target>
+
+<!--	CLEAN target will be used to delete and clean all the directories	-->
+
+<target name="clean" depends="init">
+	<delete dir="${build.home}"/>
+	<delete dir="${dist.home}"/>
+</target>
+	
+<!--	COMPILE target will be used to compile all the java files	-->
+
+<target name="compile" depends="clean, prepare">
+	<!--property name="temp" refid="compile.classpath"/>
+	<echo> CLASSPATH is set to ${temp} </echo-->
+	<javac srcdir="."
+	       destdir="${build.home}/WEB-INF/class"
+	       deprecation="on"
+	       debug="on"
+	       includeantruntime="false">
+	<classpath refid="compile.classpath" />
+	</javac>
+	
+
+
+
+	<copy todir="${build.home}/WEB-INF/class">
+		<fileset dir="${src.home}/">
+			<include name="**/*.xml"/>
+			<include name="**/*.properties"/>
+	    	</fileset>
+
+	</copy>
+</target>
+
+
+       
+
+
+
+<!-- target to create the distribution files  -->
+<target name="build" depends="clean, compile">
+	<echo> Created JAR and WAR files </echo>
+</target>
+
+<!--	createWAR target Will be used to create the WAR file	-->
+
+<target name="createWAR" depends="compile">
+	<war destfile="${dist.home}/ADM_PRE.war" webxml="WebContent/WEB-INF/web.xml">
+	<fileset dir="WebContent"/>
+	<classes dir="${build.home}/WEB-INF/class"/>
+	<exclude name="*/**/log4j.xml"/>
+	
+	<!--<exclude name="*/**/hibernate.properties"/>
+	<exclude name="*/**/config.properties"/>
+	<exclude name="*/**/applicationResources.properties"/>-->
+	</war>
+</target>
+
+
+<!--
+<target name="createWAR" depends="compile">
+	<jar jarfile="${dist.home}/IT_MSSP.war"
+	     basedir="${build.home}"
+	     update = "true"
+	     excludes="META-INF/**,	               
+	               WEB-INF/class/**"/>
+</target>	
+-->
+<!--	createJAR target Will be used to create the JAR file	-->
+
+<target name="createJAR" depends="compile">
+
+	<copy todir="${build.home}">
+		<fileset dir="${build.home}/WEB-INF/class">
+			<include name="**/*.class"/>
+	    	</fileset>
+
+	</copy>
+	<jar jarfile="${dist.home}/ADM_PRE.jar"
+	     basedir="${build.home}"
+	     update = "true"
+	     excludes = "css/**,
+	                images/**,
+	                js/**,
+	                jsp/**,
+	                WEB-INF/web.xml"/>
+</target>
+
+<!--	DIST target will be used to create the JAR and WAR files	-->
+<!-- target to create the distribution files  -->
+<target name="dist" depends="createWAR, createJAR">
+	<echo> Created JAR and WAR files </echo>
+</target>
+
+<!--DEPLOY target Will be used to copy the JAR and WAR files 
+	to the deploy directory	-->
+<target name="deploy" depends="dist">
+	<!--copy file="${dist.home}/IT_MSSP.jar" tofile="${deploy.home}/IT_MSSP.jar"/-->
+	<copy file="${dist.home}/ADM_PRE.war" tofile="${deploy.home}/ADM_PRE.war"/>
+</target>
+
+</project>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2901/trunk/src/com/ericsson/mssp/solution/service/impl
+END
+NLCServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/impl/NLCServiceImpl.java
+END
+TNTControllerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/impl/TNTControllerServiceImpl.java
+END
+PeopleStackServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/impl/PeopleStackServiceImpl.java
+END
+SolutionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/2853/trunk/src/com/ericsson/mssp/solution/service/impl/SolutionServiceImpl.java
+END
+ComplexityAdjusterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/impl/ComplexityAdjusterServiceImpl.java
+END
+TaasControllerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/it_mssp_trunk/!svn/ver/2014/trunk/src/com/ericsson/mssp/solution/service/impl/TaasControllerServiceImpl.java
+END
+VolumetricSolutionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/solution/service/impl/VolumetricSolutionServiceImpl.java
+END
+SolutionFTEServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/it_mssp_trunk/!svn/ver/2766/trunk/src/com/ericsson/mssp/solution/service/impl/SolutionFTEServiceImpl.java
+END
+TTServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/2172/trunk/src/com/ericsson/mssp/solution/service/impl/TTServiceImpl.java
+END
+SolutionLeverServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/it_mssp_trunk/!svn/ver/2901/trunk/src/com/ericsson/mssp/solution/service/impl/SolutionLeverServiceImpl.java
+END
+SolutionCloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2520/trunk/src/com/ericsson/mssp/solution/service/impl/SolutionCloneImpl.java
+END
+APAServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/impl/APAServiceImpl.java
+END
+ReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2897/trunk/src/com/ericsson/mssp/solution/service/impl/ReportServiceImpl.java
+END

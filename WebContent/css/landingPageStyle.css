@@ -1,0 +1,696 @@
+/********************************************** CREATE OPPURTUNITY CSS START FROM HERE ******************************************/
+/********************************************************************************************************************************/
+
+.basicForm_wrapper{
+	/* width:438px; height:335px; */ float:left; 
+	width:465px; height:350px;
+/*	background-color:#d1e3ed;*/
+	padding:1px; 
+	
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	float:left;
+	}
+.basicForm_headerPanel{
+	width:100%;
+	height:30px;
+	float:left;
+		}
+
+
+.myActionButton{
+	width:130px;
+	height:28px;
+	float:left;
+	background-color:#fbfbfb;
+	
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius: 6px;
+    border-radius: 6px;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#275c92', endColorstr='#244486'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#275c92), to(#244486)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #275c92,  #244486); /* for firefox 3.6+ */
+	}
+
+.myActionButton:hover{
+	cursor:pointer;	
+	color:#602a00;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f78a3b', endColorstr='#f4c748'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#f78a3b), to(#f4c748)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #f78a3b,  #f4c748); /* for firefox 3.6+ */
+	}
+	
+.myActionButton h1{
+	font-family:Arial;
+	line-height:18px;
+	font-size:12px;
+	font-weight:normal;
+	color:#ffffff;
+	font-style:italic;
+	font-weight:bold;
+	text-align:left;
+	float:left;
+	padding:0px 15px 0px 20px;
+	margin:4px 0 0 0;
+	}
+	
+.myActionButton span{
+	float:left;
+	width:30px;
+	height:28px;
+	padding:0px;
+
+	background:url(../images/nextPageIcon.png) left center no-repeat
+	}
+	
+	
+.basicForm_activePanel{
+	width:100%;
+	height:28px;
+	float:left;
+	margin-bottom:6px;
+	background-color:#fbfbfb;
+	
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius: 6px;
+    border-radius: 6px;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#275c92', endColorstr='#244486'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#275c92), to(#244486)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #275c92,  #244486); /* for firefox 3.6+ */
+	}
+	
+.basicForm_activePanel h1{
+	font-family:Arial;
+	line-height:18px;
+	font-size:12px;
+	font-weight:normal;
+	color:#ffffff;
+	font-style:italic;
+	font-weight:bold;
+	text-align:left;
+	float:left;
+	padding:0px 15px 0px 20px;
+	margin:4px 0 0 0;
+	}
+.basicForm_activePanel span{
+	float:left;
+	width:30px;
+	height:28px;
+	margin-right:20px;
+	padding:0px;
+
+	background:url(../images/nextPageIcon.png) left center no-repeat
+	}
+	
+.basicForm_deActivePanel{
+	width:227px;
+	height:37px;
+	float:left;
+	}
+.basicForm_deActivePanel h1{
+	font-family:Arial;
+	width:150px;
+	font-size:12px;
+	color:#7bb0cd;
+	text-align:right;
+	float:right;
+	font-weight:bold;
+	padding:0px;
+	margin:4px 0 0 0;
+	}
+.basicForm_deActivePanel span{
+	float:right;
+	width:30px;
+	height:37px;
+	margin-right:20px;
+	padding:0px;
+	opacity:0.4;
+
+	background:url(../images/nextPageIcon.png) right center no-repeat
+	}
+.basicForm_bodyPanel{
+	width:335;
+	height:346px;
+	
+	float:left;
+	padding:1px;
+	border:1px solid #8aa4db;
+	background-color:#fbfbfb;
+	
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius: 6px;
+    border-radius: 6px;
+	
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius:6px;
+	
+	}
+.informationPanel{
+	width:100%;
+	height:26px;
+	float:left;
+	}
+.commentinformationPanel{
+	width:100%;
+	height:46px;
+	float:left;
+	}
+.textHedrPanel{
+	width:100px;
+	margin-left:20px;
+	height:22px;
+	font-family:Arial;
+	font-size:11px;
+	line-height:20px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	float:left;}
+.textHedrPanel b{
+	text-align:right;
+	float:right;}
+	
+.textInputPanel{
+	width:254px;
+	height:22px;
+	margin-left:20px;
+	float:left;
+	}
+.inputLeftBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/basicForm_inputLeftBg.png) left center no-repeat;
+	}
+.commentPanelLeftBg{
+	width:8px;
+	height:46px;
+	float:left;
+	background:url(../images/comment_leftBg.png) left center no-repeat;
+	}	
+.inputMidBg{
+	width:238px;
+	height:22px;
+	float:left;
+	background:url(../images/basicForm_inputMidBg.png) left center repeat-x;
+	}	
+.commentPanelMidBg{
+	width:238px;
+	height:46px;
+	float:left;
+	background:url(../images/comment_MidBg.png) left center repeat-x;
+	}
+.inputRightBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/basicForm_inputRighttBg.png) left center no-repeat;
+	}
+
+.commentPanelRightBg{
+	width:8px;
+	height:46px;
+	float:left;
+	background:url(../images/comment_RightBg.png) left center no-repeat;
+	}		
+.inputTextfield{
+	width:220px;
+	height:20px;
+	float:left;
+	border:0px;
+	outline:none;
+	background:transparent;
+	
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	}	
+	
+.inputjumptext{
+	border:none;
+	width:238px;
+	background:transparent;
+	margin-top:2px;
+	outline:none;
+	text-align:left;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:normal;
+	color:#424242;
+	}		
+.dateHeadingText{
+	font-family:Arial;
+	font-size:12px;
+	font-style:italic;
+	font-weight:normal;
+	color:#040404;
+	text-align:left;
+	margin-left:5%;
+	/* padding-top:5px;
+	 */width:95%;
+	float:left;
+}
+
+.datePanel{
+	width:405px;
+	height:65px;
+	float:left;
+	border:1px solid #e7e7e7;
+	
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	margin-left:15px;
+	margin-top:4px;
+	margin-bottom:5px;
+	padding-top:5px;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f3f3f3'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f3f3f3)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #ffffff,  #f3f3f3); /* for firefox 3.6+ */}	
+	
+	
+.inputTextArea{
+	width:235px;
+	height:40px;
+	margin-top:2px;
+	float:left;
+	border:0px;
+	outline:none;
+	background:transparent;
+	
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	
+	}		
+
+.basicform_button{width:63px; height:22px; 
+	background:url(../images/BasicForm_button.png) left center no-repeat; 
+	float:right; 
+	
+	font-family:Arial;
+	font-size:11px;
+	color:#FFF;
+	font-weight:bold;
+	text-align:center;	
+	line-height:21px;
+	cursor:pointer;
+	}
+.submitMargn{margin:0 2px 0 0;}
+.cancelMargn{margin:0 45px 0 0;}
+
+.datemainWraper{
+	width:200px;
+	height:25px;
+	margin-top:5px;
+	float:left;
+	}
+.datetextPanel{
+	width:74px;
+	margin-left:7px;
+	height:22px;
+	font-family:Arial;
+	font-size:11px;
+	line-height:20px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	float:left;
+	}
+.dateInputPanel{
+	width:105px;
+	height:22px;
+	margin-left:5px;
+	float:left;}
+
+.dateLeftBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/basicForm_inputLeftBg.png) left center no-repeat;
+	}
+.dateMidBg{
+	width:74px;
+	height:22px;
+	float:left;
+	background:url(../images/basicForm_inputMidBg.png) left center repeat-x;
+	}	
+.dateRightBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/basicForm_inputRighttBg.png) left center no-repeat;
+	}
+.inputTextfield_date{
+	width:70px;
+	height:20px;
+	float:left;
+	border:0px;
+	outline:none;
+	background:transparent;
+	
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	}	
+/********************************************** CREATE OPPURTUNITY CSS END FROM HERE ******************************************/
+/********************************************************************************************************************************/
+
+
+
+
+
+/********************************************** CREATE OPPURTUNITY CSS START FROM HERE ******************************************/
+/********************************************************************************************************************************/
+/* 
+.basicForm_wrapper{
+	width:465px; height:350px; float:left; 
+	background-color:#d1e3ed;
+	padding:1px; 
+	margin-left:20px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	}
+.basicForm_headerPanel{
+	width:100%;
+	height:37px;
+	float:left;
+
+		}
+.basicForm_activePanel{
+	width:210px;
+	height:37px;
+	float:left;
+	background-color:#fbfbfb;
+	
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	
+	-webkit-border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	}
+	
+.basicForm_activePanel h1{
+	font-family:Arial;
+	width:150px;
+	font-size:12px;
+	font-weight:normal;
+	color:#2d6294;
+	font-weight:bold;
+	text-align:right;
+	float:right;
+	padding:0px;
+	margin:4px 0 0 0;
+	}
+.basicForm_activePanel span{
+	float:right;
+	width:30px;
+	height:37px;
+	margin-right:20px;
+	padding:0px;
+
+	background:url(../images/landingPageImages/nextPageIcon.png) right center no-repeat
+	}
+	
+.basicForm_deActivePanel{
+	width:227px;
+	height:37px;
+	float:left;
+	}
+.basicForm_deActivePanel h1{
+	font-family:Arial;
+	width:150px;
+	font-size:12px;
+	color:#7bb0cd;
+	text-align:right;
+	float:right;
+	font-weight:bold;
+	padding:0px;
+	margin:4px 0 0 0;
+	}
+.basicForm_deActivePanel span{
+	float:right;
+	width:30px;
+	height:37px;
+	margin-right:20px;
+	padding:0px;
+	opacity:0.4;
+
+	background:url(../images/landingPageImages/nextPageIcon.png) right center no-repeat
+	}
+.basicForm_bodyPanel{
+	width:100%;
+	height:300px;
+	float:left;
+	background-color:#fbfbfb;
+	
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-right-radius:6px;
+	border-top-right-radius:6px;
+	
+	-moz-border-radius-bottomleft:6px;
+	-moz-border-radius-bottomright:6px;
+	
+	-webkit-border-bottom-left-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius:6px;
+	padding-top:12px;
+	}
+.informationPanel{
+	width:100%;
+	height:26px;
+	float:left;
+	}
+.commentinformationPanel{
+	width:100%;
+	height:54px;
+	float:left;
+	}
+.textHedrPanel{
+	width:100px;
+	margin-left:20px;
+	height:22px;
+	font-family:Arial;
+	font-size:11px;
+	line-height:20px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	float:left;}
+.textHedrPanel b{
+	text-align:right;
+	float:right;}
+	
+.textInputPanel{
+	width:254px;
+	height:22px;
+	margin-left:20px;
+	float:left;
+	}
+.inputLeftBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/landingPageImages/basicForm_inputLeftBg.png) left center no-repeat;
+	}
+.commentPanelLeftBg{
+	width:8px;
+	height:46px;
+	float:left;
+	background:url(../images/landingPageImages/comment_leftBg.png) left center no-repeat;
+	}	
+.inputMidBg{
+	width:238px;
+	height:22px;
+	float:left;
+	background:url(../images/landingPageImages/basicForm_inputMidBg.png) left center repeat-x;
+	}	
+.commentPanelMidBg{
+	width:238px;
+	height:46px;
+	float:left;
+	background:url(../images/landingPageImages/comment_MidBg.png) left center repeat-x;
+	}
+.inputRightBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/landingPageImages/basicForm_inputRighttBg.png) left center no-repeat;
+	}
+
+.commentPanelRightBg{
+	width:8px;
+	height:46px;
+	float:left;
+	background:url(../images/landingPageImages/comment_RightBg.png) left center no-repeat;
+	}		
+.inputTextfield{
+	width:220px;
+	height:20px;
+	float:left;
+	border:0px;
+	outline:none;
+	background:transparent;
+	
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	}	
+	
+.inputjumptext{
+	border:none;
+	width:238px;
+	background:transparent;
+	margin-top:2px;
+	outline:none;
+	text-align:left;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:normal;
+	color:#424242;
+	}		
+.dateHeadingText{
+	font-family:Arial;
+	font-size:12px;
+	font-style:italic;
+	font-weight:normal;
+	color:#040404;
+	text-align:left;
+	margin-left:5%;
+	padding-top:5px;
+	width:95%;
+	float:left;
+}
+
+.datePanel{
+	width:430px;
+	height:70px;
+	float:left;
+	border:1px solid #e7e7e7;
+	
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	margin-left:15px;
+	margin-top:4px;
+	margin-bottom:10px;
+	padding-top:5px;
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f3f3f3'); for IE
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f3f3f3)); for webkit browsers
+	background: -moz-linear-gradient(top,  #ffffff,  #f3f3f3); for firefox 3.6+}	
+	
+	
+.inputTextArea{
+	width:235px;
+	height:41px;
+	margin-top:2px;
+	float:left;
+	border:0px;
+	outline:none;
+	background:transparent;
+	
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	
+	}		
+
+.basicform_button{width:63px; height:22px; 
+	background:url(../images/landingPageImages/BasicForm_button.png) left center no-repeat; 
+	float:right; 
+	
+	font-family:Arial;
+	font-size:11px;
+	color:#FFF;
+	font-weight:bold;
+	text-align:center;	
+	line-height:21px;
+	cursor:pointer;
+	}
+.submitMargn{margin:0 2px 0 0;}
+.cancelMargn{margin:0 6px 0 0;}
+.newMargn{margin:0 12px 0 0;}
+
+.datemainWraper{
+	width:210px;
+	height:25px;
+	margin-top:5px;
+	float:left;
+	}
+	
+.datetextPanel{
+	width:90px;
+	margin-left:7px;
+	height:32px;
+	font-family:Arial;
+	font-size:11px;
+	line-height:20px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	float:left;
+	}
+.dateInputPanel{
+	width:105px;
+	height:22px;
+	margin-left:5px;
+	float:left;}
+
+.dateLeftBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/landingPageImages/basicForm_inputLeftBg.png) left center no-repeat;
+	}
+.dateMidBg{
+	width:60px;
+	height:22px;
+	float:left;
+	background:url(../images/landingPageImages/basicForm_inputMidBg.png) left center repeat-x;
+	}	
+.dateRightBg{
+	width:8px;
+	height:22px;
+	float:left;
+	background:url(../images/landingPageImages/basicForm_inputRighttBg.png) left center no-repeat;
+	}
+.inputTextfield_date{
+	width:70px;
+	height:20px;
+	float:left;
+	border:0px;
+	outline:none;
+	background:transparent;
+	
+	font-family:Arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#424242;
+	text-align:left;
+	}	 */
+/********************************************** CREATE OPPURTUNITY CSS END FROM HERE ******************************************/
+/********************************************************************************************************************************/

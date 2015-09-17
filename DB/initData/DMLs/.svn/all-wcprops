@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/it_mssp_trunk/!svn/ver/2885/trunk/DB/initData/DMLs
+END
+DeliveryType_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/DeliveryType_DMLs.sql
+END
+ProductActivitiesComplexityAssumptions_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/2836/trunk/DB/initData/DMLs/ProductActivitiesComplexityAssumptions_DMLs.sql
+END
+OpportunitySource_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/OpportunitySource_DMLs.sql
+END
+InputVolumetricsDefinedBy_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/InputVolumetricsDefinedBy_DMLs.sql
+END
+CheckListMaster_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/CheckListMaster_DMLs.sql
+END
+ProductEstimationActivities_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/2836/trunk/DB/initData/DMLs/ProductEstimationActivities_DMLs.sql
+END
+CCMJobRole_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/2324/trunk/DB/initData/DMLs/CCMJobRole_DMLs.sql
+END
+ExchangeRate_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/ExchangeRate_DMLs.sql
+END
+OtherDefaults_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2790/trunk/DB/initData/DMLs/OtherDefaults_DMLs.sql
+END
+ServiceElementJobRoleStages_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/2885/trunk/DB/initData/DMLs/ServiceElementJobRoleStages_DMLs.sql
+END
+ServiceScope_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2862/trunk/DB/initData/DMLs/ServiceScope_DMLs.sql
+END
+UserApplicationRole_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/2829/trunk/DB/initData/DMLs/UserApplicationRole_DMLs.sql
+END
+MasterDataCleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/MasterDataCleanup.sql
+END
+VolumetricSolutionDefault_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/VolumetricSolutionDefault_DMLs.sql
+END
+DeliveryModel_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2251/trunk/DB/initData/DMLs/DeliveryModel_DMLs.sql
+END
+DataCleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/DataCleanup.sql
+END
+ProductDetails_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2479/trunk/DB/initData/DMLs/ProductDetails_DMLs.sql
+END
+JobRole_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/JobRole_DMLs.sql
+END
+Status_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/Status_DMLs.sql
+END
+ApplicationConfig_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/ApplicationConfig_DMLs.sql
+END
+ProductEstimationAuxiliaryParams_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2344/trunk/DB/initData/DMLs/ProductEstimationAuxiliaryParams_DMLs.sql
+END
+SupportWindowMatrix .sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/SupportWindowMatrix%20.sql
+END
+JobRole_DMLs28Feb13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/1990/trunk/DB/initData/DMLs/JobRole_DMLs28Feb13.sql
+END
+DealCharacteristics_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/DealCharacteristics_DMLs.sql
+END
+User_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/it_mssp_trunk/!svn/ver/2829/trunk/DB/initData/DMLs/User_DMLs.sql
+END
+JobRoleStages_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2058/trunk/DB/initData/DMLs/JobRoleStages_DMLs.sql
+END
+ServiceElement_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2885/trunk/DB/initData/DMLs/ServiceElement_DMLs.sql
+END
+ApplicationRole_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2156/trunk/DB/initData/DMLs/ApplicationRole_DMLs.sql
+END
+EstimationComplexityLookup_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/2269/trunk/DB/initData/DMLs/EstimationComplexityLookup_DMLs.sql
+END
+JobStage_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/it_mssp_trunk/!svn/ver/2055/trunk/DB/initData/DMLs/JobStage_DMLs.sql
+END
+init.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/it_mssp_trunk/!svn/ver/2857/trunk/DB/initData/DMLs/init.sql
+END
+CommercialModel_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/CommercialModel_DMLs.sql
+END
+Component_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/2479/trunk/DB/initData/DMLs/Component_DMLs.sql
+END
+TouchPointChannel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/TouchPointChannel.sql
+END
+LocationBreakupDefault_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/2250/trunk/DB/initData/DMLs/LocationBreakupDefault_DMLs.sql
+END
+ScopeOfServicesDefinedBy_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/ScopeOfServicesDefinedBy_DMLs.sql
+END
+Country_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/it_mssp_trunk/!svn/ver/2190/trunk/DB/initData/DMLs/Country_DMLs.sql
+END
+CurrencyExchange_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/2837/trunk/DB/initData/DMLs/CurrencyExchange_DMLs.sql
+END
+STAFF_CATEGORY.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/1802/trunk/DB/initData/DMLs/STAFF_CATEGORY.sql
+END
+RateCard_DMLs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/it_mssp_trunk/!svn/ver/2837/trunk/DB/initData/DMLs/RateCard_DMLs.sql
+END

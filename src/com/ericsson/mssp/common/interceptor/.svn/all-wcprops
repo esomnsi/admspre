@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/interceptor
+END
+DateFieldInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/interceptor/DateFieldInterceptor.java
+END
+OpportunityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/interceptor/OpportunityInterceptor.java
+END
+SolutionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/interceptor/SolutionInterceptor.java
+END

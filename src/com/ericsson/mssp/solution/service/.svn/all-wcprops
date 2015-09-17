@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2892/trunk/src/com/ericsson/mssp/solution/service
+END
+ISolutionFTEService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2765/trunk/src/com/ericsson/mssp/solution/service/ISolutionFTEService.java
+END
+ITaasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/ITaasService.java
+END
+PeopleStackService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/PeopleStackService.java
+END
+ITTService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/ITTService.java
+END
+ISolutionClone.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/ISolutionClone.java
+END
+INLCService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/INLCService.java
+END
+ITNTControllerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/ITNTControllerService.java
+END
+IReportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2892/trunk/src/com/ericsson/mssp/solution/service/IReportService.java
+END
+SolutionLeverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/2737/trunk/src/com/ericsson/mssp/solution/service/SolutionLeverService.java
+END
+ISolutionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/2853/trunk/src/com/ericsson/mssp/solution/service/ISolutionService.java
+END
+IComplexityAdjuster.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/IComplexityAdjuster.java
+END
+APAService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/service/APAService.java
+END
+IVolumetricSolutionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/solution/service/IVolumetricSolutionService.java
+END

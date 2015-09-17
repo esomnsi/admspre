@@ -1,0 +1,1 @@
+insert into ExchangeRate values(1,DATE_SUB(now(),INTERVAL 10 day),null,54.02,83.20,.02,.01,.65,1.54,now());

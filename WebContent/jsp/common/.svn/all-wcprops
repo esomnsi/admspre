@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/it_mssp_trunk/!svn/ver/2812/trunk/WebContent/jsp/common
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/2135/trunk/WebContent/jsp/common/footer.jsp
+END
+header_home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/2427/trunk/WebContent/jsp/common/header_home.jsp
+END
+undercons.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/common/undercons.jsp
+END
+homeBaseLayout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2294/trunk/WebContent/jsp/common/homeBaseLayout.jsp
+END
+menu_akhaya.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/common/menu_akhaya.jsp
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/it_mssp_trunk/!svn/ver/2812/trunk/WebContent/jsp/common/menu.jsp
+END
+baseLayout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/2030/trunk/WebContent/jsp/common/baseLayout.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/2393/trunk/WebContent/jsp/common/header.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/it_mssp_trunk/!svn/ver/2724/trunk/WebContent/jsp/common/error.jsp
+END
+AccessDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/common/AccessDenied.jsp
+END
+aboutItMssp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/2085/trunk/WebContent/jsp/common/aboutItMssp.jsp
+END
+menu_updated.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/2593/trunk/WebContent/jsp/common/menu_updated.jsp
+END
+body.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/common/body.jsp
+END

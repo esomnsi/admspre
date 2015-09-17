@@ -1,0 +1,36 @@
+IT-MSSP-DBScript.sql is having all DDLs and init.sql script is having all init data required DML files link.
+
+1. Take all view DDLs out from that file.
+3. Update required data base name in first row of the DDLs 
+	(e.g. IT_MSSP_UAT / IT_MSSP_DEV/etc
+	CREATE DATABASE IF NOT EXISTS IT_MSSP_UAT;
+	USE IT_MSSP_UAT;)
+2. To create tables now run that file.
+	i- Go to terminal and write command:
+		a. mysql -h10.184.43.72 -uIT_MSSP -pIT_MSSP
+		b. use IT_MSSP_DEV
+		c. \. <path of the file>/IT-MSSP-DBScript.sql (e.g. \. /home/edassri/workspace/IT_MSSP/DB/IT-MSSP-DBScript.sql)
+3. After creation of tables fire View DDLs one by one from top to bottom order.
+4. To load initially required system data go to initData/DMLs folder and collect all files.
+5. Open init.sql script and update path to your system having files location path.
+5. If you need users and their relation entries then un-comment those file paths.
+6. Go to terminal and connect to the DB repeating above written commands.
+7. Now fire command : \. /home/edassri/workspace/IT_MSSP/DB/initData/DMLs/init.sql
+
+Now DB is ready for use.
+
+FYI:
+1. System 10.184.43.72 having mysql DB is having following details:
+	i. DBA user: mysqldba password: mysql
+	ii. Schema IT_MSSP_DEV user IT_MSSP/IT_MSSP
+	iii. Schema IT_MSSP_UAT user password is same.
+	iv. Schema IT_MSSP_PROD user password is same.
+	v. Schema IT_MSSP_SIT user password is same.
+2. creating new user:
+create user 'IT_MSSP_DEV'@'localhost' IDENTIFIED BY 'IT_MSSP_DEV';
+GRANT ALL PRIVILEGES ON IT_MSSP_DEV.* TO 'IT_MSSP_DEV'@'%' IDENTIFIED BY 'IT_MSSP_DEV';
+3. Data cleanup:(update the path and in sql command use DB)
+\. /home/edassri/workspace/IT_MSSP/DB/initData/DMLs/DataCleanup.sql
+4. Master data cleanup
+\. /home/edassri/workspace/IT_MSSP/DB/initData/DMLs/MasterDataCleanup.sql
+

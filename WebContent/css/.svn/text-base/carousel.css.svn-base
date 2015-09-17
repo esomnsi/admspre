@@ -1,0 +1,102 @@
+﻿
+
+/* CONTAINER */
+/* _______________________________________________ */
+
+.column12 
+{
+	width:100%;
+	margin :0 ; 
+	padding-top :30px; 
+	/*background: -webkit-gradient(linear, left top, left bottom, from(#76c1e3), to(#4f9fc4));*/ /* for webkit browsers */
+	/*background: -moz-linear-gradient(top,  #76c1e3,  #4f9fc4);*/ /* for firefox 3.6+ */}
+}
+.carousel
+{
+	position :relative ;
+	margin :0 auto;
+	width :87%;
+	height :auto;
+	border :none;
+	overflow : visible ;
+}
+
+/* _______________________________________________ */
+
+/* SLIDES */
+/* _______________________________________________ */
+
+
+/* slide container */
+.carousel .slides
+{
+	margin :0;
+	padding :0;
+	border :none;
+	list-style :none;
+	position :relative ;
+	overflow :visible ;
+}
+
+/* slide item */
+.carousel .slides .slideItem 
+{
+	position :absolute ;
+	cursor :pointer ;
+	overflow : hidden;
+	padding :0;
+	margin :0;
+	border :none;
+}
+
+.carousel .slides .slideItem a
+{
+	display: block ;
+	text-decoration :none;
+	margin :0;
+	padding :0;
+	border :none;
+	outline :none;
+}
+
+.carousel .slides .slideItem img
+{
+	margin :0;
+	padding :0;
+	border :none;
+	width :100%;
+	height :100%;
+}
+
+/* _______________________________________________ */
+
+/* DIRECTION BUTTON */
+/* _______________________________________________ */
+
+.carousel .nextButton
+{
+	position :absolute ;
+	right: 229px;
+    top: 247px;
+	width :30px;
+	height :31px;
+	background:url(../images/prev_button.png) center no-repeat;
+	cursor :pointer ;
+	z-index :9999;
+}
+
+.carousel .prevButton
+{
+	position :absolute ;
+	left: 226px;
+    top: 244px;
+	width :30px;
+	height: 31px;		
+	background:url(../images/next_button.png) center no-repeat;
+	cursor :pointer ;
+	z-index :9999;
+}
+
+/* _______________________________________________ */
+
+.xyz{width: 400px; z-index: -1; position: absolute; margin: 0px; padding: 0px; border: medium none; overflow: hidden; left: 0px; bottom: 0px;}

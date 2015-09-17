@@ -1,0 +1,689 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/2852/trunk/src/com/ericsson/mssp/common/dto
+END
+TicketDistributionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/2551/trunk/src/com/ericsson/mssp/common/dto/TicketDistributionDTO.java
+END
+SolutionEnhanDevRicefwDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionEnhanDevRicefwDTO.java
+END
+TouchPointChannelDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TouchPointChannelDTO.java
+END
+RateCardDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2787/trunk/src/com/ericsson/mssp/common/dto/RateCardDTO.java
+END
+LaborCostDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/LaborCostDTO.java
+END
+SolutionL3AddServicesDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionL3AddServicesDTO.java
+END
+FteHeadCountAndPercentageDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2235/trunk/src/com/ericsson/mssp/common/dto/FteHeadCountAndPercentageDTO.java
+END
+CommercialModelDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/CommercialModelDTO.java
+END
+SolutionAPADTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionAPADTO.java
+END
+ExchangeRateDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/ExchangeRateDTO.java
+END
+BuildDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/2208/trunk/src/com/ericsson/mssp/common/dto/BuildDTO.java
+END
+OpportunityDetailDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2852/trunk/src/com/ericsson/mssp/common/dto/OpportunityDetailDTO.java
+END
+WorkflowTimelineDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/WorkflowTimelineDTO.java
+END
+SolutionADRDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionADRDTO.java
+END
+SecurityManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/2282/trunk/src/com/ericsson/mssp/common/dto/SecurityManagementDTO.java
+END
+TTPartitionDetailDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTPartitionDetailDTO.java
+END
+ConfigurationManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/2282/trunk/src/com/ericsson/mssp/common/dto/ConfigurationManagementDTO.java
+END
+SearchDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/it_mssp_trunk/!svn/ver/2113/trunk/src/com/ericsson/mssp/common/dto/SearchDTO.java
+END
+DeliveryTypeModelDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/DeliveryTypeModelDTO.java
+END
+ITSpendDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/ITSpendDTO.java
+END
+TaasServiceDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TaasServiceDTO.java
+END
+TTOnOffRatioDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTOnOffRatioDTO.java
+END
+SolutionL2OperationsDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionL2OperationsDTO.java
+END
+SolutionTestingAsAserviceDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2010/trunk/src/com/ericsson/mssp/common/dto/SolutionTestingAsAserviceDTO.java
+END
+TTSummaryStagingDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTSummaryStagingDTO.java
+END
+ChangeManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2264/trunk/src/com/ericsson/mssp/common/dto/ChangeManagementDTO.java
+END
+ProductEstimationGenericInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/it_mssp_trunk/!svn/ver/2507/trunk/src/com/ericsson/mssp/common/dto/ProductEstimationGenericInput.java
+END
+ScopeSummaryReportDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/ScopeSummaryReportDTO.java
+END
+MonthFTEDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2598/trunk/src/com/ericsson/mssp/common/dto/MonthFTEDTO.java
+END
+VolumetricsDefinedByDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/VolumetricsDefinedByDTO.java
+END
+SolutionL2AddServicesDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionL2AddServicesDTO.java
+END
+NonLabourCostDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/NonLabourCostDTO.java
+END
+StaffCategoryMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/StaffCategoryMap.java
+END
+ProductActivitiesComplexityAssumptionsDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/it_mssp_trunk/!svn/ver/2374/trunk/src/com/ericsson/mssp/common/dto/ProductActivitiesComplexityAssumptionsDTO.java
+END
+SolutionOtherMiscDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionOtherMiscDTO.java
+END
+SolutionApproachDimensionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionApproachDimensionDTO.java
+END
+SaveProductEstimationForSolutionWrapperDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/it_mssp_trunk/!svn/ver/2566/trunk/src/com/ericsson/mssp/common/dto/SaveProductEstimationForSolutionWrapperDTO.java
+END
+TTJobRoleDistributionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTJobRoleDistributionDTO.java
+END
+ProgramManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2260/trunk/src/com/ericsson/mssp/common/dto/ProgramManagementDTO.java
+END
+SolutionServiceDeskDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionServiceDeskDTO.java
+END
+DesignDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/it_mssp_trunk/!svn/ver/2209/trunk/src/com/ericsson/mssp/common/dto/DesignDTO.java
+END
+BaseDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/BaseDTO.java
+END
+PostReleaseActivitiesDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/2244/trunk/src/com/ericsson/mssp/common/dto/PostReleaseActivitiesDTO.java
+END
+StaffingPlanDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/StaffingPlanDTO.java
+END
+SolutionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2630/trunk/src/com/ericsson/mssp/common/dto/SolutionDTO.java
+END
+DesignAndBuildDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2243/trunk/src/com/ericsson/mssp/common/dto/DesignAndBuildDTO.java
+END
+UserDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/UserDTO.java
+END
+ProductEstimationForSolutionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/it_mssp_trunk/!svn/ver/2827/trunk/src/com/ericsson/mssp/common/dto/ProductEstimationForSolutionDTO.java
+END
+TTPartitionNameDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTPartitionNameDTO.java
+END
+ProductEstimationBaseEffortForSolutionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/it_mssp_trunk/!svn/ver/2572/trunk/src/com/ericsson/mssp/common/dto/ProductEstimationBaseEffortForSolutionDTO.java
+END
+AppDevTicketDistributionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2709/trunk/src/com/ericsson/mssp/common/dto/AppDevTicketDistributionDTO.java
+END
+E2EProcessQualityDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/common/dto/E2EProcessQualityDTO.java
+END
+SolutionEnhanDevFixedCapacityDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionEnhanDevFixedCapacityDTO.java
+END
+ScopeDefinedByDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/ScopeDefinedByDTO.java
+END
+NotificationDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/NotificationDTO.java
+END
+SolutionL1AddServicesDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionL1AddServicesDTO.java
+END
+ProductDetailsDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2605/trunk/src/com/ericsson/mssp/common/dto/ProductDetailsDTO.java
+END
+SolutionGovAndPmoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionGovAndPmoDTO.java
+END
+SupportWindowMatrixDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SupportWindowMatrixDTO.java
+END
+FTEStagingDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/2016/trunk/src/com/ericsson/mssp/common/dto/FTEStagingDTO.java
+END
+JobRoleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/2448/trunk/src/com/ericsson/mssp/common/dto/JobRoleDTO.java
+END
+FTESummaryDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/2650/trunk/src/com/ericsson/mssp/common/dto/FTESummaryDTO.java
+END
+TNTPartitionDateDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TNTPartitionDateDTO.java
+END
+JobStageDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2630/trunk/src/com/ericsson/mssp/common/dto/JobStageDTO.java
+END
+ServiceElementJobRoleStagesDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/2469/trunk/src/com/ericsson/mssp/common/dto/ServiceElementJobRoleStagesDTO.java
+END
+LocationPyramidDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/2629/trunk/src/com/ericsson/mssp/common/dto/LocationPyramidDTO.java
+END
+AppMainSupportActivityDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2551/trunk/src/com/ericsson/mssp/common/dto/AppMainSupportActivityDTO.java
+END
+StaffAugDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/StaffAugDTO.java
+END
+APADTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/APADTO.java
+END
+DeploymentRollOutDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2244/trunk/src/com/ericsson/mssp/common/dto/DeploymentRollOutDTO.java
+END
+ComponentDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/2633/trunk/src/com/ericsson/mssp/common/dto/ComponentDTO.java
+END
+CountryDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/CountryDTO.java
+END
+ProductivityLeverDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2534/trunk/src/com/ericsson/mssp/common/dto/ProductivityLeverDTO.java
+END
+JobRoleStagesDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2017/trunk/src/com/ericsson/mssp/common/dto/JobRoleStagesDTO.java
+END
+OpportunityLocationDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/OpportunityLocationDTO.java
+END
+TTSummaryDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTSummaryDTO.java
+END
+AvailabilityManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2282/trunk/src/com/ericsson/mssp/common/dto/AvailabilityManagementDTO.java
+END
+AdditionalFTEDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2136/trunk/src/com/ericsson/mssp/common/dto/AdditionalFTEDTO.java
+END
+SolutionAPAClone.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionAPAClone.java
+END
+ServiceScopeAppMainDataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2619/trunk/src/com/ericsson/mssp/common/dto/ServiceScopeAppMainDataBean.java
+END
+InitiateApprovalProcessDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/InitiateApprovalProcessDTO.java
+END
+OpportunityDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/2350/trunk/src/com/ericsson/mssp/common/dto/OpportunityDTO.java
+END
+SolutionL1OperationsDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionL1OperationsDTO.java
+END
+TTPlanningDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTPlanningDTO.java
+END
+SolutionL3OperationsDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionL3OperationsDTO.java
+END
+LocationBreakupDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/2520/trunk/src/com/ericsson/mssp/common/dto/LocationBreakupDTO.java
+END
+StaffingPyramidReportDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/StaffingPyramidReportDTO.java
+END
+AppMainSlaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/2551/trunk/src/com/ericsson/mssp/common/dto/AppMainSlaDTO.java
+END
+DemandSupportDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2244/trunk/src/com/ericsson/mssp/common/dto/DemandSupportDTO.java
+END
+TNTDetailDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TNTDetailDTO.java
+END
+CapacityManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/2282/trunk/src/com/ericsson/mssp/common/dto/CapacityManagementDTO.java
+END
+SolutionComplexityDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/SolutionComplexityDTO.java
+END
+ServiceScopeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1945/trunk/src/com/ericsson/mssp/common/dto/ServiceScopeDTO.java
+END
+ProductVolumetricDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2827/trunk/src/com/ericsson/mssp/common/dto/ProductVolumetricDTO.java
+END
+OpportunitySourceDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/OpportunitySourceDTO.java
+END
+AdmSupportProcessDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1793/trunk/src/com/ericsson/mssp/common/dto/AdmSupportProcessDTO.java
+END
+AccessManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/common/dto/AccessManagementDTO.java
+END
+OpportunityComponentDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/2499/trunk/src/com/ericsson/mssp/common/dto/OpportunityComponentDTO.java
+END
+TTLaborCostDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/TTLaborCostDTO.java
+END
+UserAccessDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/UserAccessDTO.java
+END
+SaveProductEstimationForSolutionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/it_mssp_trunk/!svn/ver/2827/trunk/src/com/ericsson/mssp/common/dto/SaveProductEstimationForSolutionDTO.java
+END
+OpportunityUtilizationPerYearDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/2455/trunk/src/com/ericsson/mssp/common/dto/OpportunityUtilizationPerYearDTO.java
+END
+CustomerDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/CustomerDTO.java
+END
+RoleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/RoleDTO.java
+END
+SolutionUtilPerYearDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/2533/trunk/src/com/ericsson/mssp/common/dto/SolutionUtilPerYearDTO.java
+END
+DeliveryModelDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/DeliveryModelDTO.java
+END
+ServiceAssuranceDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2435/trunk/src/com/ericsson/mssp/common/dto/ServiceAssuranceDTO.java
+END
+OpportunityScopeDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/OpportunityScopeDTO.java
+END
+LoginDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dto/LoginDTO.java
+END
+ProductEstimationAuxiliaryParamsDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/it_mssp_trunk/!svn/ver/2343/trunk/src/com/ericsson/mssp/common/dto/ProductEstimationAuxiliaryParamsDTO.java
+END
+ServiceElementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2350/trunk/src/com/ericsson/mssp/common/dto/ServiceElementDTO.java
+END
+SolutionLeverDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2629/trunk/src/com/ericsson/mssp/common/dto/SolutionLeverDTO.java
+END
+ReleaseManagementDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2260/trunk/src/com/ericsson/mssp/common/dto/ReleaseManagementDTO.java
+END
+ProductEstimationAuxiliaryParamsForSolutionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/it_mssp_trunk/!svn/ver/2348/trunk/src/com/ericsson/mssp/common/dto/ProductEstimationAuxiliaryParamsForSolutionDTO.java
+END

@@ -1,0 +1,10 @@
+﻿INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (1,1);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (2,1);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (3,1);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (4,1);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (5,1);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (1,3);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (2,3);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (3,3);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (4,3);
+INSERT INTO UserApplicationRole (UserID,ApplicationRoleID) VALUES (5,3);

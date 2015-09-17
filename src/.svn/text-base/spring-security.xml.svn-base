@@ -1,0 +1,60 @@
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	http://www.springframework.org/schema/security
+	http://www.springframework.org/schema/security/spring-security-3.0.3.xsd">
+	
+	<beans:bean class="org.springframework.security.web.access.expression.DefaultWebSecurityExpressionHandler"></beans:bean>
+
+
+	<http auto-config="true" use-expressions="true" access-denied-page="/login/accessDenied">
+		
+		<intercept-url pattern="/login/**" access="permitAll"/>
+		<intercept-url pattern="/opportunity/**" access="hasRole('ROLE_GUEST') or hasRole('ROLE_SUPER_USER') or hasRole('ROLE_APPROVER') or hasRole('ROLE_SOLUTION_MANAGER')"/>
+		<intercept-url pattern="/solution/**" access="hasRole('ROLE_GUEST') or hasRole('ROLE_SUPER_USER') or hasRole('ROLE_SOLUTION_MANAGER') or hasRole('ROLE_APPROVER')"/>
+		<intercept-url pattern="/action/**" access="hasRole('ROLE_SUPER_USER') or hasRole('ROLE_SOLUTION_MANAGER') or hasRole('ROLE_APPROVER')"/>
+		<intercept-url pattern="/admin/**" access="hasRole('ROLE_SUPER_USER')"/>
+
+
+		<form-login login-page="/login/homePage" default-target-url="/login/verifyUser" 
+		 always-use-default-target="true" authentication-failure-url="/login/homePage?flag=false"></form-login>
+		
+		 <session-management invalid-session-url="/login/homePage?expire=true">
+		 	<concurrency-control max-sessions="3" error-if-maximum-exceeded="true" />
+		 </session-management>
+		 
+		  <session-management session-fixation-protection="none" />
+		  
+		<logout logout-url="/j_spring_security_logout" 	invalidate-session="false" 	logout-success-url="/login/logout" />
+	</http>
+ 
+<beans:bean id="contextSource" class="org.springframework.security.ldap.DefaultSpringSecurityContextSource">
+	<beans:constructor-arg value="ldap://ecd.ericsson.se:389/" />
+	<beans:property name="userDn" value="uid=egiotrs,ou=users,ou=internal,o=ericsson" />
+	<beans:property name="password" value="@WSX3edc4RFV%tgb" />
+</beans:bean>
+
+<beans:bean id="ldapAuthProvider" class="org.springframework.security.ldap.authentication.LdapAuthenticationProvider">
+
+ <beans:constructor-arg>
+   <beans:bean class="org.springframework.security.ldap.authentication.BindAuthenticator">
+     <beans:constructor-arg ref="contextSource"/>
+     <beans:property name="userDnPatterns">
+      <beans:list><beans:value>uid={0},ou=users,ou=internal,o=ericsson</beans:value></beans:list>
+     </beans:property>
+   </beans:bean>
+ </beans:constructor-arg>
+
+</beans:bean>
+ 
+ <authentication-manager>
+		<authentication-provider ref="ldapAuthProvider"/>
+	</authentication-manager>
+ 
+ <!-- <authentication-manager>
+		<ldap-authentication-provider user-search-filter="(uid={0})" user-search-base="ou=users,ou=internal,o=ericsson"/>
+	</authentication-manager> --> 
+	
+</beans:beans>

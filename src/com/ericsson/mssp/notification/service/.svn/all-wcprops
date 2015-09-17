@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/1925/trunk/src/com/ericsson/mssp/notification/service
+END
+INotificationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/1924/trunk/src/com/ericsson/mssp/notification/service/INotificationService.java
+END
+NotificationScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/notification/service/NotificationScheduler.java
+END

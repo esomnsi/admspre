@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/2821/trunk/src/com/ericsson/mssp/approval/forms
+END
+ApprovalDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/approval/forms/ApprovalDetails.java
+END
+SolutionSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/approval/forms/SolutionSummary.java
+END
+ServiceFTEReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/approval/forms/ServiceFTEReport.java
+END
+ServiceSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/approval/forms/ServiceSummary.java
+END
+TNTReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/approval/forms/TNTReport.java
+END
+ADRReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/approval/forms/ADRReport.java
+END
+ExecSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/2821/trunk/src/com/ericsson/mssp/approval/forms/ExecSummary.java
+END
+CheckListElements.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/approval/forms/CheckListElements.java
+END

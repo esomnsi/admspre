@@ -1,0 +1,126 @@
+.banner_MainWrapper{
+	width:666px; height:339px; float:left;
+	background:url(../images/Banner.png) center no-repeat;
+	}
+	
+.banner_reportAnd3DiamensionalPanel{
+	width:229px; height:339px; float:left;
+	}
+
+.banner_threeDiamensionalIcon{
+	margin:53px 23px 0 0;
+	width:117px; height:116px; float:right; 
+	background:url(../images/ThreeDimensional_Icon.png) center no-repeat;
+	}
+.banner_threeDiamensionalIcon a{
+	
+	width:96px; height:96px; float:left; margin-left:8px; margin-top:7px;
+	}
+.banner_threeDiamensionalIcon a:hover{
+	background:url(../images/hoverIcon.png) center no-repeat;
+	}
+
+	
+.banner_reportingIcon{
+	margin:34px 0 0 0;
+	width:118px; height:117px; float:right; 
+	background:url(../images/Reporting_Icon.png) center no-repeat;
+	}
+.banner_reportingIcon a{
+	width:96px; height:96px; float:left; margin-left:9px; margin-top:7px;
+	}
+.banner_reportingIcon a:hover{
+	background:url(../images/hoverIcon.png) center no-repeat;
+	}
+	
+	
+		
+.banner_costRateAndDesignPanel{
+	width:183px; height:339px; float:left;
+	}
+
+.banner_costRateIcon{
+	margin:7px 28px 0 0;
+	width:115px; height:115px; float:right; 
+	background:url(../images/CostRate_Icon.png) center no-repeat;
+	}
+.banner_costRateIcon a{
+	width:96px; height:96px; float:left; margin-left:9px; margin-top:7px;
+	}
+.banner_costRateIcon a:hover{
+	background:url(../images/hoverIcon.png) center no-repeat;
+	}
+	
+	
+.banner_designAndPlaningIcon{
+	margin:87px 0 0 0;
+	width:116px; height:124px; float:right; 
+	background:url(../images/Design&Planing_Icon.png) center no-repeat;
+	}
+.banner_designAndPlaningIcon a{
+	width:96px; height:96px; float:left; margin-left:9px; margin-top:15px;
+	}
+.banner_designAndPlaningIcon a:hover{
+	background:url(../images/hoverIcon.png) center no-repeat;
+	}
+	
+	
+.banner_historyAndPortfolioPanel{
+	width:182px; height:339px; float:left;
+	}
+.banner_historyIcon{
+	margin:8px 22px 0 0;
+	width:116px; height:122px; float:right; 
+	background:url(../images/PreserveHistory_Icon.png) center no-repeat;
+	}
+.banner_historyIcon a{
+	width:96px; height:96px; float:left; margin-left:9px; margin-top:12px;
+	}
+.banner_historyIcon a:hover{
+	background:url(../images/hoverIcon.png) center no-repeat;
+	}
+	
+	
+.banner_portfolioIcon{
+	margin:35px 0 0 0;
+	width:116px; height:121px; float:right; 
+	background:url(../images/ApplicationPortfolio_Icon.png) center no-repeat;
+	}
+.banner_portfolioIcon a{
+	width:96px; height:96px; float:left; margin-left:9px; margin-top:8px;
+	}
+.banner_portfolioIcon a:hover{
+	background:url(../images/hoverIcon.png) center no-repeat;
+	}
+.tooltipBanner {outline:none; }
+.tooltipBanner strong {line-height:30px;}
+.tooltipBanner:hover {text-decoration:none;} 
+.tooltipBanner p {
+    z-index:10;display:none; padding:9px 15px;
+    top:110px; left:190px;
+    width:300px; line-height:18px;
+	
+	font-family:Arial;
+	font-size:12px;
+	color:#333333;
+	text-align:justify;
+
+}
+.tooltipBanner:hover p{
+    display:inline; position:absolute; color:#000; font-style:italic;
+    border:1px solid #d0d0d0; background:#FFF; 
+	opacity:0.85;
+	filter:alpha(opacity=85);}
+.callout {z-index:20;position:absolute;top:30px;border:0;left:-12px;}
+    
+/*CSS3 extras*/
+.tooltipBanner p
+{
+    border-radius:20px;
+    -moz-border-radius:20px;
+    -webkit-border-radius: 20px;
+        
+    -moz-box-shadow: 5px 5px 8px #a8cbd7;
+    -webkit-box-shadow: 5px 5px 8px #a8cbd7;
+    box-shadow: 5px 5px 8px #a8cbd7;
+}

@@ -1,0 +1,1710 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>HELP</title>
+
+<!-- <link rel="stylesheet" type="text/css" href="../css/it_mssp.css"/> -->
+<link rel="stylesheet" type="text/css" href="../css/main.css"/>
+<link rel="stylesheet" type="text/css" href="../css/diQuery-collapsiblePanel.css" />
+<link rel="stylesheet" type="text/css" href="../css/ui.all.css" />
+<link rel="stylesheet" type="text/css" href="../css/bannerStyle.css" />
+<link rel="stylesheet" type="text/css" href="../css/landingPageStyle.css" />
+
+<script type="text/javascript">
+var previous = 'Navigate to previous page';
+var reset = 'Resets the entered values';
+var save = 'Saves the data into database';
+var next = 'Navigates to next section';
+var first = 'It will display first page of the resulted data set';
+var last = 'It will display last page of the resulted data set';
+var search = 'It will search any string within  all the columns of  the resulted data set';
+var showEntries = 'It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.';
+</script>
+<style type="text/css">
+
+body {
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.helpTD{
+ 	font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	padding-left:10px;
+	/* background-color: #FFFFFF; */
+ }
+
+
+.helpTxt{
+    border: 1px solid #D6D6D6;
+    font-family: arial;
+    font-size: 13px;
+    height: 22px;
+    border-radius: 5px;
+    border-color: #AAAAFF;
+}
+
+.helpTableBorder{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 13.5px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	padding-left:10px;
+    /* background-color:#f7f7f7; grey*/
+    background-color:#EEEEFF;
+    border-radius: 15px;
+    border-color: #AAAAFF;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.helpTableBorder1{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	padding-left:10px;
+    /* background-color:#E5E4E2; */
+    background-color:#CCCCFF;
+    border-radius: 15px;
+    border-color: #AAAAFF;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.helpTableBorder2{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	/* padding-left:10px; */margin-left: 30px;
+    /* background-color:#D1D0CE; */
+    background-color:#EEEEFF;
+    border-color: #AAAAFF;
+    border-radius: 12px;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    
+}
+
+.helpTableBorder3{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	padding-left:10px;
+    /* background-color:#C0C0C0; */
+    background-color:#CCCCFF;
+    border-color: #AAAAFF;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.helpTableBorder3-5{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	
+    /* background-color:#B6B6B4; */
+    background-color:#EEEEFF;
+    border-radius: 7px;
+    border-color: #AAAAFF;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.helpTableBorder4{
+    border: 1px solid #D6D6D6;
+    
+    font-size: 12px;
+  	text-align:left;
+   	height:15px;
+	font-style:italic;
+  	color: #333333;
+	font-family: arial;
+	/* padding-left:10px; */
+    /* background-color:#848482; */
+    background-color:#CCCCFF;
+    border-color: #AAAAFF;
+    margin-left: 30px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.helpTableBorder5{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-style:italic;
+    font-size: 12px;
+}
+
+</style>
+
+</head>
+<body>
+<table class="helpTableBorder" width="95%"><tr><td width="100%">
+<h1 align="center" >!! Welcome to ADM Help !!</h1>
+</td></tr>
+</table>
+<br>
+<table class="helpTableBorder" width="95%">
+<tr><td>
+<h2 style="color:blue;"><a href="#MyAction">My Action</a></h2>
+<p>This is a Inbox of User. Based on User and its associate Role, the data will get change in this module. The primary objective of this module is to show all the solutions on which he/she need to act upon. Solution Manager will see all the   Solutions that he needs to look upon</p>
+<p>Solution Manager ->  He can check the opportunity/ Solutions that has been saved as a draft and assign to him.<br>
+Approver --> He will see all the list of Solution  that he needs to approved and he will go the next business process flow.</p>
+</td></tr>
+
+<tr><td>
+<h2 style="color:blue;"><a href="#CreateNewSolution">Create New Solution</a></h2>
+<p>Authorized user can create new solution from here.</p>
+</td></tr>
+
+<tr><td>
+<h2 style="color:blue;"><a href="#OpenSolution">Open Solution</a></h2>
+<p>User Can search all the solutions created by any of the solution manager and solution can be any of the state [i.e. draft, approved, submitted].</p>
+<p>It is main search screen to find any solution. User can search any solution but he can act on the solution that has been creadted or assign to him. All the other solutions can be display as view node to him.</p>
+</td></tr>
+
+<!-- <tr><td>
+<h2 style="color:blue;"><a href="#OpenOpportunity">Open Opportunity</a></h2>
+<p>Enter Description for Open Opportunity here</p>
+</td></tr> -->
+
+<tr><td>
+<h2 style="color:blue;"><a href="#Admin">Admin</a></h2>
+<p>If user has administration rights then it can perform all the administration tasks in this section.</p>
+<p>If user does not has administration rights then this section is unaccessible for that user.</p>
+</td></tr>
+
+<!-- <tr><td>
+<h2 style="color:blue;"><a href="#Dashboard">Dashboard</a></h2>
+<p>Enter Description for Dashboard here</p>
+</td></tr> -->
+
+</table>
+<br>
+
+
+<!-- <table id="table_main" class="helpTableBorder" width="93%"> -->
+
+<!-- My Action Start-->
+
+<tr><td>
+		<table id="table_Admin" class="helpTableBorder1" width="95%">
+			<tr><td><h2><a id="MyAction">Module : My Action</a></h2></td></tr>			
+			
+			<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+				<tr><td>
+					<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder2" width="25%">									
+						<tr><td class="helpTxt"><b>Opportunity Name (Id)</b></td><!-- </tr> -->
+						<tr><td class="helpTxt"><b>Solution Name (Id)</b></td> <!-- </tr> -->
+						<tr><td class="helpTxt"><b>Customer</b></td> <!-- </tr> -->
+						<tr><td class="helpTxt"><b>Country</b></td> <!-- </tr> -->
+						<tr><td class="helpTxt"><b>Region</b></td> <!-- </tr> -->
+						<tr><td class="helpTxt"><b>Status</b></td> <!-- </tr> -->
+					</table>
+				</td></tr>
+							
+				<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+					<tr><td>
+						<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder2" width="85%">									
+							<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt"><script>document.write(showEntries);</script></td></tr>
+							<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"><script>document.write(search);</script></td></tr>
+							<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"><script>document.write(first);</script></td></tr>									
+							<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"><script>document.write(previous);</script></td></tr>
+							<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>
+							<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"><script>document.write(last);</script></td></tr>
+						</table>							
+				</td></tr>							
+		</table>
+		</td>
+		</tr>
+
+<!-- My Action end -->
+<br>
+<!-- Create New Solution Start -->
+
+<tr><td>
+		<table id="table_Admin" class="helpTableBorder1">
+			<tr><td><h2><a id="CreateNewSolution">Module : Create New Solution</a></h2></td></tr>		
+			<!--  Opportunity Start -->	
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Sub Module :  Opportunity</a></h3></td></tr>
+					<!-- <tr><td ><h3>Description :</h3> Write description for Opportunity here</td></tr><br> -->
+					<!-- Create Opportunity Start -->
+					<tr><td>					
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Create Opportunity</a></h3></td></tr>
+							<tr><td><h4>Description :</h4>Solution Manager will create Opportunity from here. All related/required data for opportunity will be captured here.</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="25%">									
+									<tr><td class="helpTxt" ><b>Opportunity Name</b></td><!--  --></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>Owning Country</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>SDP-0</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>SDP-1</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>SDP-2</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>Submission to Customer</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>Opportunity Source</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>Commercial Model</b></td> <!--  --></tr>
+									<tr><td class="helpTxt"><b>Comments</b></td> <!--  --></tr>
+								</table>
+							</td></tr>
+								
+																			
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Create New</b></td><td class="helpTxt">Creates New opportunity.</td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>
+								
+							</td></tr>
+						</table>
+					</td></tr>
+					<!-- Create Opportunity End -->
+						<br>
+					<!-- Opportunity details Start -->
+					
+					<tr><td>					
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Opportunity Details</a></h3></td></tr>
+							<tr><td><h4>Description :</h4>An Opportunity should have multiple important data to captured. In this screen application will take all Opportunity Details information and store in DB.</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td align="left" width="26%">
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt"><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Choose Opportunity Owner</b></td></tr>
+									<tr><td class="helpTxt"><b>Existing Customer</b></td> </tr>
+									<tr><td class="helpTxt"><b>CRM 360 ID</b></td></tr>
+									<tr><td class="helpTxt"><b>New Business</b></td> </tr>
+								</table>
+							</td>
+							<!-- <td style="text-indent: 30px; vertical-align:;"><img src="arrow-right.png" style="width:40px;height:40px"></td> -->
+							</tr>
+								
+																			
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>
+								
+							</td></tr>
+						</table>
+					</td></tr>
+					
+					
+					<!-- Opportunity details End -->
+						<!-- Customer & Competitor start-->
+						<tr><td>
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Customer & Competitor</a></h3></td></tr>
+							<tr><td><h4>Description :</h4>An Opportunity should have multiple important data to captured. In this screen application will take all Customer & Comp  information and store in DB.</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt" ><b>Competitors</b></td></tr>
+									<tr><td class="helpTxt"><b>Existing FTE</b></td> </tr>
+									<tr><td class="helpTxt"><b>Reasons for Requesting Services</b></td> </tr>
+									<tr><td class="helpTxt"><b>Capex Spend </b></td> </tr>
+									<tr><td class="helpTxt"><b>Opex Spend </b></td> </tr>
+									<tr><td class="helpTxt"><b>Deal Value</b></td> </tr>
+									<tr><td class="helpTxt"><b>Primary Business</b></td> </tr>									
+								</table>
+							</td></tr>
+								
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>
+								
+							</td></tr>
+						</table>						
+					</td></tr>
+					
+					<!-- Customer & Competitor end-->
+					<!-- Location Profile Start -->
+					<tr><td>
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Location Profile</a></h3></td></tr>
+							<tr><td><h4>Description :</h4>An Opportunity should have multiple important data to captured. In this screen application will take all Location  information and store in DB.</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt" ><b>Client Country</b></td></tr>
+									<tr><td class="helpTxt"><b>Near Shore</b></td> </tr>
+									<tr><td class="helpTxt"><b>Remote Location 1</b></td> </tr>
+									<tr><td class="helpTxt"><b>Remote Location 2</b></td> </tr>								
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt" ><b>Currency</b></td></tr>
+									<tr><td class="helpTxt"><b>Currency Code</b></td> </tr>
+									<tr><td class="helpTxt"><b>Time Zone</b></td> </tr>							
+								</table>
+							</td></tr>
+								
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>
+								
+							</td></tr>
+						</table>						
+					</td></tr>
+					<!-- Location Profile End -->
+					
+					<!-- Project Delivery Start -->
+					
+					
+					<tr><td>
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Project Delivery</a></h3></td></tr>
+							<tr><td><h4>Description :</h4>An Opportunity should have multiple important data to captured. In this screen application will take all Delivery  information and store in DB.</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt" ><b>Transformation Start Date</b></td></tr>
+									<tr><td class="helpTxt"><b>Transformation End Date</b></td> </tr>
+									<tr><td class="helpTxt"><b>Steady State Start Date</b></td> </tr>
+									<tr><td class="helpTxt"><b>Steady State End Date</b></td> </tr>
+									<tr><td class="helpTxt"><b>Delivery Model</b></td> </tr>
+									<tr><td class="helpTxt"><b>Scope/Volumetric Defined By</b></td> </tr>								
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt" ><b>Contract Duration </b></td></tr>
+									<tr><td class="helpTxt"><b>Steady State Duration</b></td> </tr>								
+								</table>
+							</td></tr>
+							
+								
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>
+								
+							</td></tr>
+						</table>						
+					</td></tr>
+					<!-- Project Delivery End -->
+					<!-- Ericsson Personnel Start -->
+					
+					<tr><td>
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Ericsson Personnel</a></h3></td></tr>
+							<tr><td><h4>Description :</h4>An Opportunity should have multiple important data to captured. In this screen application will take all Ericsson Personnel for this solutions and store in DB.</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="58%">									
+									<tr><td class="helpTxt" width="10%"><b>Region KAM</b></td></tr>
+									<tr><td class="helpTxt" width="35%"><b>Choose CSR</b></td><td width="5%"><img src="../images/arrow-right.png" style="width:30px;height:30px"></td><td class="helpTxt" width="35%"><b>First Name - Last Name (Signum)</b></td> </tr>
+									<tr><td class="helpTxt" width="35%"><b>Choose ACR</b></td><td><img src="../images/arrow-right.png" style="width:30px;height:30px"></td> <td class="helpTxt" width="35%"><b>First Name - Last Name (Signum)</b></td></tr>
+									<tr><td class="helpTxt" width="35%"><b>Choose CFR</b></td><td><img src="../images/arrow-right.png" style="width:30px;height:30px"></td><td class="helpTxt" width="35%"><b>First Name - Last Name (Signum)</b></td> </tr>
+									<tr><td class="helpTxt" width="35%"><b>Choose PSM</b></td><td><img src="../images/arrow-right.png" style="width:30px;height:30px"></td><td class="helpTxt" width="35%"><b>First Name - Last Name (Signum)</b></td> </tr>
+									<tr><td class="helpTxt" width="35%"><b>Choose Sec SME</b></td><td><img src="../images/arrow-right.png" style="width:30px;height:30px"></td><td class="helpTxt" width="35%"><b>First Name - Last Name (Signum)</b></td> </tr>								
+									<tr><td class="helpTxt" width="35%"><b>Choose Ter SME</b></td><td><img src="../images/arrow-right.png" style="width:30px;height:30px"></td><td class="helpTxt" width="35%"><b>First Name - Last Name (Signum)</b></td>	 </tr>
+								</table>
+							</td></tr>
+								
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="58%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+							
+						</table>						
+					</td></tr>
+					
+					<!-- Ericsson Personnel End -->
+					
+				</table>
+			</td></tr>
+			<!-- Opportunity End -->
+			
+			<!-- Define Scope Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Define Scope</a></h3></td></tr>
+					<!-- <tr><td ><h3>Description :</h3> Write description for Opportunity here</td></tr><br> -->
+					<!-- Service Element Start -->
+					<tr><td>					
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Service Element</a></h3></td></tr>
+							<tr><td><h4>Description :</h4>This is beginning of the Solution workflow. The Solution manage will choose all the scope for the opportunity .</td></tr>							
+							
+							<tr><td><table class="helpTableBorder3-5" width="89%">
+							<tr><td align="left"><h3>Sub Module : Application Development</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="26%">									
+									<tr><td class="helpTxt" ><b>Demand Support</b></td></tr>
+									<tr><td class="helpTxt"><b>Design</b></td> </tr>
+									<tr><td class="helpTxt"><b>Build</b></td> </tr>
+									<tr><td class="helpTxt"><b>Deployment Roll Out</b></td> </tr>
+									<tr><td class="helpTxt"><b>Post-Release Activities</b></td> </tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3-5" width="89%">
+							<tr><td align="left"><h3>Sub Module : Application Testing </h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="26%">									
+									<tr><td class="helpTxt" ><b>E2E Test & Validation</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3-5" width="89%">
+							<tr><td align="left"><h3>Sub Module : Application Maintenance </h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="26%">									
+									<tr><td class="helpTxt" ><b>Service Support</b></td></tr>
+									<tr><td class="helpTxt"><b>Reactive Assurance</b></td> </tr>
+									<tr><td class="helpTxt"><b>E2E Process Quality</b></td> </tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3-5" width="89%">
+							<tr><td align="left"><h3>Sub Module : Adm Support Process </h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="26%">									
+									<tr><td class="helpTxt" ><b>Program Management</b></td></tr>
+									<tr><td class="helpTxt"><b>Release Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Change Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Capacity Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Configuration Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Security Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Availability Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Access Management</b></td> </tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5 " width="89%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+							
+						</table>
+					</td></tr>
+					<!-- Service Element End -->
+					
+						<br>
+						<!-- Solution Approach Start -->
+						<tr><td>
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Solution Approach </h3></td></tr>
+							<tr><td><h4>Description :</h4>This is beginning of the Solution approach workflow. The Solution manage will select the approach of solution for the opportunity . Volumetric, People Stack or Stuff Augmentation process of the solution need to manage from this section.</td></tr>							
+							
+							<tr><td><table class="helpTableBorder3-5" width="89%">
+							<tr><td align="left"><h3>Sub Module : CCM </h3></td></tr>
+							</table></td></tr>	
+							<tr><td><table class="helpTableBorder3-5" width="89%">						
+							<tr><td align="left"><h3>Sub Module : Non-CCM</h3></td></tr>
+							</table></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="89%">
+									<tr><td class="helpTxt"><b>Create New Solution</b></td> <td class="helpTxt">This button will create New Solution</script></td></tr>									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>
+								
+							</td></tr>
+						</table>						
+					</td></tr>					
+					<!-- Solution Approach End -->
+					
+				</table>
+			</td></tr>
+			
+			<!-- Define Scope End -->
+			<!--  Input BaseLine Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Input BaseLine</a></h3></td></tr>
+					<tr><td style="padding-left:30px;"><h3>Description :</h3>This is Basic input screen of all the services and their input criteria.</td></tr><br>
+					<!-- ADM Support Process Start -->
+					<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Adm Support Process</a></h3></td></tr>							
+							<!-- <tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Program Management</b></td></tr>
+									<tr><td class="helpTxt"><b>Release Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Change Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Capacity Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Configuration Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Security Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Availability Management</b></td> </tr>
+									<tr><td class="helpTxt"><b>Access Management</b></td> </tr>
+								</table>
+							</td></tr> -->
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Application Development</a></h3></td></tr>							
+							<!-- <tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Demand Support</b></td></tr>
+									<tr><td class="helpTxt"><b>Design</b></td> </tr>
+									<tr><td class="helpTxt"><b>Build</b></td> </tr>
+									<tr><td class="helpTxt"><b>Deployment Roll Out</b></td> </tr>
+									<tr><td class="helpTxt"><b>Post-Release Activities</b></td> </tr>
+								</table>
+							</td></tr> -->
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Application Testing</a></h3></td></tr>							
+							<!-- <tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>E2E Test & Validation</b></td></tr>
+								</table>
+							</td></tr> -->
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Process Flow : Application Maintenance</a></h3></td></tr>							
+							<!-- <tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Service Support</b></td></tr>
+									<tr><td class="helpTxt"><b>Reactive Assurance</b></td> </tr>
+									<tr><td class="helpTxt"><b>E2E Process Quality</b></td> </tr>
+								</table>
+							</td></tr> -->
+							</table></td></tr>
+							
+							
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3" width="89%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+							
+						
+					<!-- ADM Support Process End -->
+					
+						<br>
+					
+				</table>
+			</td></tr>			
+			<!--  Input BaseLine End -->
+			
+			<!-- Application Portfolio Analysis Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module : Application Portfolio Analysis</a></h3></td></tr>
+					<!-- <tr><td ><h3>Description :</h3> </td></tr><br> -->
+										
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : SCORE CARD (WEIGHTED AVERAGE)</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt" ><b>Level Of Document</b></td></tr>
+									<tr><td class="helpTxt"><b>Stability</b></td> </tr>
+									<tr><td class="helpTxt"><b>Longevity</b></td> </tr>
+									<tr><td class="helpTxt"><b>Complexity</b></td> </tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Service Elements</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="26%">									
+									<tr><td class="helpTxt" ><b>Business Functions/Domains</b></td></tr>
+									<tr><td class="helpTxt" ><b>Application Name</b></td></tr>
+									<tr><td class="helpTxt" ><b>Users</b></td></tr>
+									<tr><td class="helpTxt" ><b>Platform</b></td></tr>
+									<tr><td class="helpTxt" ><b>Database</b></td></tr>
+									<tr><td class="helpTxt" ><b>Required Primary Skills</b></td></tr>
+									<tr><td class="helpTxt" ><b>Required Secondary Skills</b></td></tr>
+									<tr><td class="helpTxt" ><b>Business Criticality</b></td></tr>
+									<tr><td class="helpTxt" ><b>Level Of Document</b></td></tr>
+									<tr><td class="helpTxt" ><b>Stability</b></td></tr>
+									<tr><td class="helpTxt" ><b>Longevity</b></td></tr>
+									<tr><td class="helpTxt" ><b>Complexity</b></td></tr>
+									<tr><td class="helpTxt" ><b>Share</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>						
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="89%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+					<!-- Service Element End -->
+					
+						<br>
+				</table>
+			</td></tr>
+			
+			<!-- Application Portfolio Analysis End -->
+			
+			<!--  Adjust Complexity Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Adjust Complexity</a></h3></td></tr>
+					<!-- <tr><td ><h3>Description :</h3> </td></tr><br> -->
+										
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Adjust Complexity</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Skill/module/functional area adjustor</b></td></tr>
+									<tr><td class="helpTxt"><b>Region Adjustor</b></td> </tr>
+									<tr><td class="helpTxt"><b>Audit Adjustor</b></td> </tr>
+									<tr><td class="helpTxt"><b>SLA Adjustor</b></td> </tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Prob Res Complexity & Effort Contingency</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Rating</b></td></tr>
+									<tr><td class="helpTxt" ><b>Complexity Adjustor</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>	
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Apply Application Portfolio Complexity</h3></td></tr>	
+													
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Pre-Adjusted -FTE</b></td></tr>
+									<tr><td class="helpTxt" ><b>Pre-Adjusted -Hours</b></td></tr>
+									<tr><td class="helpTxt" ><b>Assessed Application Complexity -Default</b></td></tr>
+									<tr><td class="helpTxt" ><b>Assessed Application Complexity -Override</b></td></tr>
+									<tr><td class="helpTxt" ><b>Adjust FTE %-Default</b></td></tr>
+									<tr><td class="helpTxt" ><b>Adjust FTE %-Override</b></td></tr>
+									<tr><td class="helpTxt" ><b>Effort Contingency</b></td></tr>
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Computed Complexity Adjustors Rating :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Effort</b></td></tr>
+									<tr><td class="helpTxt" ><b>Cost</b></td></tr>
+									<tr><td class="helpTxt" ><b>Adjusted -FTE</b></td></tr>
+									<tr><td class="helpTxt" ><b>Adjusted -Hours</b></td></tr>
+								</table>
+							</td></tr>
+							
+							</table></td></tr>					
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="89%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+					
+						<br>
+				</table>
+			</td></tr>
+			
+			<!--  Adjust Complexity End -->
+			
+			<!-- Solution Lever Start -->
+			
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Solution Levers</a></h3></td></tr>
+					<!-- <tr><td style="padding-left:30px;"><h3>Description :</h3> </td></tr><br> -->
+										
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Solution Levers Approach</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Stair Case</b></td></tr>
+									<tr><td class="helpTxt"><b>Uniform</b></td> </tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Select Service Scope</a></h3></td></tr>							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Productivity Levers</a></h3></td></tr>							
+							</table></td></tr>	
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Location Breakup Percentages</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Time Lines</b></td></tr>
+									<tr><td class="helpTxt" ><b>Onshore %</b></td></tr>
+									<tr><td class="helpTxt" ><b>Nearshore %</b></td></tr>
+									<tr><td class="helpTxt" ><b>Offshore %</b></td></tr>
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Onshore FTE</b></td></tr>
+									<tr><td class="helpTxt" ><b>Nearshore FTE</b></td></tr>
+									<tr><td class="helpTxt" ><b>Offshore FTE</b></td></tr>
+								</table>
+							</td></tr>
+							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Onshore Local Pyramid</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Time Lines</b></td></tr>
+									<tr><td class="helpTxt" ><b>Job Role(Job Stages)</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Onshore GSCi Pyramid</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Time Lines</b></td></tr>
+									<tr><td class="helpTxt" ><b>Job Role(Job Stages)</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>					
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Onshore 3PP Pyramid</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Time Lines</b></td></tr>
+									<tr><td class="helpTxt" ><b>Job Role(Job Stages)</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Nearshore Pyramid</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Time Lines</b></td></tr>
+									<tr><td class="helpTxt" ><b>Job Role(Job Stages)</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Offshore Pyramid</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Time Lines</b></td></tr>
+									<tr><td class="helpTxt" ><b>Job Role(Job Stages)</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="89%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+					
+						<br>
+				</table>
+			</td></tr>
+			
+			<!-- Solution Lever End -->
+			
+			<!-- Review FTE Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Review FTE </h3></td></tr>
+					<tr><td style="padding-left:30px;"><h3>Description :</h3>This section will show the FTE for the selected scope along with JOB Stage, JOB Role and monthwise for the whole project timeline. The Solution Manager Can add additional<br>
+														   resouces based his assumptions. </td></tr><br>
+										
+							<tr><td><table class="helpTableBorder4" width="89%">
+							<tr><td align="left"><h3>Sub Module : Select Service Scope</h3></td></tr>							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder4" width="89%">
+							<tr><td align="left"><h3>Sub Module : Re- Generate</h3></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Onshore   (Time lines)</b></td></tr>
+									<tr><td class="helpTxt" ><b>Different Service Scopes</b></td></tr>
+								</table>
+							</td></tr>							
+							</table></td></tr>	
+							
+							<tr><td><table class="helpTableBorder4" width="89%">
+							<tr><td align="left"><h3>Sub Module : Onshore Count </h3></td></tr>							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder4" width="89%">
+							<tr><td align="left"><h3>Sub Module : Offshore Count </h3></td></tr>							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder4" width="89%">
+							<tr><td align="left"><h3>Sub Module : Overall Count </h3></td></tr>							
+							</table></td></tr>
+							
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Addition of Resources Details</h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="30%">									
+									<tr><td class="helpTxt" ><b>Select role</b></td></tr>
+									<tr><td class="helpTxt" ><b>Select Job Stage</b></td></tr>
+									<tr><td class="helpTxt" ><b>Select Site</b></td></tr>
+									<tr><td class="helpTxt" ><b># Of FTE</b></td></tr>
+									<tr><td class="helpTxt" ><b>From</b></td></tr>
+									<tr><td class="helpTxt" ><b>To</b></td></tr>
+								</table>
+							</td></tr>
+							</table></td></tr>							
+														
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="89%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+					
+						<br>
+				</table>
+			</td></tr>
+			
+			<!-- Review FTE End -->
+			
+			<!-- Labour cost start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Labor Cost</a></h3></td></tr>
+					<tr><td style="padding-left:30px;"><h3>Description :</h3>Based on Review FTE, the cost of labor will calculate depending on Review FTE Data, Country sected and Rate Card of the country and Region</td></tr><br>
+										
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Select Service Scope</h3></td></tr>							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Onshore Labour</h3></td></tr>							
+							</table></td></tr>	
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Offshore Labour</h3></td></tr>							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder3" width="89%">
+							<tr><td align="left"><h3>Sub Module : Select Currency</h3></td></tr>							
+							</table></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Business Logic :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="89%">									
+									<tr><td class="helpTxt" ><b>TimeLine</b></td></tr>
+									<tr><td class="helpTxt"><b>JobRole(Stages)</b></td></tr>									
+									<tr><td class="helpTxt"><b>Cost</b></td> </tr>
+									<tr><td class="helpTxt"><b>Total Cost</b></td> </tr>
+								</table>								
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="89%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+					
+						<br>
+				</table>
+			</td></tr>
+			
+			
+			<!-- Labour cost end -->
+			
+			<!-- Non-Labor Cost Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Non Labor Cost</a></h3></td></tr>
+					<tr><td style="padding-left:30px;"><h3>Description :</h3>This is having multiple section to capture all the cost related to non labor.</td></tr><br>
+					<!-- Input Parameters Start -->
+					<tr><td><table class="helpTableBorder3" width="90%">
+							<tr><td align="left"><h3>Process Flow : Input Parameter</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Region</b></td></tr>
+									<tr><td class="helpTxt"><b>Currency to be Quoted in</b></td> </tr>
+									<tr><td class="helpTxt"><b>Inflation Rate MS %</b></td> </tr>
+									<tr><td class="helpTxt"><b>Working Days in a Month</b></td> </tr>
+									<tr><td class="helpTxt"><b>Working Hours in a Day</b></td> </tr>
+									<tr><td class="helpTxt"><b>Invoicing Type * POICRRB</b></td> </tr>
+									<tr><td class="helpTxt"><b>One Round Trip Ticket Cost *</b></td> </tr>
+									<tr><td class="helpTxt"><b>One Short Term Visa Cost *</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Hotel Cost Per Night of stay * </b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Daily Per Diem *</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Conveyance Costs Per Day per FTE *</b></td> </tr>
+									<tr><td class="helpTxt"><b>Mobile communication cost per Onsite FTE per month * </b></td> </tr>
+									<tr><td class="helpTxt"><b>Will the MSDP Platform Used for Delivery in MS * YesNo</b></td> </tr>
+									<tr><td class="helpTxt"><b>MSDP Costs per FTE Per Month </b></td> </tr>									
+								</table>
+							</td></tr>
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="38%">									
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+							
+							</table></td></tr>
+							<!-- Input Parameters End -->
+							
+							<!-- transition and travel cost Start -->
+							
+							<tr><td><table class="helpTableBorder3" width="90%">
+							<tr><td align="left"><h3>Process Flow : Transition and Travel Cost</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt" ><b>Number of Round Trips</b></td></tr>
+									<tr><td class="helpTxt"><b>Number of Short Term Visa</b></td> </tr>																		
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt" ><b>Managed Services - Transition In  </b></td></tr>
+									<tr><td class="helpTxt"><b>Number of Onsite Resources Short Term   </b></td> </tr>	
+									<tr><td class="helpTxt"><b>Number of Calendar Days Onsite</b></td> </tr>
+									<tr><td class="helpTxt"><b>Number of Working Days Onsite </b></td> </tr>
+									<tr><td class="helpTxt"><b>Costs</b></td> </tr>
+									<tr><td class="helpTxt"><b>Managed Services Transition In </b></td> </tr>
+									<tr><td class="helpTxt"><b>Round Trip Cost  </b></td> </tr>
+									<tr><td class="helpTxt"><b>Short Term Visa Cost</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Hotel Cost</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Per Diem</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Conveyance Costs</b></td> </tr>
+									<tr><td class="helpTxt"><b>Mobile Communication Costs</b></td> </tr>
+									<tr><td class="helpTxt"><b>TimeLine</b></td> </tr>																	
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+							
+							</table></td></tr>
+							
+							<!-- Transition and Travel Cost End -->
+							
+							<!-- Steady State and Travel Cost Start -->
+							
+							<tr><td><table class="helpTableBorder3" width="90%">
+							<tr><td align="left"><h3>Process Flow : Steady State and Travel Cost</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt" ><b>Number of Round Trips</b></td></tr>
+									<tr><td class="helpTxt"><b>Number of Short Term Visa</b></td> </tr>																		
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt" ><b>Managed Services - Transition In  </b></td></tr>
+									<tr><td class="helpTxt"><b>Number of Onsite Resources Short Term   </b></td> </tr>	
+									<tr><td class="helpTxt"><b>Number of Calendar Days Onsite</b></td> </tr>
+									<tr><td class="helpTxt"><b>Number of Working Days Onsite </b></td> </tr>
+									<tr><td class="helpTxt"><b>Costs</b></td> </tr>
+									<tr><td class="helpTxt"><b>Managed Services Transition In </b></td> </tr>
+									<tr><td class="helpTxt"><b>Round Trip Cost  </b></td> </tr>
+									<tr><td class="helpTxt"><b>Short Term Visa Cost</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Hotel Cost</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Per Diem</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onsite Conveyance Costs</b></td> </tr>
+									<tr><td class="helpTxt"><b>Mobile Communication Costs</b></td> </tr>
+									<tr><td class="helpTxt"><b>TimeLine</b></td> </tr>																	
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>									
+								</table>								
+							</td></tr>
+							
+							</table></td></tr>
+							
+							<!-- Steady State and Travel Cost End -->
+							
+							<!-- Other Cost Start -->
+							
+							<tr><td><table class="helpTableBorder3" width="90%">
+							<tr><td align="left"><h3>Process Flow : Other Cost</a></h3></td></tr>							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt" ><b>Connectivity - Client Env to Offshore</b></td></tr>
+									<tr><td class="helpTxt"><b>Connectivity - Offshore to Dev Centre</b></td> </tr>																		
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt" ><b>Number of OffShore FTE</b></td></tr>
+									<tr><td class="helpTxt"><b>MSDP Costs</b></td> </tr>	
+									<tr><td class="helpTxt"><b>Total Other Cost</b></td> </tr>
+									<tr><td class="helpTxt"><b>TimeLine</b></td> </tr>																
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">									
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>									
+								</table>								
+							</td></tr>
+							
+							</table></td></tr>
+							
+							
+							<!-- Other Cost End -->
+							
+					
+						<br>
+					
+				</table>
+			</td></tr>
+			
+			
+			<!-- Non-Labor Cost End -->
+			
+			<!-- Manage ADR Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Manage ADR</a></h3></td></tr>
+					<tr><td style="padding-left:30px;"><h3>Description :</h3>Assumption , Dependency and Risk of the solution will capture in this section.</td></tr><br>
+																	
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>Statement</b></td></tr>
+									<tr><td class="helpTxt"><b>Category</b></td> </tr>
+									<tr><td class="helpTxt"><b>Area</b></td> </tr>
+									<tr><td class="helpTxt"><b>Type</b></td> </tr>
+									<tr><td class="helpTxt"><b>Impact</b></td> </tr>
+									<tr><td class="helpTxt"><b>Weightage</b></td> </tr>
+								</table>
+							</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>Add</b></td><!-- <td class="helpTxt"></td> --></tr>
+									<tr><td class="helpTxt"><b>Edit</b></td> <!-- <td class="helpTxt"></td> --></tr>
+									<tr><td class="helpTxt"><b>Delete</b></td> <!-- <td class="helpTxt"><script>document.write();</script></td> --></tr>
+									<tr><td class="helpTxt"><b>Export</b></td> <!-- <td class="helpTxt"><script>document.write();</script></td> --></tr>									
+									<tr><td class="helpTxt"><b>Pages</b></td> <!-- <td class="helpTxt"><script>document.write();</script></td> --></tr>
+									<tr><td class="helpTxt"><b>Submit</b></td> <!-- <td class="helpTxt"><script>document.write();</script></td> --></tr>
+								</table>								
+							</td></tr>							
+				</table>
+			</td></tr>
+			
+			<!-- Manage ADR End -->
+			<!-- Steady State Staffing Plan Start -->
+			
+			<tr><td>			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Module :  Steady State Staffing Plan</a></h3></td></tr>
+					<!-- <tr><td style="padding-left:30px;"><h3>Description :</h3></td></tr><br> -->
+																	
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>Demand Raised by</b></td></tr>
+									<tr><td class="helpTxt"><b>Demand Created On</b></td> </tr>
+									<tr><td class="helpTxt"><b>Status</b></td> </tr>
+									<tr><td class="helpTxt"><b>EGI BU</b></td> </tr>
+									<tr><td class="helpTxt"><b>Project Type</b></td> </tr>
+									<tr><td class="helpTxt"><b>GTT Opportunity</b></td> </tr>
+									<tr><td class="helpTxt"><b>Number of Demanded Positions</b></td> </tr>
+									<tr><td class="helpTxt"><b>Accept Subcontractors</b></td> </tr>
+									<tr><td class="helpTxt"><b>Win Odds Probability</b></td> </tr>
+									<tr><td class="helpTxt"><b>Primary Delivery Location in GSC India</b></td> </tr>
+									<tr><td class="helpTxt"><b>Secondary Delivery Location in GSC India</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onshore Location</b></td> </tr>
+									<tr><td class="helpTxt"><b>Position Start Date</b></td> </tr>
+									<tr><td class="helpTxt"><b>Position End Date</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onshore Start date</b></td> </tr>
+									<tr><td class="helpTxt"><b>Onshore end date</b></td> </tr>
+									<tr><td class="helpTxt"><b>Grade Low</b></td> </tr>
+									<tr><td class="helpTxt"><b>Grade High</b></td> </tr>
+									<tr><td class="helpTxt"><b>Job Family</b></td> </tr>
+									<tr><td class="helpTxt"><b>Job Role</b></td> </tr>
+									<tr><td class="helpTxt"><b>Competency</b></td> </tr>
+									<tr><td class="helpTxt"><b>Practice</b></td> </tr>
+									<tr><td class="helpTxt"><b>Practice Area</b></td> </tr>
+									<tr><td class="helpTxt"><b>Primary Skillset</b></td> </tr>
+									<tr><td class="helpTxt"><b>Secondary Skillset</b></td> </tr>
+									<tr><td class="helpTxt"><b>Type of Request</b></td> </tr>
+									<tr><td class="helpTxt"><b>Resource Manager</b></td> </tr>
+									<tr><td class="helpTxt"><b>Additional Information</b></td> </tr>
+								</table>
+							</td></tr>							
+						
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>Previous</b></td><td class="helpTxt"><script>document.write(previous);</script></td></tr>
+									<tr><td class="helpTxt"><b>Add New</b></td> <td class="helpTxt">Add New value</td></tr>
+									<tr><td class="helpTxt"><b>Add Copied</b></td> <td class="helpTxt">Add copied value</td></tr>
+									<tr><td class="helpTxt"><b>Reset</b></td> <td class="helpTxt"><script>document.write(reset);</script></td></tr>									
+									<tr><td class="helpTxt"><b>Save</b></td> <td class="helpTxt"><script>document.write(save);</script></td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"><script>document.write(next);</script></td></tr>
+								</table>								
+							</td></tr>							
+				</table>
+			</td></tr>
+			
+			<!-- Steady State Staffing Plan End -->
+			</table></td></tr>
+			<!-- Create New Solution end -->
+			<br>
+			<!-- Open Solution Start -->
+			
+	<tr><td>
+		<table id="table_Admin" class="helpTableBorder1" width="95%">
+			<tr><td><h2><a id="OpenSolution">Module : Open Solution</a></h2></td></tr>			
+			<tr><td>
+			
+				<table id="table_Usermanagement" class="helpTableBorder2" width="90%">
+					<tr><td align="left" style="padding-left:30px;"><h3>Sub Module :  Search Open Solution</a></h3></td></tr>
+					<tr><td style="padding-left:30px;"><h3>Description :</h3><p>User Can search all the solutions created by any of the solution manager and solution can be any of the state [i.e. draft, approved, submitted]</p>
+					<p>It is main search screen to find any solution. User can search any solution but he can act on the solution that has been creadted or assign to him. All the other solutions can be<br> display as view node to him.</p></td></tr>
+					<tr><td>
+					
+						<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Region</b></td> </tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td> </tr>
+									<tr><td class="helpTxt"><b>Deal Value</b></td> </tr>
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>Opportunity ID</b></td></tr>
+									<tr><td class="helpTxt"><b>Solution ID</b></td> </tr>
+									<tr><td class="helpTxt"><b>Opportunity Name</b></td> </tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td> </tr>
+									<tr><td class="helpTxt"><b>Region</b></td> </tr>
+									<tr><td class="helpTxt"><b>Deal Value</b></td> </tr>
+									<tr><td class="helpTxt"><b>DBR</b></td> </tr>
+									<tr><td class="helpTxt"><b>Status</b></td> </tr>
+								</table>
+							</td></tr>							
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4">									
+									<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt">It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.</td></tr>
+									<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"> It will search any string within  all the columns of  the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"> It will display first page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"> It will display previous page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"> It will display next page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"> It will display last page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Clone</b></td> <td class="helpTxt">User can create exactly same duplicate solution  with same parameter accorss the module.  
+<br>He can modify the parameter based on needs.</td></tr>
+								</table>							
+							</td></tr>
+						</table>
+						<br>
+											
+		</table>
+	</td></tr>
+			
+			<!-- Open Solution End -->
+				<br>
+					
+		</table>
+		</td>
+		</tr>
+
+<br>
+
+
+<!-- Admin Start -->
+
+	<tr><td>
+		<table id="table_Admin" class="helpTableBorder1" width="95%">
+			<tr><td><h2><a id="Admin">Module : Admin</a></h2></td></tr>			
+			<tr><td>
+			
+				<table id="table_Usermanagement" class="helpTableBorder2" >
+					<tr><td align="left" style="padding-left:30px;"><h3>Sub Module : User Management</h3></td></tr>
+					<!-- <tr><td ><h3>Description :</h3> Write description for User Management here</td></tr> -->
+					<tr><td>
+					
+						<table id="table_Admin_UserUpdate" class="helpTableBorder3" width="94%">
+							<tr><td align="left"><h3>Process Flow : User Update</h3></td></tr>
+							<!-- <tr><td><h4>Description :</h4> Write description for User Update here</td></tr> -->							
+							
+							<tr><td><table class="helpTableBorder3-5" width="94%">
+							<tr><td align="left"><h3>Sub Module : Search User</h3></td></tr>
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>First Name</b></td><!-- </tr> -->
+									<tr><td class="helpTxt"><b>Last Name</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Signum Id</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Email</b></td> <!-- </tr> -->
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>First Name</b></td><!-- </tr> -->
+									<tr><td class="helpTxt"><b>Last Name</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Signum Id</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Email</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Contact No</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Assign Roles</b></td> <!-- </tr> -->
+								</table>
+							</td></tr>
+							
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4">									
+									<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt">It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.</td></tr>
+									<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"> It will search any string within  all the columns of  the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"> It will display first page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"> It will display previous page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"> It will display next page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"> It will display last page of the resulted data set.</td></tr>
+								</table>
+								
+							</td></tr>
+							</table></td></tr>
+						</table>
+						<br>
+						<table id="table_Admin_ListUser" class="helpTableBorder3" width="94%">
+							<tr><td align="left"><h3>Process Flow : List User</h3></td></tr>
+							<!-- <tr><td><h4>Description :</h4> Write description for List User here</td></tr> -->							
+							
+							<tr><td><table class="helpTableBorder3-5" width="94%">
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="39%">									
+									<tr><td class="helpTxt" ><b>First Name</b></td><!-- </tr> -->
+									<tr><td class="helpTxt"><b>Last Name</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Signum Id</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Email</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Contact No</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Roles</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>Start Date</b></td> <!-- </tr> -->
+									<tr><td class="helpTxt"><b>End Date</b></td> <!-- </tr> -->
+								</table>
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4">									
+									<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt">It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.</td></tr>
+									<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"> It will search any string within  all the columns of  the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"> It will display first page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"> It will display previous page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"> It will display next page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"> It will display last page of the resulted data set.</td></tr>
+								</table>
+								
+							</td></tr>
+						</table>
+						
+					</td></tr>
+				</table>
+				<br>
+				<table id="table_SolutionManagement" class="helpTableBorder3" >
+					<tr><td align="left"><h3>Sub Module : Solution Management</h3></td></tr>
+					<!-- <tr><td ><h3>Description :</h3> Write description for Solution Management here</td></tr> -->
+					<tr><td>
+					
+						<table id="table_Admin_UserUpdate" class="helpTableBorder3-5">
+							<tr><td align="left" style="padding-left:30px;"><h3>Process Flow : Assign Solution</h3></td></tr>
+							<!-- <tr><td><h4>Description :</h4> Write description for Assign Solution here</td></tr> -->							
+							
+							
+							<tr><td><table class="helpTableBorder4" width="92%">
+							<tr><td align="left" style="padding-left:30px;"><h3>Sub Module : Search Solution</h3></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+															
+									<tr><td class="helpTxt" ><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Region</b></td></tr>
+								</table>
+								
+							</td></tr>
+							
+													
+							</table></td></tr>	
+							
+							<tr><td><table class="helpTableBorder4" width="92%">
+							<tr><td align="left" style="padding-left:30px;"><h3>Sub Module : Change Approver</h3></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+									<tr><td class="helpTxt" ><b>Assign  To</b></td></tr>
+								</table>
+								
+							</td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+									<tr><td class="helpTxt" ><b>Opportunity ID</b></td></tr>						
+									<tr><td class="helpTxt" ><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Region</b></td></tr>
+								</table>
+								
+							</td></tr>
+							</table></td></tr>		
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt">It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.</td></tr>
+									<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"> It will search any string within  all the columns of  the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"> It will display first page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"> It will display previous page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"> It will display next page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"> It will display last page of the resulted data set.</td></tr>
+								</table>
+								
+							</td></tr>
+							
+						</table>
+						<br>
+						<table id="table_Admin_ListUser" class="helpTableBorder3-5">
+							<tr><td align="left" style="padding-left:30px;"><h3>Process Flow : Delete Solution</h3></td></tr>
+							<!-- <tr><td><h4>Description :</h4> Write description for Delete Solution here</td></tr> -->							
+							
+							<tr><td><table class="helpTableBorder4" width="92%">
+							<tr><td align="left" style="padding-left:30px;"><h3>Sub Module : Search Solution</h3></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+															
+									<tr><td class="helpTxt" ><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Region</b></td></tr>
+								</table>
+								
+							</td></tr>
+							
+							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder4" width="92%">
+							<tr><td align="left" style="padding-left:30px;"><h3>Sub Module : Delete Solution</h3></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+															
+									<tr><td class="helpTxt" ><b>Opportunity ID</b></td></tr>
+									<tr><td class="helpTxt" ><b>Solution ID</b></td></tr>
+									<tr><td class="helpTxt"><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Region</b></td></tr>
+								</table>
+								
+							</td></tr>
+							
+							
+							</table></td></tr>
+							
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5">									
+									<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt">It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.</td></tr>
+									<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"> It will search any string within  all the columns of  the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"> It will display first page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"> It will display previous page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"> It will display next page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"> It will display last page of the resulted data set.</td></tr>
+								</table>
+								
+							</td></tr>
+							
+						</table>
+						
+					</td></tr>
+				</table>
+				<br>
+				<table id="table_SolutionManagement" class="helpTableBorder3" width="95%">
+					<tr><td align="left"><h3>Sub Module : Approver Management</h3></td></tr>
+					<!-- <tr><td ><h3>Description :</h3> Write description for Approver Management here</td></tr> -->
+					
+					<tr><td>				
+						<table id="table_Admin_UserUpdate" class="helpTableBorder3-5" width="95%">
+							<tr><td align="left" style="padding-left:30px;"><h3>Process Flow : Change Approver</h3></td></tr>
+							<!-- <tr><td><h4>Description :</h4> Write description for Change Approver here</td></tr>	 -->						
+							
+							<tr><td><table class="helpTableBorder4" width="93%">
+							<tr><td align="left"><h3>Sub Module : Search Approver</h3></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Input Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+															
+									<tr><td class="helpTxt" ><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Region</b></td></tr>
+								</table>
+								
+							</td></tr>
+							
+							</table></td></tr>
+							
+							<tr><td><table class="helpTableBorder4" width="93%">
+							<tr><td align="left"><h3>Sub Module : Change Approver</h3></td></tr>	
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+															
+									<tr><td class="helpTxt" ><b>Opportunity ID</b></td></tr>
+									<tr><td class="helpTxt" ><b>Solution ID</b></td></tr>
+									<tr><td class="helpTxt"><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Customer Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Region</b></td></tr>
+								</table>
+								
+							</td></tr>
+												
+							</table></td></tr>
+							
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_UserUpdate_Actions" class="helpTableBorder4" width="93%">									
+									<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt">It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.</td></tr>
+									<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"> It will search any string within  all the columns of  the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"> It will display first page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"> It will display previous page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"> It will display next page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"> It will display last page of the resulted data set.</td></tr>
+								</table>
+								
+							</td></tr>
+						</table>
+						<br>
+						<table id="table_Admin_ListUser" class="helpTableBorder3-5" width="95%">
+							<tr><td align="left" style="padding-left:30px;"><h3>Process Flow : Approve Any Solution</h3></td></tr>
+							<!-- <tr><td><h4>Description :</h4> Write description for Approve Any Solution here</td></tr> -->							
+							
+							<tr><td><table class="helpTableBorder4" width="93%">
+							<tr><td align="left"><h3>Sub Module : View Details</h3></td></tr>
+							
+							<tr><td style="text-indent:30px;"><h4>Output Parameters :</h4></td></tr>	
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder3-5" width="39%">	
+															
+									<tr><td class="helpTxt" ><b>Opportunity Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Solution Name</b></td></tr>
+									<tr><td class="helpTxt"><b>Solution Submitted Date</b></td></tr>
+								</table>
+								
+							</td></tr>
+							
+							</table></td></tr>
+							
+							
+							<tr><td style="text-indent:30px;"><h4>Actions :</h4></td></tr>
+							<tr><td>
+								<table id="table_Admin_ListUser_Actions" class="helpTableBorder4" width="93%">									
+									<tr><td class="helpTxt" ><b>Show Entries</b></td><td class="helpTxt">It will show the number range of search items listed pagewise.Hence user can go any of the item using this drop down utility.</td></tr>
+									<tr><td class="helpTxt"><b>Search</b></td> <td class="helpTxt"> It will search any string within  all the columns of  the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>First</b></td> <td class="helpTxt"> It will display first page of the resulted data set.</td></tr>
+									<tr><td class="helpTxt"><b>Previous</b></td> <td class="helpTxt"> It will display previous page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Next</b></td> <td class="helpTxt"> It will display next page of the current page.</td></tr>
+									<tr><td class="helpTxt"><b>Last</b></td> <td class="helpTxt"> It will display last page of the resulted data set.</td></tr>
+								</table>
+								
+							</td></tr>
+						</table>
+						
+					</td></tr>
+				</table>
+			</td></tr>					
+		</table>
+	</td></tr>
+	
+	<!-- Admin End -->
+</table>
+
+</body>
+</html>

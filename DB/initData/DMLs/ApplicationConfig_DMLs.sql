@@ -1,0 +1,2 @@
+INSERT INTO ApplicationConfig (ApplicationConfigID,ConfigName,ConfigValue,CreatedBy,CreatedTimestamp,UpdatedBy,UpdatedTimestamp) VALUES (1,'ConfigName','ConfigValue','CreatedBy',NULL,'UpdatedBy',NULL
+);

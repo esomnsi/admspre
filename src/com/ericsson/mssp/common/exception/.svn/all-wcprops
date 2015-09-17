@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/exception
+END
+ApprovalStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/exception/ApprovalStatusException.java
+END
+MSSPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/exception/MSSPException.java
+END
+DAOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/exception/DAOException.java
+END

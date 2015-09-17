@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/2474/trunk/src/com/ericsson/mssp/solution/forms
+END
+StaffingPyramidReportForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/StaffingPyramidReportForm.java
+END
+DefineScopeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2474/trunk/src/com/ericsson/mssp/solution/forms/DefineScopeForm.java
+END
+VolumetricSolutionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/VolumetricSolutionForm.java
+END
+NonLabourCostForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/NonLabourCostForm.java
+END
+TaasForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/2013/trunk/src/com/ericsson/mssp/solution/forms/TaasForm.java
+END
+CustomADRGenericResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/CustomADRGenericResponse.java
+END
+SolutionOtherMiscForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/SolutionOtherMiscForm.java
+END
+CustomADRResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/CustomADRResponse.java
+END
+StaffBaseForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/StaffBaseForm.java
+END
+ComplexityAdjusterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/ComplexityAdjusterForm.java
+END
+ReviewFTEForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2136/trunk/src/com/ericsson/mssp/solution/forms/ReviewFTEForm.java
+END
+StaffAugForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/StaffAugForm.java
+END
+TTLaborCostForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/TTLaborCostForm.java
+END
+TTJobRoleDistributionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/TTJobRoleDistributionForm.java
+END
+TaasGenericInputForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/TaasGenericInputForm.java
+END
+TNTForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/TNTForm.java
+END
+ItSpendForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/ItSpendForm.java
+END
+EnhancementAndDevForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/EnhancementAndDevForm.java
+END
+ServiceDeskForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/ServiceDeskForm.java
+END
+TaasOutputForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/TaasOutputForm.java
+END
+TTDetailForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/TTDetailForm.java
+END
+PeopleStackForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/PeopleStackForm.java
+END
+SolutionLeverForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/SolutionLeverForm.java
+END
+StaffingPlanForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/StaffingPlanForm.java
+END
+NLCForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/NLCForm.java
+END
+SolutionL1OperationsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/SolutionL1OperationsForm.java
+END
+SolutionL2OperationsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/SolutionL2OperationsForm.java
+END
+SolutionL3OperationsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/SolutionL3OperationsForm.java
+END
+ManageADRForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/forms/ManageADRForm.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/it_mssp_trunk/!svn/ver/2900/trunk/WebContent/jsp/admin
+END
+userList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/userList.jsp
+END
+populateRate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/2362/trunk/WebContent/jsp/admin/populateRate.jsp
+END
+ServiceElementManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2476/trunk/WebContent/jsp/admin/ServiceElementManagement.jsp
+END
+failure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/failure.jsp
+END
+financialManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/it_mssp_trunk/!svn/ver/2900/trunk/WebContent/jsp/admin/financialManagement.jsp
+END
+userManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/userManagement.jsp
+END
+assignRoles.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/assignRoles.jsp
+END
+addJobRole.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/2786/trunk/WebContent/jsp/admin/addJobRole.jsp
+END
+AddJobRoleToServiceElement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/2466/trunk/WebContent/jsp/admin/AddJobRoleToServiceElement.jsp
+END
+JobRoleManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/it_mssp_trunk/!svn/ver/2465/trunk/WebContent/jsp/admin/JobRoleManagement.jsp
+END
+listSolutions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/listSolutions.jsp
+END
+solutionManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/2888/trunk/WebContent/jsp/admin/solutionManagement.jsp
+END
+accessDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/accessDenied.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/it_mssp_trunk/!svn/ver/2206/trunk/WebContent/jsp/admin/home.jsp
+END
+ServiceJobRoleManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2786/trunk/WebContent/jsp/admin/ServiceJobRoleManagement.jsp
+END
+success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/success.jsp
+END
+rateUpdatePopup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/it_mssp_trunk/!svn/ver/2826/trunk/WebContent/jsp/admin/rateUpdatePopup.jsp
+END
+rateManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2431/trunk/WebContent/jsp/admin/rateManagement.jsp
+END
+approvalManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/jsp/admin/approvalManagement.jsp
+END

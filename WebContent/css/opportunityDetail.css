@@ -1,0 +1,189 @@
+/* Style for Usual tabs */
+.usual {
+/*  background:#181818;*/
+  color:#111;
+  width:1112px;
+  margin:-8px auto;
+  padding:0px;
+  float: left;
+}
+.usual ul { padding:0px; margin:0px; }
+.usual li { list-style:none; float:left; width:202px; height:57px; background:url(../images/diactiveCircleIcon.png) left center no-repeat;  }
+.usual ul a {
+  display:block;
+  padding: 6px 10px 6px 22px;
+  text-decoration:none!important;
+  margin:1px;
+  margin-left:0;
+  font:15px arial;
+  font-style:italic;
+  color:#343434;
+  line-height:56px;
+  cursor:pointer;
+  
+}
+.usual ul a:hover {
+  color:#343434;
+  }
+.usual ul a.selected {
+  color:#b16400;
+  cursor:default;
+  padding-left:30px;
+  line-height: 67px;
+  padding-right:0;
+  position: absolute;
+  background:url(../images/tabActiveImg.png) left bottom no-repeat; height:48px; width:178px; float:left;
+  }
+.selectedRedIcon span {
+
+  }
+.usual div {
+  *padding-top:3px;
+  *margin-top:-15px;
+  float:left;
+  padding-right:0px;
+}
+
+/* .tabBodyArea{
+	border:#c5c5c5 1px solid;
+  	width:1112px;
+	background-color:#fbfbfb;
+	padding-top:10px;
+	padding-bottom:30px; */
+	
+/*	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+*/	
+/* 	-webkit-border-bottom-left-radius:6px ;
+  	-webkit-border-bottom-right-radius:6px ;
+	-khtml-border-bottom-left-radius:6px ;
+  	-khtml-border-bottom-right-radius:6px ;
+	-moz-border-radius-bottomleft:6px ;
+  	-moz-border-radius-bottomright:6px ;
+	border-bottom-left-radius:6px ;
+  	border-bottom-right-radius:6px ;
+	
+  } */
+  
+  
+
+.inputRowFirst{width:410px; height:22px; padding:0px; margin:0 0 10px 0; float:left;}
+.inputRowFirst h3{ font-style:italic; width:110px; line-height:21px; float:left; font-family:Arial; font-size:12px; color:#333; text-align:left; font-weight:normal; padding:0 0 0 10px; margin:0px; }
+.inputtextTabs{
+	width:98%;
+	outline:none;
+	padding-left:2%;
+	line-height:22px;
+	padding-right:5px;
+	font:normal 11px Arial, Helvetica, sans-serif; 
+	height:22px;
+	-webkit-border-radius: 6px 6px 6px 6px;
+	-moz-border-radius: 6px 6px 6px 6px;
+	border-radius: 6px 6px 6px 6px;
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.4);
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.4);
+	 box-shadow: inset 0 1px 2px rgba(0,0,0,.24);
+	
+	 background-color: #EDFFDA;
+    border: 1px solid #BEEC8E;
+    box-shadow: 0 1px 2px #DBDBDB inset;
+    color: #666666;
+	}
+.inputRowFirst span{width:274px; height:22px; padding:0px; float:left;}
+ 
+.inputRow2nd{width:340px; height:22px; padding:0px; margin:0 0 10px 0; float:left;}
+.inputRow2nd h3{font-style:italic; width:110px; line-height:21px; float:left; font-family:Arial; font-size:12px; color:#333; text-align:left; font-weight:normal; padding:0 0 0 10px; margin:0px; }
+.inputRow2nd span{width:220px; height:22px; padding:0px; float:left;}
+
+.inputRow3rd{width:340px; height:22px; padding:0px; margin:0 0 10px 0; float:right;}
+.inputRow3rd h3{font-style:italic; width:108px; line-height:21px; float:left; font-family:Arial; font-size:12px; color:#333; text-align:left; font-weight:normal; padding:0 0 0 16px; margin:0px; }
+.inputRow3rd span{width:214px; height:22px; padding:0px; float:left;}
+
+
+.tab3Row{width:444px; height:22px; padding:0px; margin:0 0 10px 0; float:right;}
+.tab3Row h3{font-style:italic; width:200px; line-height:21px; float:left; font-family:Arial; font-size:12px; color:#333; text-align:left; font-weight:normal; padding:0 0 0 16px; margin:0px; }
+.tab3Row span{width:214px; height:22px; padding:0px; float:left;}
+
+.loationPanelDinamicText{width:450px; float:left; }
+.dinamicText{width:150px; float:left; font-family:Arial; font-size:12px; color:#333; text-align:center; font-weight:normal; line-height:8px; height:26px;}
+
+
+/* .tab4DatePanel{width:290px; height:22px; padding:0px; margin:0 0 10px 0; float:right;}
+.tab4DatePanel h3{font-style:italic; width:160px; line-height:21px; float:left; font-family:Arial; font-size:12px; color:#333; text-align:left; font-weight:normal; padding:0 0 0 16px; margin:0px; }
+.tab4DatePanel span{width:110px; height:22px; padding:0px; float:left;}
+ */
+.tab2LeftPanel{ width:450px; float:left; margin-top:20px;}
+.tab2RightPanel{ width:500px; float:left;}
+
+.tab5HeaderPanel{
+	border:1px solid #d8d8d8;
+	width:1080px;
+	height:26px;
+	float:left;
+	margin-left:10px;
+	padding-left:10px;
+	margin-bottom:10px;
+	font-family:Arial; font-size:12px; color:#083359; text-align:left; font-weight:bold; line-height:24px; 
+	
+	background-image:-webkit-gradient(linear, left top, left bottom, from(#e6e6e6), to(#f8f8f8));
+	background-image:-webkit-linear-gradient(#e6e6e6, #f8f8f8);
+	background-image:-moz-linear-gradient(#e6e6e6, #f8f8f8);
+	background-image:-ms-linear-gradient(#e6e6e6, #f8f8f8);
+	background-image:-o-linear-gradient(#e6e6e6, #f8f8f8);
+	background-image:linear-gradient(#e6e6e6, #f8f8f8);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#e6e6e6', endColorstr='#f8f8f8');
+	
+	-webkit-border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	border-radius: 4px 4px 4px 4px;
+
+}
+
+.tab5EricssonPanel{width:370px; height:22px; padding:0px; margin:0 0 19px 0; float:right;}
+.tab5EricssonPanel h3{font-style:italic; width:125px; line-height:21px; float:left; font-family:Arial; font-size:12px; color:#333; text-align:left; font-weight:normal; padding:0 0 0 13px; margin:0px; }
+.tab5EricssonPanel span{width:214px; height:22px; padding:0px; float:left;}
+
+.tabsButtonPanel{ width:20%; float:left; height:26px; padding-left:80%;}
+
+.TabsCommonButtons{
+	width:64px;
+	height:26px;
+	float:right;
+	cursor:pointer;
+	margin-right:5px;
+	
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#deefff;
+	line-height:25px;
+	text-align:center;
+	
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius: 6px;
+    border-radius: 6px;
+	
+	background-image:-webkit-gradient(linear, left top, left bottom, from(#0c3d66), to(#275c92));
+	background-image:-webkit-linear-gradient(#0c3d66, #275c92);
+	background-image:-moz-linear-gradient(#0c3d66, #275c92);
+	background-image:-ms-linear-gradient(#0c3d66, #275c92);
+	background-image:-o-linear-gradient(#0c3d66, #275c92);
+	background-image:linear-gradient(#0c3d66, #275c92);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#0c3d66', endColorstr='#275c92');
+	}
+.TabsCommonButtons:hover{
+	color:#FFF;
+	
+	background-image:-webkit-gradient(linear, left top, left bottom, from(#f8c02c), to(#ce4b0a));
+	background-image:-webkit-linear-gradient(#f8c02c, #ce4b0a);
+	background-image:-moz-linear-gradient(#f8c02c, #ce4b0a);
+	background-image:-ms-linear-gradient(#f8c02c, #ce4b0a);
+	background-image:-o-linear-gradient(#f8c02c, #ce4b0a);
+	background-image:linear-gradient(#f8c02c, #ce4b0a);
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#f8c02c', endColorstr='#ce4b0a');
+
+	
+	}

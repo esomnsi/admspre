@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/it_mssp_trunk/!svn/ver/2902/trunk/src/com/ericsson/mssp/solution/dao/impl
+END
+APADAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2249/trunk/src/com/ericsson/mssp/solution/dao/impl/APADAOImpl.java
+END
+ReportDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2892/trunk/src/com/ericsson/mssp/solution/dao/impl/ReportDAOImpl.java
+END
+NLCDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/impl/NLCDaoImpl.java
+END
+SolutionComplexityDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/impl/SolutionComplexityDAOImpl.java
+END
+JobRoleStagesDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2601/trunk/src/com/ericsson/mssp/solution/dao/impl/JobRoleStagesDAOImpl.java
+END
+PeopleStackDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/impl/PeopleStackDAOImpl.java
+END
+SolutionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/2902/trunk/src/com/ericsson/mssp/solution/dao/impl/SolutionDAOImpl.java
+END
+TNTDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2097/trunk/src/com/ericsson/mssp/solution/dao/impl/TNTDaoImpl.java
+END
+VolumetricSolutionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/solution/dao/impl/VolumetricSolutionDAOImpl.java
+END
+SolutionFTEDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2856/trunk/src/com/ericsson/mssp/solution/dao/impl/SolutionFTEDAOImpl.java
+END
+TaasDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/2012/trunk/src/com/ericsson/mssp/solution/dao/impl/TaasDaoImpl.java
+END
+TTDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/solution/dao/impl/TTDAOImpl.java
+END
+OpportunityScopeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/2601/trunk/src/com/ericsson/mssp/solution/dao/impl/OpportunityScopeDAOImpl.java
+END
+SolutionLeverDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/2773/trunk/src/com/ericsson/mssp/solution/dao/impl/SolutionLeverDAOImpl.java
+END

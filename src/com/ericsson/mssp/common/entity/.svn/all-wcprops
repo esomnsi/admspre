@@ -1,0 +1,749 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/2852/trunk/src/com/ericsson/mssp/common/entity
+END
+TNTPartitionDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TNTPartitionDate.java
+END
+LessEffortDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/LessEffortDetail.java
+END
+SolutionApproachDimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionApproachDimension.java
+END
+SolutionUtilPerYear.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/2519/trunk/src/com/ericsson/mssp/common/entity/SolutionUtilPerYear.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/Country.java
+END
+ProductivityLever.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2576/trunk/src/com/ericsson/mssp/common/entity/ProductivityLever.java
+END
+JobRoleStages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2019/trunk/src/com/ericsson/mssp/common/entity/JobRoleStages.java
+END
+SolutionServiceDesk.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionServiceDesk.java
+END
+TTJobRoleDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTJobRoleDistribution.java
+END
+ProgramManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2260/trunk/src/com/ericsson/mssp/common/entity/ProgramManagement.java
+END
+PeopleStackResourceDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/PeopleStackResourceDetail.java
+END
+AdditionalFTE.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2136/trunk/src/com/ericsson/mssp/common/entity/AdditionalFTE.java
+END
+StaffAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/StaffAllocation.java
+END
+SolutionLever.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2520/trunk/src/com/ericsson/mssp/common/entity/SolutionLever.java
+END
+SolutionL2operations.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionL2operations.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/User.java
+END
+ProductEstimationBaseEffortForSolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/it_mssp_trunk/!svn/ver/2709/trunk/src/com/ericsson/mssp/common/entity/ProductEstimationBaseEffortForSolution.java
+END
+EstimationComplexityLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/it_mssp_trunk/!svn/ver/2271/trunk/src/com/ericsson/mssp/common/entity/EstimationComplexityLookup.java
+END
+AppMainSla.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/2552/trunk/src/com/ericsson/mssp/common/entity/AppMainSla.java
+END
+ProductDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2478/trunk/src/com/ericsson/mssp/common/entity/ProductDetails.java
+END
+Apaweightage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/Apaweightage.java
+END
+NLCTravel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/NLCTravel.java
+END
+VolumetricSolutionDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/VolumetricSolutionDefault.java
+END
+SolutionApprover.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionApprover.java
+END
+JobRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/it_mssp_trunk/!svn/ver/2063/trunk/src/com/ericsson/mssp/common/entity/JobRole.java
+END
+CheckLists.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/CheckLists.java
+END
+SolutionAPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionAPA.java
+END
+JobStage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2630/trunk/src/com/ericsson/mssp/common/entity/JobStage.java
+END
+DealCharacteristics.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/DealCharacteristics.java
+END
+StaffCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/StaffCategory.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/Customer.java
+END
+EfficiencyLever.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/EfficiencyLever.java
+END
+ProductEstimationActivities.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/2501/trunk/src/com/ericsson/mssp/common/entity/ProductEstimationActivities.java
+END
+SecurityManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/2283/trunk/src/com/ericsson/mssp/common/entity/SecurityManagement.java
+END
+ServiceAssurance.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2435/trunk/src/com/ericsson/mssp/common/entity/ServiceAssurance.java
+END
+OtherDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2254/trunk/src/com/ericsson/mssp/common/entity/OtherDefaults.java
+END
+ProductEstimationAuxiliaryParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/it_mssp_trunk/!svn/ver/2343/trunk/src/com/ericsson/mssp/common/entity/ProductEstimationAuxiliaryParams.java
+END
+Opportunity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/2350/trunk/src/com/ericsson/mssp/common/entity/Opportunity.java
+END
+SolutionL1operations.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionL1operations.java
+END
+GenericTestingInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/GenericTestingInputs.java
+END
+TTPlanning.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTPlanning.java
+END
+SolutionEnhanDevRicefw.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionEnhanDevRicefw.java
+END
+ApplicationRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/ApplicationRole.java
+END
+CheckListMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/CheckListMaster.java
+END
+DeliveryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/DeliveryType.java
+END
+RateCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2630/trunk/src/com/ericsson/mssp/common/entity/RateCard.java
+END
+CostSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/CostSummary.java
+END
+TNTDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TNTDetail.java
+END
+SupportWindowMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SupportWindowMatrix.java
+END
+SolutionComplexity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionComplexity.java
+END
+CapacityManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/2283/trunk/src/com/ericsson/mssp/common/entity/CapacityManagement.java
+END
+SolutionOtherMisc.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionOtherMisc.java
+END
+ServiceScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1936/trunk/src/com/ericsson/mssp/common/entity/ServiceScope.java
+END
+FTEStaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/2849/trunk/src/com/ericsson/mssp/common/entity/FTEStaging.java
+END
+TestingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TestingService.java
+END
+AccessManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/common/entity/AccessManagement.java
+END
+AppMainSupportActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2552/trunk/src/com/ericsson/mssp/common/entity/AppMainSupportActivity.java
+END
+OpportunityDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2852/trunk/src/com/ericsson/mssp/common/entity/OpportunityDetail.java
+END
+Build.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/it_mssp_trunk/!svn/ver/2213/trunk/src/com/ericsson/mssp/common/entity/Build.java
+END
+OpportunityUtilizationPerYear.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/2445/trunk/src/com/ericsson/mssp/common/entity/OpportunityUtilizationPerYear.java
+END
+TTLaborCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTLaborCost.java
+END
+PeopleStackResourceDetailPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/PeopleStackResourceDetailPK.java
+END
+StartUpFTE.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/StartUpFTE.java
+END
+WorkflowTimeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/WorkflowTimeline.java
+END
+DeploymentRollOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2245/trunk/src/com/ericsson/mssp/common/entity/DeploymentRollOut.java
+END
+SolutionADR.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionADR.java
+END
+DeliveryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/DeliveryModel.java
+END
+StaffAllocationPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/StaffAllocationPK.java
+END
+TTSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTSummary.java
+END
+OpportunityLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/OpportunityLocation.java
+END
+InputVolumetricsDefinedBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/InputVolumetricsDefinedBy.java
+END
+OpportunityScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/OpportunityScope.java
+END
+AvailabilityManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2283/trunk/src/com/ericsson/mssp/common/entity/AvailabilityManagement.java
+END
+ServiceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2350/trunk/src/com/ericsson/mssp/common/entity/ServiceElement.java
+END
+Solution.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/2630/trunk/src/com/ericsson/mssp/common/entity/Solution.java
+END
+StaffingPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/StaffingPlan.java
+END
+DesignAndBuild.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2245/trunk/src/com/ericsson/mssp/common/entity/DesignAndBuild.java
+END
+TestEffReduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TestEffReduction.java
+END
+NLCOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/NLCOther.java
+END
+RegressionLever.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/RegressionLever.java
+END
+Apacomplexity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/Apacomplexity.java
+END
+TTPartitionName.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTPartitionName.java
+END
+DemandSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2245/trunk/src/com/ericsson/mssp/common/entity/DemandSupport.java
+END
+LocationBreakupDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/2249/trunk/src/com/ericsson/mssp/common/entity/LocationBreakupDefault.java
+END
+LaborCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/LaborCost.java
+END
+ProductActivitiesComplexityAssumptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/it_mssp_trunk/!svn/ver/2375/trunk/src/com/ericsson/mssp/common/entity/ProductActivitiesComplexityAssumptions.java
+END
+CommercialModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/CommercialModel.java
+END
+FTESummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/it_mssp_trunk/!svn/ver/2713/trunk/src/com/ericsson/mssp/common/entity/FTESummary.java
+END
+OpportunitySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/OpportunitySource.java
+END
+CurrencyExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2094/trunk/src/com/ericsson/mssp/common/entity/CurrencyExchange.java
+END
+ServiceElementJobRoleStages.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/it_mssp_trunk/!svn/ver/2249/trunk/src/com/ericsson/mssp/common/entity/ServiceElementJobRoleStages.java
+END
+LocationPyramid.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/2520/trunk/src/com/ericsson/mssp/common/entity/LocationPyramid.java
+END
+ExchangeRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/ExchangeRate.java
+END
+OpportunityComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/2500/trunk/src/com/ericsson/mssp/common/entity/OpportunityComponent.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/it_mssp_trunk/!svn/ver/2489/trunk/src/com/ericsson/mssp/common/entity/Component.java
+END
+ConfigurationManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/it_mssp_trunk/!svn/ver/2283/trunk/src/com/ericsson/mssp/common/entity/ConfigurationManagement.java
+END
+TTPartitionDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTPartitionDetail.java
+END
+RateCardHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/2630/trunk/src/com/ericsson/mssp/common/entity/RateCardHistory.java
+END
+Design.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/it_mssp_trunk/!svn/ver/2216/trunk/src/com/ericsson/mssp/common/entity/Design.java
+END
+PostReleaseActivities.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/2245/trunk/src/com/ericsson/mssp/common/entity/PostReleaseActivities.java
+END
+ScopeOfServicesDefinedBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/ScopeOfServicesDefinedBy.java
+END
+ProductEstimationAuxiliaryParamsForSolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/it_mssp_trunk/!svn/ver/2444/trunk/src/com/ericsson/mssp/common/entity/ProductEstimationAuxiliaryParamsForSolution.java
+END
+NLCInputParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/NLCInputParam.java
+END
+ReleaseManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2260/trunk/src/com/ericsson/mssp/common/entity/ReleaseManagement.java
+END
+TTOnOffRatio.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTOnOffRatio.java
+END
+SolutionL3operations.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionL3operations.java
+END
+SolutionTestingAsAservice.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2011/trunk/src/com/ericsson/mssp/common/entity/SolutionTestingAsAservice.java
+END
+ProductEstimationForSolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/it_mssp_trunk/!svn/ver/2827/trunk/src/com/ericsson/mssp/common/entity/ProductEstimationForSolution.java
+END
+TTSummaryStaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TTSummaryStaging.java
+END
+ChangeManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/it_mssp_trunk/!svn/ver/2264/trunk/src/com/ericsson/mssp/common/entity/ChangeManagement.java
+END
+LocationBreakup.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/it_mssp_trunk/!svn/ver/2584/trunk/src/com/ericsson/mssp/common/entity/LocationBreakup.java
+END
+SolutionEnhanDevFixedCapacity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionEnhanDevFixedCapacity.java
+END
+E2EProcessQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/2367/trunk/src/com/ericsson/mssp/common/entity/E2EProcessQuality.java
+END
+TicketDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/it_mssp_trunk/!svn/ver/2709/trunk/src/com/ericsson/mssp/common/entity/TicketDistribution.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/Status.java
+END
+TouchPointChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/TouchPointChannel.java
+END
+SolutionApprovalStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionApprovalStatus.java
+END
+SolutionL1addServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionL1addServices.java
+END
+SolutionGovAndPmo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionGovAndPmo.java
+END
+SolutionL2addServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionL2addServices.java
+END
+NonLabourCost.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/NonLabourCost.java
+END
+SolutionL3addServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/SolutionL3addServices.java
+END
+GenericTestingOverhead.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/GenericTestingOverhead.java
+END
+ApplicationConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/entity/ApplicationConfig.java
+END

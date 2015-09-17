@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/it_mssp_trunk/!svn/ver/2881/trunk/WebContent/WEB-INF
+END
+sun-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/sun-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/it_mssp_trunk/!svn/ver/2733/trunk/WebContent/WEB-INF/web.xml
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/it_mssp_trunk/!svn/ver/2881/trunk/WebContent/WEB-INF/tiles.xml
+END
+ADM_PRE-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/WebContent/WEB-INF/ADM_PRE-servlet.xml
+END

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+
+<tiles-definitions>
+
+	<definition name="baseLayout" template="/jsp/common/baseLayout.jsp">
+		<put-attribute name="title" value="Template" />
+		<put-attribute name="header" value="/jsp/common/header.jsp" />
+		<put-attribute name="menu" value="/jsp/common/menu.jsp" />
+		<put-attribute name="body" value="/body.jsp" />
+		<put-attribute name="footer" value="/jsp/common/footer.jsp" />
+	</definition>
+
+	<definition name="homeBaseLayout" template="/jsp/common/homeBaseLayout.jsp">
+		<put-attribute name="title" value="Template" />
+		<put-attribute name="header" value="/jsp/common/header_home.jsp" />
+		<put-attribute name="body" value="/body.jsp" />
+		<put-attribute name="footer" value="/jsp/common/footer.jsp" />
+	</definition>
+
+	<definition name="accessDenied" extends="baseLayout">
+		<put-attribute name="title" value="Create Opportunity" />
+		<put-attribute name="body" value="/jsp/common/AccessDenied.jsp" />
+	</definition>
+
+	<definition name="homePage" extends="homeBaseLayout">
+		<put-attribute name="title" value="Login" />
+		<put-attribute name="body" value="/jsp/admin/home.jsp" />
+	</definition>
+	<definition name="newOpportunity" extends="baseLayout">
+		<put-attribute name="title" value="Opportunity" />
+		<put-attribute name="body" value="/jsp/solution/landingPage.jsp" />
+	</definition>
+	<definition name="displayOpportunity" extends="baseLayout">
+		<put-attribute name="title" value="Create Opportunity" />
+		<put-attribute name="body"
+			value="/jsp/solution/createOpportunity.jsp" />
+	</definition>
+
+	<definition name="landingPage" extends="baseLayout">
+		<put-attribute name="title" value="Opportunity" />
+		<put-attribute name="body" value="/jsp/solution/landingPage.jsp" />
+	</definition>
+	<definition name="openSolution" extends="baseLayout">
+		<put-attribute name="title" value="opensolution" />
+		<put-attribute name="body" value="/jsp/solution/openSolution.jsp" />
+	</definition>
+	<definition name="solutionManagement" extends="baseLayout">
+		<put-attribute name="title" value="opensolution" />
+		<put-attribute name="body" value="/jsp/admin/solutionManagement.jsp" />
+	</definition>
+	<definition name="serviceJobRoleManagement" extends="baseLayout">
+		<put-attribute name="title" value="Service Job Role Management" />
+		<put-attribute name="body" value="/jsp/admin/ServiceJobRoleManagement.jsp" />
+	</definition>
+	<definition name="jobRoleManagement" extends="baseLayout">
+		<put-attribute name="title" value="JobRole Management" />
+		<put-attribute name="body" value="/jsp/admin/JobRoleManagement.jsp" />
+	</definition>
+	<definition name="addJobRole" extends="baseLayout">
+		<put-attribute name="title" value="JobRole Management" />
+		<put-attribute name="body" value="/jsp/admin/addJobRole.jsp" />
+	</definition>
+	<definition name="serviceElementManagement" extends="baseLayout">
+		<put-attribute name="title" value="Service Element Management" />
+		<put-attribute name="body" value="/jsp/admin/ServiceElementManagement.jsp" />
+	</definition>
+	<definition name="addJobRoleToServiceElement" extends="baseLayout">
+		<put-attribute name="title" value="Service Element Management" />
+		<put-attribute name="body" value="/jsp/admin/AddJobRoleToServiceElement.jsp" />
+	</definition>
+	<definition name="defineScope" extends="baseLayout">
+		<put-attribute name="title" value="Define Scope" />
+		<!-- <put-attribute name="body" value="/jsp/solution/defineScope.jsp" /> -->
+		<put-attribute name="body" value="/jsp/solution/defineScopePage.jsp" />
+	</definition>
+
+
+	<definition name="volumetricSolution" extends="baseLayout">
+		<put-attribute name="title" value="Volumetric Solution" />
+		<put-attribute name="body"
+			value="/jsp/solution/volumetricSolution.jsp" />
+	</definition>
+	<definition name="complexityAdjuster" extends="baseLayout">
+		<put-attribute name="title" value="Complexity Adjuster" />
+		<put-attribute name="body"
+			value="/jsp/solution/selectComplexityAdjuster.jsp" />
+	</definition>
+	<definition name="manageADR" extends="baseLayout">
+		<put-attribute name="title" value="Manage ADR" />
+		<put-attribute name="body" value="/jsp/solution/manageADR.jsp" />
+	</definition>
+	<definition name="manageADRGrid" extends="baseLayout">
+		<put-attribute name="title" value="Manage ADR" />
+		<put-attribute name="body" value="/jsp/solution/manageADRGrid.jsp" />
+	</definition>
+	<definition name="nonLabourCost" extends="baseLayout">
+		<put-attribute name="title" value="Non Labour Cost" />
+		<put-attribute name="body" value="/jsp/solution/nonLabourCost.jsp" />
+	</definition>
+	<definition name="nonLaborCost" extends="baseLayout">
+		<put-attribute name="title" value="Non Labour Cost" />
+		<put-attribute name="body" value="/jsp/solution/nonLabourCost.jsp" />
+	</definition>
+
+	<definition name="labourCost" extends="baseLayout">
+		<put-attribute name="title" value="Labour Cost" />
+		<put-attribute name="body" value="/jsp/solution/labourCost.jsp" />
+	</definition>
+
+	<definition name="reviewFTE" extends="baseLayout">
+		<put-attribute name="title" value="Review FTE" />
+		<put-attribute name="body" value="/jsp/solution/reviewFTE.jsp" />
+	</definition>
+	
+	<definition name="reviewUpdatedFTE" extends="baseLayout">
+		<put-attribute name="title" value="Review FTE" />
+		<put-attribute name="body" value="/jsp/solution/reviewUpdatedFTE.jsp" />
+	</definition>
+	
+	<definition name="reviewsscopeFTE" extends="baseLayout">
+		<put-attribute name="title" value="Review FTE" />
+		<put-attribute name="body" value="/jsp/solution/reviewsscopeFTE.jsp" />
+	</definition>
+	
+	<definition name="itSpend" extends="baseLayout">
+		<put-attribute name="title" value="IT Spend" />
+		<put-attribute name="body" value="/jsp/solution/itSpend.jsp" />
+	</definition>
+	<definition name="productivityLevers" extends="baseLayout">
+		<put-attribute name="title" value="Productivity Levers" />
+		<put-attribute name="body"
+			value="/jsp/solution/productivityLevers.jsp" />
+	</definition>
+	<definition name="createStaffingPlan" extends="baseLayout">
+		<put-attribute name="title" value="Create Staffing Plan" />
+		<put-attribute name="body"
+			value="/jsp/solution/createStaffingPlan.jsp" />
+	</definition>
+
+	<definition name="staffAugmentation" extends="baseLayout">
+		<put-attribute name="title" value="Staff Augmentation" />
+		<put-attribute name="body"
+			value="/jsp/solution/staffAugmentation.jsp" />
+	</definition>
+
+	<definition name="aPAnalysis" extends="baseLayout">
+		<put-attribute name="title" value="AP Analysis" />
+		<put-attribute name="body" value="/jsp/solution/APAnalysis.jsp" />
+	</definition>
+
+	<definition name="addSolnAPA" template="/jsp/solution/AddSolnAPA.jsp" />
+	<definition name="addProdLever" template="/jsp/solution/AddProductivityLever.jsp" />
+	<definition name="addOnPc" template="/jsp/solution/AddOnshorePercent.jsp" />
+	<definition name="addOnPyr" template="/jsp/solution/AddOnshorePyramid.jsp" />
+	<definition name="addOffPyr" template="/jsp/solution/AddOffshorePyramid.jsp" />
+
+	<definition name="peopleStack" extends="baseLayout">
+		<put-attribute name="title" value="People Stack" />
+		<put-attribute name="body" value="/jsp/solution/peopleStack.jsp" />
+	</definition>
+
+
+	<definition name="underconstruct" extends="baseLayout">
+		<put-attribute name="title" value="Under Construction " />
+		<put-attribute name="body" value="/jsp/common/undercons.jsp" />
+	</definition>
+	<definition name="manageUserAccess" extends="baseLayout">
+		<put-attribute name="title" value="Manage User Access" />
+		<!-- <put-attribute name="body" value="/jsp/admin/assignRoles.jsp"/> -->
+		<put-attribute name="body" value="/jsp/admin/userManagement.jsp" />
+	</definition>
+	<!-- Added for TNT -->
+	<definition name="tnt" extends="baseLayout">
+		<put-attribute name="title" value="T&amp;T Design" />
+		<put-attribute name="body" value="/jsp/solution/tnt.jsp" />
+	</definition>
+	<definition name="serviceBucket" extends="baseLayout">
+		<put-attribute name="body" value="/jsp/solution/serviceBucket.jsp" />
+	</definition>
+	<definition name="serviceDesk" template="/jsp/solution/serviceDesk.jsp">
+	</definition>
+	<definition name="programManagement" template="/jsp/volumetric/programManagement.jsp">
+	</definition>
+	<definition name="releaseManagement" template="/jsp/volumetric/releaseManagement.jsp">
+	</definition>
+	<definition name="changeManagement" template="/jsp/volumetric/changeManagement.jsp">
+	</definition>
+	<definition name="capacityManagement" template="/jsp/volumetric/capacityManagement.jsp">
+	</definition>
+	<definition name="configurationManagement" template="/jsp/volumetric/configurationManagement.jsp">
+	</definition>
+	<definition name="securityManagement" template="/jsp/volumetric/securityManagement.jsp">
+	</definition>
+	<definition name="availabilityManagement" template="/jsp/volumetric/availabilityManagement.jsp">
+	</definition>
+	<definition name="accessManagement" template="/jsp/volumetric/accessManagement.jsp">
+	</definition>
+	<definition name="serviceAssurance" template="/jsp/volumetric/serviceAssurance.jsp">
+	</definition>
+	<definition name="solutionL1Operations" template="/jsp/solution/solutionL1Operations.jsp">
+	</definition>
+	<definition name="solutionL2Operations" template="/jsp/solution/solutionL2Operations.jsp">
+	</definition>
+	<definition name="solutionL3Operations" template="/jsp/solution/solutionL3Operations.jsp">
+	</definition>
+	<definition name="serviceBucket" template="/jsp/solution/serviceBucket.jsp">
+	</definition>
+	<definition name="solutionRICEFW" template="/jsp/solution/solutionRICEFW.jsp">
+	</definition>
+	<definition name="solutionFixedCapacity" template="/jsp/solution/solutionFixedCapacity.jsp">
+	</definition>
+	<definition name="miscellaneous" template="/jsp/solution/miscellaneous.jsp">
+	</definition>
+	<definition name="projGovernancePMO" template="/jsp/solution/projGovernancePMO.jsp">
+	</definition>
+	<definition name="userList" template="/jsp/admin/userList.jsp">
+	</definition>
+	<definition name="solutionList" template="/jsp/admin/listSolutions.jsp">
+	</definition>
+	<definition name="taas" template="/jsp/volumetric/applicationTesting.jsp">
+	</definition>
+
+	<definition name="solutionApproach" template="/jsp/solution/solutionApproach.jsp">
+	</definition>
+	<!-- Added for TNT -->
+	<!-- Approval start -->
+	<definition name="initiateApproval" extends="baseLayout">
+		<put-attribute name="title" value="My Action" />
+		<put-attribute name="body" value="/jsp/action/initiateApproval.jsp" />
+	</definition>
+	<definition name="approval" extends="baseLayout">
+		<put-attribute name="title" value="Approval" />
+		<put-attribute name="body" value="/jsp/approval/approval.jsp" />
+	</definition>
+	<definition name="saveApprovers" extends="baseLayout">
+		<put-attribute name="title" value="SaveApprovers" />
+		<put-attribute name="body" value="/jsp/approval/saveApprovers.jsp" />
+	</definition>
+	<definition name="redirectToHome" extends="baseLayout">
+		<put-attribute name="title" value="RedirectToHome" />
+		<put-attribute name="body"
+			value="/jsp/approval/approval_redirect.jsp" />
+	</definition>
+	<definition name="initApprovalChange" extends="baseLayout">
+		<put-attribute name="title" value="ChangeApprover" />
+		<put-attribute name="body" value="/jsp/admin/approvalManagement.jsp" />
+	</definition>
+	<!-- Approval ends -->
+
+	<definition name="ttLaborCost" extends="baseLayout">
+		<put-attribute name="title" value="Labor Cost For TnT" />
+		<put-attribute name="body" value="/jsp/solution/ttLaborCost.jsp" />
+	</definition>
+
+
+	<!-- Added for TAAS -->
+	<definition name="taas_middle" template="/jsp/solution/taas_intermediate.jsp"></definition>
+
+
+
+
+	<!-- TnT new -->
+	<definition name="ttDetail" extends="baseLayout">
+		<put-attribute name="title" value="Transition and Transformation" />
+		<put-attribute name="body" value="/jsp/solution/ttPartition.jsp" />
+	</definition>
+
+	<definition name="ttFTEBreakup" extends="baseLayout">
+		<put-attribute name="title" value="Transition and Transformation" />
+		<put-attribute name="body" value="/jsp/solution/ttFTEBreakup.jsp" />
+	</definition>
+
+	<definition name="ttJobroleDistribution" extends="baseLayout">
+		<put-attribute name="title" value="Transition and Transformation" />
+		<put-attribute name="body"
+			value="/jsp/solution/ttJobroleDistribution.jsp" />
+	</definition>
+
+	<definition name="ttReviewFTE" extends="baseLayout">
+		<put-attribute name="title" value="Review FTE for TnT" />
+		<put-attribute name="body" value="/jsp/solution/ttReviewFTE.jsp" />
+	</definition>
+
+	<definition name="addTTPartition" template="/jsp/solution/addTTPartition.jsp" />
+
+	<!-- Non Labor Cost new -->
+	<definition name="nlc" extends="baseLayout">
+		<put-attribute name="title" value="Non Labour Cost New" />
+		<put-attribute name="body" value="/jsp/solution/nlc.jsp" />
+	</definition>
+	
+	<!-- <definition name="volumetric" extends="baseLayout">
+		<put-attribute name="title" value="Input Baseline" />
+		<put-attribute name="body" value="/jsp/volumetric/volumetric.jsp" />
+	</definition> -->
+	<definition name="volumetric" extends="baseLayout">
+		<put-attribute name="title" value="Input Baseline" />
+		<put-attribute name="body" value="/jsp/volumetric/volumetricInputBaseline.jsp" />
+	</definition>
+	
+	
+	<!-- Reports -->
+	<definition name="viewReports" extends="baseLayout">
+    	<put-attribute name="title"  value="View Reports"/>
+      	<put-attribute name="body"  value="/jsp/reports/ReportView.jsp"/>
+ 	 </definition>
+ 	 
+ 	 <definition name="reportFTESummary" extends="baseLayout">
+    	<put-attribute name="title"  value="View Reports"/>
+      	<put-attribute name="body"  value="/jsp/reports/reportFTESummary.jsp"/>
+ 	 </definition>
+ 	 
+ 	  <definition name="reportCostSummary" extends="baseLayout">
+    	<put-attribute name="title"  value="View Reports"/>
+      	<put-attribute name="body"  value="/jsp/reports/reportCostSummary.jsp"/>
+ 	 </definition>
+ 	 
+ 	   <definition name="staffingPyramidReport" extends="baseLayout">
+    	<put-attribute name="title"  value="Staffing Pyramid Report"/>
+      	<put-attribute name="body"  value="/jsp/reports/staffingPyramidReport.jsp"/>
+ 	 </definition>
+ 	 
+ 	 <definition name="riskReport" extends="baseLayout">
+    	<put-attribute name="title"  value="View Risk Reports"/>
+      	<put-attribute name="body"  value="/jsp/reports/riskReport.jsp"/>
+ 	 </definition>
+ 	 
+ 	 <definition name="assumptionReport" extends="baseLayout">
+    	<put-attribute name="title"  value="View Assumption Reports"/>
+      	<put-attribute name="body"  value="/jsp/reports/assumptionReport.jsp"/>
+ 	 </definition>
+ 	 
+ 	 <definition name="dependencyReport" extends="baseLayout">
+    	<put-attribute name="title"  value="View Dependency Reports"/>
+      	<put-attribute name="body"  value="/jsp/reports/dependencyReport.jsp"/>
+ 	 </definition>
+ 	 
+ 	 
+	
+	
+	<definition name="popUpForOpportunityOwner" template="/jsp/solution/searchOpportunityOwner.jsp">
+	</definition>
+	
+	<definition name="popUpPyramid" template="/jsp/solution/popUpPyramid.jsp">
+	</definition>
+	
+	<definition name="updateRatePopup" template="/jsp/admin/rateUpdatePopup.jsp">
+	</definition>
+	
+	<definition name="rateManagement" extends="baseLayout">
+		<put-attribute name="title" value="Rate Management" />
+		<put-attribute name="body" value="/jsp/admin/financialManagement.jsp" />
+	</definition>
+	
+	<definition name="populateRateManagement" extends="baseLayout">
+		<put-attribute name="title" value="Rate Management" />
+		<put-attribute name="body" value="/jsp/admin/populateRate.jsp" />
+	</definition>
+	
+<!--  For Application Development -->
+	<definition name="demandSupport" template="/jsp/volumetric/demandSupport.jsp"></definition>
+	<definition name="designBuild" template="/jsp/volumetric/designBuild.jsp"></definition>
+	<definition name="deploymentRollOut" template="/jsp/volumetric/deploymentRollOut.jsp"></definition>
+	<definition name="postReleaseActivity" template="/jsp/volumetric/postReleaseActivity.jsp"></definition>
+
+	<definition name="e2EProcessQuality" template="/jsp/volumetric/e2EProcessQualityy.jsp"></definition>
+	
+	<definition name="reviewApplicationMaintenance" extends="baseLayout">
+		<put-attribute name="title" value="Review Am" />
+		<put-attribute name="body" value="/jsp/volumetric/reviewApplicationMaintenance.jsp" />
+	</definition>
+	<definition name="applicationMaintenanceHome" extends="baseLayout">
+		<put-attribute name="title" value="Review Am" />
+		<put-attribute name="body" value="/jsp/volumetric/ApplicationMaintenenceHome.jsp" />
+	</definition>
+	
+	
+	<!-- for new solution Lever -->
+	
+	<definition name="solutionLever" extends="baseLayout">
+		<put-attribute name="title" value="Apply Solution Lever" />
+		<put-attribute name="body" value="/jsp/solution/solutionLever.jsp" />
+	</definition>
+	
+	<definition name="costSummaryReportChart" extends="baseLayout">
+		<put-attribute name="title" value="Cost Summary Graphical Report" />
+		<put-attribute name="body" value="/jsp/reports/costSummaryReportChart.jsp" />
+	</definition>
+	
+	<definition name="fteChart" extends="baseLayout">
+		<put-attribute name="title" value="FTE Summary Graphical Report" />
+		<put-attribute name="body" value="/jsp/reports/fteSummaryChart.jsp" />
+	</definition>
+	
+</tiles-definitions>

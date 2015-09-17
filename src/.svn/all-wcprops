@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/repos/it_mssp_trunk/!svn/ver/2516/trunk/src
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/it_mssp_trunk/!svn/ver/2299/trunk/src/log4j.xml
+END
+email.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/it_mssp_trunk/!svn/ver/2893/trunk/src/email.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/it_mssp_trunk/!svn/ver/2314/trunk/src/applicationContext.xml
+END
+TermsAndConditions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/it_mssp_trunk/!svn/ver/2834/trunk/src/TermsAndConditions.properties
+END
+spring-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/it_mssp_trunk/!svn/ver/2155/trunk/src/spring-security.xml
+END
+AssumptionsAndDependencies.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/it_mssp_trunk/!svn/ver/2834/trunk/src/AssumptionsAndDependencies.properties
+END
+displaytag.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/it_mssp_trunk/!svn/ver/2863/trunk/src/displaytag.properties
+END
+ericsson_logo_pdf.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/it_mssp_trunk/!svn/ver/2384/trunk/src/ericsson_logo_pdf.jpg
+END
+applicationResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/it_mssp_trunk/!svn/ver/2729/trunk/src/applicationResources.properties
+END
+notificationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/notificationContext.xml
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/it_mssp_trunk/!svn/ver/2155/trunk/src/config.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/it_mssp_trunk/!svn/ver/1999/trunk/src/hibernate.properties
+END

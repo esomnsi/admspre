@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/it_mssp_trunk/!svn/ver/2868/trunk/src/com/ericsson/mssp/common/dao/impl
+END
+ManageUserAccessDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/it_mssp_trunk/!svn/ver/2868/trunk/src/com/ericsson/mssp/common/dao/impl/ManageUserAccessDAOImpl.java
+END
+LoginDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/1789/trunk/src/com/ericsson/mssp/common/dao/impl/LoginDAOImpl.java
+END
+BaseDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/it_mssp_trunk/!svn/ver/2713/trunk/src/com/ericsson/mssp/common/dao/impl/BaseDAOImpl.java
+END

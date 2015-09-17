@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/it_mssp_trunk/!svn/ver/2856/trunk/src/com/ericsson/mssp/volumetric/dao
+END
+VolumetricDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/it_mssp_trunk/!svn/ver/2850/trunk/src/com/ericsson/mssp/volumetric/dao/VolumetricDAO.java
+END
+ProductVolumetricDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/it_mssp_trunk/!svn/ver/2803/trunk/src/com/ericsson/mssp/volumetric/dao/ProductVolumetricDAO.java
+END
